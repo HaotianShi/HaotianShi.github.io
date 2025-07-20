@@ -68,7 +68,6 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 29. Dong, H., **Shi, H.**, Wang, G., & Zhao, F. (2012). Skillful use of technology to ensure equipment shape and position tolerance requirements. *Journal of Ordnance Equipment Engineering*, 33(12), 49–50. (中文核心期刊)
 
----
 
 ## Conference Proceedings & Presentations <br>
 1. Chen, T., **Shi, H**\*., Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. ASCE International Conference on Transportation and Development 2022 (pp. 48‑60). (Conference Proceedings)
@@ -197,35 +196,5 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 28. Chen T., Yao Z., **Shi H**. Method for improving cold start combustion of gasoline engine with variable residual waste gas rate: CN Patent Application CN 111550315B. 2022.
 
 29. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
-
-
-
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=_YbzjdUAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
-
 
 
