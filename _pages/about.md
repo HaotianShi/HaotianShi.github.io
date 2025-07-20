@@ -21,4 +21,4 @@ I recruit Ph.D. and Master’s students each year with backgrounds in transporta
 
 For More Information
 ------
-For any inquiries, please contact me at shihaotian95@tongji.edu.cn.
+For more information, please contact me at [shihaotian95@tongji.edu.cn](mailto:shihaotian95@tongji.edu.cn)
