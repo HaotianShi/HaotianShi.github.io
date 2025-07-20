@@ -197,4 +197,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 29. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
 
+## Standard Guidelines <br>
+1.	Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems (车路协同自动驾驶系统版本建设指南).
 
+2.	Study Report on Technical Development Roadmaps for Collaborative Automated Driving (车路协同自动驾驶技术发展路线图研究报告).
