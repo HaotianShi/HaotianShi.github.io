@@ -5,8 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Awards <br>
-
 - **The First OnSite Autonomous Driving Algorithm Challenge (第一届OnSite自动驾驶算法挑战赛) — Third Place**  
   Tongji University · Oct 2023  
 
