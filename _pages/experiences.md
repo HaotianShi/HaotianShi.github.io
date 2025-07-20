@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education Experiences <br>
 - **Ph.D. in Civil and Environmental Engineering (Transportation Engineering)**  
-  University of Wisconsin–Madison · Jun 2020 – May 2023 
+  University of Wisconsin–Madison · Jun 2020 – May 2023 (Supervised by Prof. [Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/)   
 
 - **M.S. in Computer Science**  
   University of Wisconsin–Madison · Jun 2020 – May 2022  
@@ -16,7 +16,7 @@ author_profile: true
   University of Wisconsin–Madison · Jan 2019 – May 2020  
 
 - **M.S. in Power Machinery & Engineering**  
-  Tianjin University · Sep 2017 – Jun 2020  
+  Tianjin University · Sep 2017 – Jun 2020 (Supervised by Prof. [Hua Zhao](https://www.linkedin.com/in/hua-zhao-7093bb15/?originalSubdomain=uk) and Prof. [Hui Xie](https://www.researchgate.net/profile/Hui-Xie-13))   
 
 - **B.S. in Computer Science & Technology**  
   Tianjin University · Sep 2013 – Jun 2017  
@@ -44,4 +44,4 @@ author_profile: true
   Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
 
 - **Research Assistant**  
-  National Key Laboratory of Engines, Tianjin University · Jan 2017 – Dec 2018 (Supervised by Prof. [Hua Zhao](https://www.linkedin.com/in/hua-zhao-7093bb15/?originalSubdomain=uk) and Prof. [Hui Xie](https://www.researchgate.net/profile/Hui-Xie-13))  
+  National Key Laboratory of Engines, Tianjin University · Jan 2017 – Dec 2018 
