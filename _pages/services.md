@@ -15,7 +15,6 @@ author_profile: true
 
 ## Proposal Writing Experiences <br>
 - Rural Autonomous Vehicle Research Program — U.S. DOT · USD 15 M · *Awarded* (Lead to write the proposal)  
-- CPS: Small NSF–DST — “Tragedy of the Commons” to “Emergent Cooperative Behavior” for Automated Vehicles · *Awarded*  
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment — FHWA · *Awarded*  
 - Digital‑Twin–Enabled Extended Predictive Safety Analysis for Mixed Traffic — EAR · *Awarded*  
 - Wildlife Crossing Hotspot Analysis — WisDOT · Co‑PI  
@@ -24,7 +23,6 @@ author_profile: true
 - Enabling Smart Cities with Cooperative Perception, Digital Twin & Automation — Exploratory Research Grant  
 - Center of Excellence on New Mobility & Automated Vehicles — FHWA  
 - Digital‑Twin System for Real‑Time Traffic Analysis & Accident Detection  
-- Extending the Wisconsin Work Zone Data Exchange to CAVs Using the Connected Reference Marker System — *In preparation*  
 - Connected Reference Marker System to Support Wisconsin Snowplow Operations  
 
 ## Review Services <br>
