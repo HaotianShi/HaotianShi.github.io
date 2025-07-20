@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching <br>
 ### Co‑Instructor  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
 
