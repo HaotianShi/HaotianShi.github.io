@@ -70,7 +70,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ---
 
-## Conference Proceedings & Presentations
+## Conference Proceedings & Presentations <br>
 1. Chen, T., **Shi, H**\*., Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. ASCE International Conference on Transportation and Development 2022 (pp. 48‑60). (Conference Proceedings)
 
 2. Zhou H., Huang H\*., Zhang P., Li X\*., **Shi H**\*, Long K. Online Physical Enhanced Residual Learning for Connected Autonomous Vehicles Platoon Centralized Control. IEEE Intelligent Vehicles Symposium 2024. arXiv preprint arXiv:2402.11468.
@@ -139,7 +139,64 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 34. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition).
 
+## Granted Invention Patents <br>
+1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
 
+2. Ran B., Li S., Cheng Y., Chen T., Dong S., Shi K, **Shi H**, Li X. Distributed driving systems and methods for automated vehicles: U.S. Patent Application 16/996,684 [P]. 2021.
+
+3. Ran B., Chen T., Dong S., Cheng Y., Zhang M., Li X., Li S., Shi K, **Shi H**, Yao Y., Mo Y., Liu H., Wu K., Yi R. Function allocation for automated driving systems: U.S. Patent Application 17/328,625 [P]. 2024.
+
+4. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control System: 17/840,237 [P]. 2024.
+
+5. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle (AV) Control System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,243 [P]. 2024.
+
+6. Ran B., Mao P., Lu W., Yi Z., Li L., Cheng Y., Xu L., Zheng Y., Chen T., **Shi H**, Wu K. Function allocation for automated driving systems: U.S. Patent Application 17/499,283 [P]. 2024.
+
+7. Ran B., Cheng Y., Li S., Tian K., Chen T., Dong S., Shi K, **Shi H**, Li X. Distributed driving with flexible roadside resources: U.S. Patent Application 12,046,136 [P]. 2024.
+
+8. Ran B., Zheng Y., Wang C., Cheng Y., Yao Y., Wu K., Chen T., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous vehicle cloud system: U.S. Patent Application 18/227,541 [P]. 2025.
+
+9. Ran B., Liang B., Zhao Y., Cheng Y., Yao Y., Wu K., Chen T., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle Intelligent System (AVIS). U.S. Patent Application 18/227,548 [P]. 2025.
+
+10. ROADSIDE EDGE COMPUTING SYSTEM FOR AUTONOMOUS VEHICLES. Ran B., An B., Zhou Z., Li M., Wu K., Cheng Y., Yao Y., **Shi H**, Chen T., Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. U.S. Patent Application 18/733,475 [P]. 2025.
+
+11. Ran B., Shi K, Lu W., Cheng Y., Zhang H., **Shi H**, Chen T., Liang B., Yao Y., Wu K., Fu S. Connected Reference Marker System: U.S. Patent Application 63/210,845 [P]. 2025.
+
+12. Ran B., Wang Z., Wu R., Jiang J., Cheng Y., Wu K., Yao Y., Chen T., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Vehicle AI Computing System (VACS) for Autonomous Driving. U.S. Patent Application 18/742,133 [P]. 2025.
+
+13. Ran B., Zhao K., Li H., Zhang M., Li S., Cheng Y., Chen Z., Ye J., Dong S., **Shi H**. Vehicle Intelligent Unit: U.S. Patent Application 63/175,158 [P]. 2025.
+
+14. Chen T., Ran B., Dong S., Wu K., Cheng Y., Li L., Li S., Li X., Mo Y., Yao Y., Shi K, **Shi H**, Li H. Systematic Intelligent System: U.S. Patent Application 17/537,593 [P]. 2025.
+
+15. Ran B., Dong S., Cheng Y., Chen T., Li S., Li X., Shi K, **Shi H**, Wu K., Yao Y., Yi R. Device allocation system: U.S. Patent Application 17/192,441 [P]. 2025.
+
+16. **Shi H** & Liang X. A kind of AMT clutch friction plate rapid wear test system and method: CN Patent Application CN 105606362B. 2019.
+
+17. **Shi H**, Wu Z., Zhang J., Han Y., Lan S., & Liang X. AMT clutch plate rapid wear testing system: CN Patent Application CN 205449493U. 2016.
+
+18. **Shi H**, Wu Z., Han Y., Zhang J., Lan S., & Liang X. Automobile suspension system vibration energy recovering apparatus. CN 105252987A.
+
+19. **Shi H**, Wu Z., Lan S., Han Y., Zhang J., & Liang X. Vehicle shock absorber vibration energy recovery unit: CN Patent Application CN 205123547U. 2016.
+
+20. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. A kind of vehicle shock absorber vibration energy recovery device: CN Patent Application CN105226910A. 2016.
+
+21. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. Car suspension system vibration energy recovery unit: CN Patent Application CN205112909U. 2016.
+
+22. Ran B., Zhao K., Li H., Zhang M., Chen Z., Jiang J., Wu R., Zhang W., He S., Li S., Cheng Y., **Shi H**. Vehicle-mounted intelligent unit with fusion perception and collaborative decision function and control method: CN Patent Application CN 113954879B. 2023.
+
+23. Nie Q., Zhang H., Ou J., Pjing, Yue P., Zhou Y., **Shi H**, Xiao X. Multi-strategy fusion control method for bus operation in intelligent network environment. CN115691196A. 2023.
+
+24. Ran B., Li S., Cheng Y., Chen T., Dong S., Shi K, **Shi H**, Li X. Distributed driving system and method for automatically driving vehicle: CN Patent Application CN 114585876B. 2023.
+
+25. Li S., Ran B., Cheng Y., Chen Z., He S., Rui Y., Li R., Gu H., Li L., Chen T., Li X., Dong S., Shi K, **Shi H**, Yao Y., Wu K., Zhang X. Intelligent roadside tool box: CN Patent Application CN 113496602B. 2023.
+
+26. Ran B., Liang B., Lu W., Yi X., Rui Y., Kong L., Gong Y., Shi K, **Shi H**, Cheng Y., Chen T., He S., Yao Y., Wu K., Fu S. Virtual road configuration module: CN Patent Application CN114664116B. 2023.
+
+27. Chen T., **Shi H**, and Yao Z. Gasoline engine starting method combining variable oil injection strategy with waste gas energy utilization: CN Patent Application CN 111550322B. 2022.
+
+28. Chen T., Yao Z., **Shi H**. Method for improving cold start combustion of gasoline engine with variable residual waste gas rate: CN Patent Application CN 111550315B. 2022.
+
+29. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
 
 
 
