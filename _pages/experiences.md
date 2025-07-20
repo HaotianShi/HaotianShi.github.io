@@ -24,7 +24,7 @@ author_profile: true
 - **B.S. in Energy & Power Engineering**  
   Tianjin University · Sep 2013 – Jun 2017
 
-  ## Professional Experiences <br>
+## Professional Experiences <br>
 - **Associate Professor (Tenured)**  
   Tongji University, College of Transportation · April 2025 – Present
 
