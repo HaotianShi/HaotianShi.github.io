@@ -14,7 +14,7 @@ author_profile: true
 - Senior Member — China Highway & Transportation Society (CHTS)
 
 ## Proposal Writing Experiences <br>
-- Rural Autonomous Vehicle Research Program — U.S. DOT · USD 15 M · *Awarded* (Lead author)  
+- Rural Autonomous Vehicle Research Program — U.S. DOT · USD 15 M · *Awarded* (Lead to write the proposal)  
 - CPS: Small NSF–DST — “Tragedy of the Commons” to “Emergent Cooperative Behavior” for Automated Vehicles · *Awarded*  
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment — FHWA · *Awarded*  
 - Digital‑Twin–Enabled Extended Predictive Safety Analysis for Mixed Traffic — EAR · *Awarded*  
