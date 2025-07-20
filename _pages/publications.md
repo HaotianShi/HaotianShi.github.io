@@ -20,7 +20,7 @@ author_profile: true
 
 6. **Shi, H.**, Dong, S., Wu, Y., Nie, Q., Zhou, Y., & Ran, B. (2024). Generative adversarial network for car‑following trajectory generation and anomaly detection. *Journal of Intelligent Transportation Systems*, 28(1), 1–14. (SCI, JIF: 2.8, Q2)
 
-7. Wu, K., Zhou, Y., **Shi, H***., Li, X., & Ran, B. (2023). Graph‑Based Interaction‑Aware Multimodal Vehicle Trajectory Prediction. *IEEE Transactions on Intelligent Vehicles*, 9(2), 3630–3643. (SCI, JIF: 14.0, Q1)
+7. Wu, K., Zhou, Y., **Shi, H****., Li, X., & Ran, B. (2023). Graph‑Based Interaction‑Aware Multimodal Vehicle Trajectory Prediction. *IEEE Transactions on Intelligent Vehicles*, 9(2), 3630–3643. (SCI, JIF: 14.0, Q1)
 
 8. Nie, Q., Ou, J., Zhang, H., Li, S., Lu, K., & **Shi, H***. (2024). A Robust Integrated Multi‑Strategy Bus Control System via Deep Reinforcement Learning. *Engineering Applications of Artificial Intelligence*, 133, 107986. (SCI, JIF: 7.5, Q1)
 
