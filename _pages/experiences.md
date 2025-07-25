@@ -44,7 +44,7 @@ author_profile: true
   
 - **Project Assistant**  
   Wisconsin Traffic Operations and Safety ([TOPS](https://topslab.wisc.edu/)) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
-  (Work with Dr. [Steven Parker](https://topslab.wisc.edu/about/people/steven-parker/)
+  (Work with Dr. [Steven Parker](https://topslab.wisc.edu/about/people/steven-parker/))
 
 - **Teaching Assistant**  
   Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
