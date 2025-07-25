@@ -8,7 +8,6 @@ author_profile: true
 ## Educational Experiences <br>
 - **Ph.D. in Civil and Environmental Engineering (Transportation Engineering)**  
   University of Wisconsin–Madison · Jun 2020 – May 2023
-
   (Supervised by Prof. [Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/))   
 
 - **M.S. in Computer Science**  
