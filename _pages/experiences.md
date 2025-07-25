@@ -50,5 +50,5 @@ author_profile: true
   Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
 
 - **Research Assistant**  
-  [National Key Laboratory of Engines](https://en.tju.edu.cn/info/1035/1375.htm), Tianjin University · Jan 2017 – Dec 2018
+  [National Key Laboratory of Engines](https://en.tju.edu.cn/info/1035/1375.htm), Tianjin University · Jan 2017 – Dec 2018 <br>
   (Advised by Prof.[Tao Chen](https://me.tju.edu.cn/en_faculty_teachers.action?cla=5&teacherid=1870)）
