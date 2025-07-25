@@ -33,7 +33,7 @@ author_profile: true
 
 - **Research Associate**  
   Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 <br>
-  (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/)
+  (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/))
 
 - **Co‑Instructor, “Traffic Management and Control” (CEE 574)**  
   University of Wisconsin–Madison · Sep 2024 – Present  
