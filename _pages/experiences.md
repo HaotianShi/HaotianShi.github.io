@@ -16,7 +16,7 @@ author_profile: true
   University of Wisconsin–Madison · Jan 2019 – May 2020  
 
 - **M.S. in Power Machinery & Engineering**  
-  Tianjin University · Sep 2017 – Jun 2020 (Supervised by Prof. [Hua Zhao](https://www.linkedin.com/in/hua-zhao-7093bb15/?originalSubdomain=uk) and Prof. [Hui Xie](https://www.researchgate.net/profile/Hui-Xie-13))   
+  Tianjin University · Sep 2017 – Jun 2020 (Supervised by Prof. [Hua Zhao](https://www.brunel.ac.uk/people/hua-zhao) and Prof. [Hui Xie](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1565))   
 
 - **B.S. in Computer Science & Technology**  
   Tianjin University · Sep 2013 – Jun 2017  
@@ -26,22 +26,22 @@ author_profile: true
 
 ## Professional Experiences <br>
 - **Associate Professor (Tenured)**  
-  Tongji University, College of Transportation · April 2025 – Present
+  Tongji University, College of Transportation · April 2025 – Present (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN) in the [TOPS](https://tops.tongji.edu.cn/))
 
 - **Research Associate**  
-  Connected & Autonomous Transportation Systems Laboratory, University of Wisconsin–Madison · May 2023 – March 2025
+  Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/)
 
 - **Co‑Instructor, “Traffic Management and Control” (CEE 574)**  
   University of Wisconsin–Madison · Sep 2024 – Present  
 
 - **Research Assistant**  
-  Connected Automated Vehicle Highway Research Group, University of Wisconsin–Madison · Jan 2019 – March 2023
+  Connected Automated Vehicle Highway Research Group ([CAVH](https://cavh.cee.wisc.edu/)), University of Wisconsin–Madison · Jan 2019 – March 2023
   
 - **Project Assistant**  
-  Wisconsin Traffic Operations and Safety Lab, University of Wisconsin–Madison · Jan 2019 – March 2023  
+  Wisconsin Traffic Operations and Safety ([TOPS](https://topslab.wisc.edu/)) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023  
 
 - **Teaching Assistant**  
   Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
 
 - **Research Assistant**  
-  National Key Laboratory of Engines, Tianjin University · Jan 2017 – Dec 2018 
+  [National Key Laboratory of Engines](https://en.tju.edu.cn/info/1035/1375.htm), Tianjin University · Jan 2017 – Dec 2018 
