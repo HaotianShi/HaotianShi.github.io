@@ -26,7 +26,7 @@ author_profile: true
 
 ## Professional Experiences <br>
 - **Associate Professor (Tenured)**  
-  Tongji University, College of Transportation · April 2025 – Present (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN) in the [TOPS](https://tops.tongji.edu.cn/))
+  Tongji University, College of Transportation · April 2025 – Present (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN))
 
 - **Research Associate**  
   Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/)
