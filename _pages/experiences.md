@@ -36,7 +36,7 @@ author_profile: true
   (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/))
 
 - **Co‑Instructor, “Traffic Management and Control” (CEE 574)**  
-  University of Wisconsin–Madison · Sep 2024 – Present  
+  University of Wisconsin–Madison · Sep 2024 – Dec 2024  
 
 - **Research Assistant**  
   Connected Automated Vehicle Highway Research Group ([CAVH](https://cavh.cee.wisc.edu/)), University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
