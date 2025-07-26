@@ -17,8 +17,9 @@ With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixe
 In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both HVs and AVs. This provides critical information about the driving characteristics of surrounding vehicles for CAVs to optimize their decision-making processes. However, current car-following models based on either physics or ML often struggle to accurately capture the uncertainty in driving behaviors and typically overlook the influence of macroscopic traffic flow (traffic dynamics) on individual driving behaviors. In this regard, We have developed models using both physics-based approaches and ML techniques. 
 
 ### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)  
-![TrajGAN Image](/images/gan.png)  
-*Abstract:*  
+<div style="float: left; margin-right: 15px;">
+  <img src="/images/gan.png" width="200px" />
+</div>
 Car-following trajectory generation and anomaly detection are critical functions in the sensing module of an automated vehicle. However, developing models that capture realistic trajectory data distribution and detect anomalous driving behaviors could be challenging. This paper proposes ‘TrajGAN’, an unsupervised learning approach based on the Generative Adversarial Network (GAN) to exploit vehicle car following trajectory data for generation and anomaly detection. The proposed TrajGAN consists of two modules, an encoder-decoder Long Short-Term Memory (LSTM)-based generator and an LSTM-multilayer perceptron (MLP) based discriminator, whose former component is used to generate vehicular car following trajectories and the latter one is for trajectory anomaly detection. By letting these two modules game with each other in training, we can simultaneously achieve robust trajectory generators and anomaly detectors. Trained with the Next Generation Simulation (NGSIM) dataset, TrajGAN can generate realistic trajectories with a similar distribution of training data and identify a manifold of anomalous trajectories based on an anomaly scoring scheme. Simulation results indicate that the proposed approach is efficient in reproducing artificial trajectories and identifying anomalous driving behaviors.
 
 ---
