@@ -20,7 +20,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <!-- Left Side: Image -->
-<div style="flex-basis: 40%; padding-right: 20px;">
+<div style="flex-basis: 40%; padding-right: 20px; float: left;">
   <img src="/images/gan.png" width="200px" />
 </div>
 
@@ -31,7 +31,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 </div>
 <hr style="border-color: lightgray; margin-top: 20px;">
-
 ---
 
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
