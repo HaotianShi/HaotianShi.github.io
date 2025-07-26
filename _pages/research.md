@@ -87,19 +87,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 ---
 
-### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <!-- Image Section with dynamic sizing -->
-  <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="/images/FollowGen.png" style="max-width: 350px; height: auto;" />
-  </div>
-  <!-- Abstract Section -->
-  <div style="flex: 1;">
-    <p>Vehicle trajectory prediction is crucial for advancing autonomous driving and advanced driver assistance systems (ADAS). Although deep learning-based approaches - especially those utilizing transformer-based and generative models - have markedly improved prediction accuracy by capturing complex, non-linear patterns in vehicle dynamics and traffic interactions, they frequently overlook detailed car-following behaviors and the inter-vehicle interactions critical for real-world driving applications, particularly in fully autonomous or mixed traffic scenarios. To address the issue, this study introduces a scaled noise conditional diffusion model for car-following trajectory prediction, which integrates detailed inter-vehicular interactions and car-following dynamics into a generative framework, improving both the accuracy and plausibility of predicted trajectories. The model utilizes a novel pipeline to capture historical vehicle dynamics by scaling noise with encoded historical features within the diffusion process. Particularly, it employs a cross-attention-based transformer architecture to model intricate inter-vehicle dependencies, effectively guiding the denoising process and enhancing prediction accuracy. Experimental results on diverse real-world driving scenarios demonstrate the state-of-the-art performance and robustness of the proposed method.</p>
-  </div>
-</div>
-
----
 
 ### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
