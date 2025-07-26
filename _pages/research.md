@@ -25,7 +25,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
   <!-- Abstract Section -->
   <div style="flex: 1;">
     <p><strong>Abstract:</strong></p>
-    <p>This work introduces TrajGAN, a novel generative learning model based on Generative Adversarial Networks (GAN) for generating car-following trajectories. The model effectively reproduces naturalistic trajectory distributions and generates realistic vehicle trajectories, which can be applied in simulating human-driven vehicle behaviors in mixed traffic environments. The model contributes to advancing autonomous vehicle decision-making by providing realistic data for training and testing vehicle behavior prediction systems.</p>
+    <p>This work introduces TrajGAN, a novel generative learning model based on Generative Adversarial Networks (GAN) for generating car-following trajectories. The model effectively reproduces naturalistic trajectory distributions and generates realistic vehicle trajectories, which can be applied in simulating human-driven vehicle behaviors in mixed traffic environments. The model contributes to advancing autonomous vehicle decision-making by providing realistic data for training and testing vehicle behavior prediction systemss.</p>
   </div>
 </div>
 
