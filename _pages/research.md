@@ -13,10 +13,25 @@ Over the years, I have investigated the following three broad areas of research:
 ### 1 Interactive driving behavior modeling and prediction
 With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixed traffic flows have shifted significantly compared to traditional traffic conditions. In mixed traffic, human-driven vehicle (HV) behaviors exhibit greater variability and uncertainty, particularly in longitudinal car-following and lateral maneuvers. These factors heighten traffic safety risks and complicate the decision-making processes of AVs. To address these challenges, we have developed novel modeling and prediction methodologies for both AVs and HVs, focusing on longitudinal and lateral driving behaviors. These methodologies leverage approaches including physics-based models, machine learning (ML), physics-informed machine learning (PIML), and foundation models (FMs)/large language models (LLMs).
 
-### 1.1  Multi-scale car-following and traffic dynamics modeling methodologies
+### 1.1  Multi-scale car-following and traffic dynamics modeling methodologies for HVs and AVs
 In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both HVs and AVs. This provides critical information about the driving characteristics of surrounding vehicles for CAVs to optimize their decision-making processes. However, current car-following models based on either physics or ML often struggle to accurately capture the uncertainty in driving behaviors and typically overlook the influence of macroscopic traffic flow (traffic dynamics) on individual driving behaviors. In this regard, We have developed models using both physics-based approaches and ML techniques. 
 
 ### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/gan.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p><strong>Abstract:</strong></p>
+    <p>This work introduces TrajGAN, a novel generative learning model based on Generative Adversarial Networks (GAN) for generating car-following trajectories. The model effectively reproduces naturalistic trajectory distributions and generates realistic vehicle trajectories, which can be applied in simulating human-driven vehicle behaviors in mixed traffic environments. The model contributes to advancing autonomous vehicle decision-making by providing realistic data for training and testing vehicle behavior prediction systems.</p>
+  </div>
+</div>
+
+---
+
+### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <!-- Fixed Size Image Section -->
   <div style="flex: 0 0 200px; margin-right: 20px;">
@@ -24,7 +39,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
   </div>
   <!-- Abstract Section -->
   <div style="flex: 1;">
-    <p>Car-following trajectory generation and anomaly detection are critical functions in the sensing module of an automated vehicle. However, developing models that capture realistic trajectory data distribution and detect anomalous driving behaviors could be challenging. This paper proposes ‘TrajGAN’, an unsupervised learning approach based on the Generative Adversarial Network (GAN) to exploit vehicle car following trajectory data for generation and anomaly detection. The proposed TrajGAN consists of two modules, an encoder-decoder Long Short-Term Memory (LSTM)-based generator and an LSTM-multilayer perceptron (MLP) based discriminator, whose former component is used to generate vehicular car following trajectories and the latter one is for trajectory anomaly detection. By letting these two modules game with each other in training, we can simultaneously achieve robust trajectory generators and anomaly detectors. Trained with the Next Generation Simulation (NGSIM) dataset, TrajGAN can generate realistic trajectories with a similar distribution of training data and identify a manifold of anomalous trajectories based on an anomaly scoring scheme. Simulation results indicate that the proposed approach is efficient in reproducing artificial trajectories and identifying anomalous driving behaviors.</p>
+    <p>Vehicle trajectory prediction is crucial for advancing autonomous driving and advanced driver assistance systems (ADAS). Although deep learning-based approaches - especially those utilizing transformer-based and generative models - have markedly improved prediction accuracy by capturing complex, non-linear patterns in vehicle dynamics and traffic interactions, they frequently overlook detailed car-following behaviors and the inter-vehicle interactions critical for real-world driving applications, particularly in fully autonomous or mixed traffic scenarios. To address the issue, this study introduces a scaled noise conditional diffusion model for car-following trajectory prediction, which integrates detailed inter-vehicular interactions and car-following dynamics into a generative framework, improving both the accuracy and plausibility of predicted trajectories. The model utilizes a novel pipeline to capture historical vehicle dynamics by scaling noise with encoded historical features within the diffusion process. Particularly, it employs a cross-attention-based transformer architecture to model intricate inter-vehicle dependencies, effectively guiding the denoising process and enhancing prediction accuracy. Experimental results on diverse real-world driving scenarios demonstrate the state-of-the-art performance and robustness of the proposed method.</p>
   </div>
 </div>
 
