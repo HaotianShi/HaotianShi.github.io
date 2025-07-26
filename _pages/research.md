@@ -21,7 +21,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <!-- Left Side: Image -->
 <div style="flex-basis: 40%; padding-right: 20px;">
-  ![Research Image](https://HaotianShi.github.io/images/gan.png)
+  <img src="/images/gan.png" width="200px" />
 </div>
 
 <!-- Right Side: Abstract -->
@@ -33,7 +33,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <hr style="border-color: lightgray; margin-top: 20px;">
 
 ---
-s
+
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
 Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. To address this challenge, we proposed [Graph-based Interaction-aware Multimodal Trajectory Prediction (GIMTP)](https://ieeexplore.ieee.org/abstract/document/10352973/) and Relational [Hypergraph Interaction-informed Neural mOtion generator (RHINO)](https://arxiv.org/abs/2409.11676) methodologies. GIMTP constructs a dynamic adjacency matrix to capture vehicle interactions comprehensively and leverages a Diffusion Graph Convolutional Network (DGCN) to model the evolving relationship between past and future states. RHINO leverages hypergraph-based relational reasoning by integrating a multi-scale hypergraph neural network to model group-wise interactions among multiple vehicles and their multimodal driving behaviors, thereby enhancing motion prediction accuracy and reliability. Using the probabilistic frameworks, GIMTP and RHINO accurately predict future driving intentions (e.g., going straight, left lane change, right lane change) and the two-dimensional longitudinal and lateral trajectory over a time horizon of several seconds. 
 
