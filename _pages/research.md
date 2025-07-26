@@ -45,17 +45,14 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 ---
 
 ### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729)  
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <!-- Image Section with dynamic sizing -->
-  <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="/images/MPL.png" style="max-width: 350px; height: auto;" />
-  </div>
-  <!-- Abstract Section -->
-  <div style="flex: 1;">
-    <p>As advanced driver-assistance systems (ADAS) are more widely implemented—particularly the adaptive cruise control (ACC) system in car-following behavior—accurate modeling of ACC vehicles’ behavior is needed. Currently, each vehicle manufacturer develops its ACC systems with unique controllers, creating “black boxes” that are not openly accessible for analysis. In addition, the vehicle dynamics that use sensor and dynamics systems introduce complicated inherent nonlinearity in ACC-equipped vehicles’ behaviors (hereinafter referred to as ACC vehicles). Given the complex inherent nonlinearity of ACC systems, traditional vehicle behavior modeling methods have to trade off between modeling accuracy and interpretability. To address these challenges, this study introduces an innovative multivariate piecewise linear (MPL) car-following modeling methodology to emulate any ACC system from observational data. The MPL modeling methodology allows for several empirical quantifications of the unknown design parameters of the different ACC systems as they are manifested in the vehicles’ driving behavior. This approach distinguishes itself from traditional piecewise linear models by incorporating multiple breakpoints. These breakpoints serve to capture the inherent nonlinearity of ACC vehicle dynamics across a range of linear functions. Simultaneously, these breakpoints are empirically derived from actual trajectory data, thereby enhancing modeling accuracy. A case study illustrates four calibrated MPL models based on a large-scale field automated vehicle experiment dataset. Compared to other models, the MPL models show sufficient accuracy and interpretability. This robust and transparent modeling methodology may serve as an analytical tool for future transportation planning.</p>
-  </div>
-</div>
+<p>
+  <img src="/images/MPL.png" alt="MPL model"
+       style="float:left; width:clamp(140px,28%,300px); height:auto; margin:0 16px 8px 0;" />
+  As advanced driver-assistance systems (ADAS) are more widely implemented—particularly the adaptive cruise control (ACC) system in car-following behavior—accurate modeling of ACC vehicles’ behavior is needed. Currently, each vehicle manufacturer develops its ACC systems with unique controllers, creating “black boxes” that are not openly accessible for analysis. In addition, the vehicle dynamics that use sensor and dynamics systems introduce complicated inherent nonlinearity in ACC-equipped vehicles’ behaviors (hereinafter referred to as ACC vehicles). Given the complex inherent nonlinearity of ACC systems, traditional vehicle behavior modeling methods have to trade off between modeling accuracy and interpretability. To address these challenges, this study introduces an innovative multivariate piecewise linear (MPL) car-following modeling methodology to emulate any ACC system from observational data. The MPL modeling methodology allows for several empirical quantifications of the unknown design parameters of the different ACC systems as they are manifested in the vehicles’ driving behavior. This approach distinguishes itself from traditional piecewise linear models by incorporating multiple breakpoints. These breakpoints serve to capture the inherent nonlinearity of ACC vehicle dynamics across a range of linear functions. Simultaneously, these breakpoints are empirically derived from actual trajectory data, thereby enhancing modeling accuracy. A case study illustrates four calibrated MPL models based on a large-scale field automated vehicle experiment dataset. Compared to other models, the MPL models show sufficient accuracy and interpretability. This robust and transparent modeling methodology may serve as an analytical tool for future transportation planning.
+</p>
 
+<div style="clear: both;"></div>
+<hr/>
 ---
 
 ### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)  
@@ -148,8 +145,35 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 ---
 
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
-Motivated by the emergent reasoning capabilities of LLMs and VLMs, I focus on the application of VLMs in enhancing prediction and planning for autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. One of the key frameworks we have developed is [V2X-VLM](https://arxiv.org/pdf/2408.09251), an end-to-end (E2E) vehicle-infrastructure cooperative autonomous driving system that integrates Vehicle-to-Everything (V2X) communication and VLMs. This system enhances situational awareness and trajectory prediction by fusing data from vehicle-mounted cameras, infrastructure sensors, and textual descriptions. Contrastive learning is utilized to refine feature discrimination further, enabling the model to interpret the driving environment robustly. In parallel, we have explored the integration of model-based planning with VLMs through the [VLM-MPC](https://arxiv.org/pdf/2408.04821) framework. This system combines VLMs' reasoning abilities with a Model Predictive Controller (MPC) to create a closed-loop planning mechanism. The VLM generates high-level driving parameters, which the MPC uses to execute real-time vehicle planning while accounting for factors like engine lag and state feedback. Tested on the nuScenes dataset, VLM-MPC has been shown to enhance driving smoothness and safety across various scenarios significantly.
-Fig.5 
+Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
+
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Goal.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Vehicle trajectory prediction plays a vital role in intelligent transportation systems and autonomous driving, as it significantly affects vehicle behavior planning and control, thereby influencing traffic safety and efficiency. Numerous studies have been conducted to predict short-term vehicle trajectories in the immediate future. However, long-term trajectory prediction remains a major challenge due to accumulated errors and uncertainties. Additionally, balancing accuracy with interpretability in the prediction is another challenging issue in predicting vehicle trajectory. To address these challenges, this paper proposes a \textbf{G}oal-based \textbf{N}eural \textbf{P}hysics Vehicle Trajectory Prediction Model (\textbf{GNP}). The GNP model simplifies vehicle trajectory prediction into a two-stage process: determining the vehicle's goal and then choosing the appropriate trajectory to reach this goal. The GNP model contains two sub-modules to achieve this process. The first sub-module employs a multi-head attention mechanism to accurately predict \textbf{goals}. The second sub-module integrates a deep learning model with a physics-based social force model to progressively predict the complete trajectory using the generated goals. The GNP demonstrates state-of-the-art long-term prediction accuracy compared to four baseline models. We provide interpretable visualization results to highlight the multi-modality and inherent nature of our neural physics framework. Additionally, ablation studies are performed to validate the effectiveness of our key designs. The source code for this work are available at: \url{https://github.com/mcgrche/GNP--Goal-based-Neural-Physics-Vehicle-Trajectory-Prediction-Model}.</p>
+  </div>
+</div>
+
+---
+
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Goal.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Vehicle trajectory prediction plays a vital role in intelligent transportation systems and autonomous driving, as it significantly affects vehicle behavior planning and control, thereby influencing traffic safety and efficiency. Numerous studies have been conducted to predict short-term vehicle trajectories in the immediate future. However, long-term trajectory prediction remains a major challenge due to accumulated errors and uncertainties. Additionally, balancing accuracy with interpretability in the prediction is another challenging issue in predicting vehicle trajectory. To address these challenges, this paper proposes a \textbf{G}oal-based \textbf{N}eural \textbf{P}hysics Vehicle Trajectory Prediction Model (\textbf{GNP}). The GNP model simplifies vehicle trajectory prediction into a two-stage process: determining the vehicle's goal and then choosing the appropriate trajectory to reach this goal. The GNP model contains two sub-modules to achieve this process. The first sub-module employs a multi-head attention mechanism to accurately predict \textbf{goals}. The second sub-module integrates a deep learning model with a physics-based social force model to progressively predict the complete trajectory using the generated goals. The GNP demonstrates state-of-the-art long-term prediction accuracy compared to four baseline models. We provide interpretable visualization results to highlight the multi-modality and inherent nature of our neural physics framework. Additionally, ablation studies are performed to validate the effectiveness of our key designs. The source code for this work are available at: \url{https://github.com/mcgrche/GNP--Goal-based-Neural-Physics-Vehicle-Trajectory-Prediction-Model}.</p>
+  </div>
+</div>
+
+---
 
 ### 2  Optimal control of CAVs in mixed traffic environments
 To address the challenges posed by the stochastic nature of human-driven behaviors, the heterogeneity in traffic composition, and the partial observability characteristic of complex mixed traffic conditions involving both CAVs and HVs, optimizing CAV driving behavior from a systemic traffic flow perspective remains particularly difficult. In response to these challenges, we have conducted extensive research on decision-making control for CAVs in mixed traffic environments. By integrating the core principles of physics models, control theory, and traffic flow theory into a deep reinforcement learning (DRL) framework, I developed the physics-informed deep reinforcement learning (PIDRL) methodology, specifically designed for the intelligent control of CAVs and other ITS agents in mixed traffic scenarios. This generic methodology has proven versatile and effective in various applications, including CAV control and intelligent bus operations. It has been validated in improving key system-level performance metrics such as safety, efficiency, stability, and energy utilization.
