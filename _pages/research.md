@@ -19,8 +19,8 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 ### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <!-- Fixed Size Image Section -->
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/gan.png" width="200px" />
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/gan.png" width="300px" />
   </div>
   <!-- Abstract Section -->
   <div style="flex: 1;">
