@@ -30,6 +30,20 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 ---
 
+### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/FollowGen.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>The precise estimation of macroscopic traffic parameters, such as travel time and fuel consumption, is essential for the optimization of traffic management systems. Despite its importance, the comprehensive acquisition of vehicle trajectory data for the calculation of these macroscopic measures presents a challenge. To bridge this gap, this study aims to calibrate car-following models capable of predicting both microscopic measures and macroscopic measures. We conduct a numerical analysis to trace the cumulative process of model prediction errors across various measurements, and our findings indicate that macroscopic measures encapsulate the accumulation of model errors. By incorporating macroscopic measures into vehicle model calibration, we can mitigate the impact of noise on microscopic data measurements. We compare three car-following model calibration methods: MiC (using microscopic measurements), MaC (using macroscopic measurements), and BiC (using both microscopic and macroscopic measurements)—utilizing real-world trajectory data. The BiC method emerges as the most successful in reconstructing vehicle trajectories and accurately estimating travel time and fuel consumption, whereas the MiC method leads to overfitting and inaccurate macro-measurement predictions. This study underscores the importance of bi-scale calibration for precise traffic and energy consumption predictions, laying the groundwork for future research aimed at enhancing traffic management strategies.</p>
+  </div>
+</div>
+
+---
+
 ### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <!-- Image Section with dynamic sizing -->
