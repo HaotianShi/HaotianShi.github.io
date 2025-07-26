@@ -34,7 +34,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <!-- Image Section with dynamic sizing -->
   <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="/images/FollowGen.png" style="max-width: 350px; height: auto;" />
+    <img src="/images/BiScale.png" style="max-width: 350px; height: auto;" />
   </div>
   <!-- Abstract Section -->
   <div style="flex: 1;">
