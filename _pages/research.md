@@ -44,6 +44,21 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 ---
 
+### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Koopman.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Given the complexity and nonlinearity inherent in traffic dynamics within vehicular platoons, there exists a critical need for a modeling methodology with high accuracy while concurrently achieving physical analyzability. Currently, there are two predominant approaches: the physics model-based approach and the Artificial Intelligence (AI)–based approach. Knowing the facts that the physical-based model usually lacks sufficient modeling accuracy and potential function mismatches and the pure-AI-based method lacks analyzability, this paper innovatively proposes an AI-based Koopman approach to model the unknown nonlinear platoon dynamics harnessing the power of AI and simultaneously maintaining physical analyzability, with a particular focus on periods of traffic oscillation. Specifically, this research first employs a deep learning framework to generate the embedding function that lifts the original space into the embedding space. Given the embedding space descriptiveness, the platoon dynamics can be expressed as a linear dynamical system founded by the Koopman theory. Based on that, the routine of linear dynamical system analysis can be conducted on the learned traffic linear dynamics in the embedding space. By that, the physical interpretability and analyzability of model-based methods with the heightened precision inherent in data-driven approaches can be synergized. Comparative experiments have been conducted with existing modeling approaches, which suggest our method’s superiority in accuracy. Additionally, a phase plane analysis is performed, further evidencing our approach’s effectiveness in replicating the complex dynamic patterns. Moreover, the proposed methodology is proven to feature the capability of analyzing the stability, attesting to the physical analyzability.</p>
+  </div>
+</div>
+
+---
+
+
 ### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <!-- Image Section with dynamic sizing -->
