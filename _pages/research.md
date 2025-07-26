@@ -17,18 +17,20 @@ With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixe
 In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both HVs and AVs. This provides critical information about the driving characteristics of surrounding vehicles for CAVs to optimize their decision-making processes. However, current car-following models based on either physics or ML often struggle to accurately capture the uncertainty in driving behaviors and typically overlook the influence of macroscopic traffic flow (traffic dynamics) on individual driving behaviors. In this regard, We have developed models using both physics-based approaches and ML techniques. 
 
 ### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)  
-<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <!-- Fixed Size Image Section with inline style -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/gan.png" style="float: left; margin-right: 15px; width: 200px;" />
-  </div>
-  <!-- Abstract Section -->
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-    <p><strong>Abstract:</strong></p>
-    <p>This work introduces TrajGAN, a novel generative learning model based on Generative Adversarial Networks (GAN) for generating car-following trajectories. The model effectively reproduces naturalistic trajectory distributions and generates realistic vehicle trajectories, which can be applied in simulating human-driven vehicle behaviors in mixed traffic environments. The model contributes to advancing autonomous vehicle decision-making by providing realistic data for training and testing vehicle behavior prediction systems.</p>
-  </div>
+<!-- Left Side: Image -->
+<div style="flex-basis: 40%; padding-right: 20px;">
+  ![Research Image](https://HaotianShi.github.io/images/gan.png)
 </div>
+
+<!-- Right Side: Abstract -->
+<div style="flex-basis: 55%; line-height: 1.6;">
+  <p><strong>Abstract:</strong> In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both human-driven vehicles (HVs) and autonomous vehicles (AVs). This research introduces novel methods using both physics-based approaches and machine learning techniques. We developed "TrajGAN" and "FollowGen", generative models based on GANs and Diffusion Models for car-following trajectory generation. This allows for realistic trajectory simulations in urban and highway traffic settings, contributing to improved modeling of car-following behaviors.</p>
+</div>
+
+</div>
+<hr style="border-color: lightgray; margin-top: 20px;">
 
 ---
 
