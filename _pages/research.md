@@ -25,7 +25,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887)  
 <p>
@@ -36,7 +35,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729)  
 <p>
@@ -47,7 +45,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)  
 <p>
@@ -58,7 +55,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
 <p>
@@ -69,7 +65,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)  
 <p>
@@ -80,7 +75,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
 Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. We proposed the following methodologies to address the 2D trajectory prediction challenges.
@@ -94,7 +88,6 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676)  
 <p>
@@ -105,7 +98,6 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)  
 <p>
@@ -116,7 +108,6 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
@@ -130,7 +121,6 @@ Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus
 
 <div style="clear: both;"></div>
 <hr/>
----
 
 ### 2  Optimal control of CAVs in mixed traffic environments
 To address the challenges posed by the stochastic nature of human-driven behaviors, the heterogeneity in traffic composition, and the partial observability characteristic of complex mixed traffic conditions involving both CAVs and HVs, optimizing CAV driving behavior from a systemic traffic flow perspective remains particularly difficult. In response to these challenges, we have conducted extensive research on decision-making control for CAVs in mixed traffic environments. By integrating the core principles of physics models, control theory, and traffic flow theory into a deep reinforcement learning (DRL) framework, I developed the physics-informed deep reinforcement learning (PIDRL) methodology, specifically designed for the intelligent control of CAVs and other ITS agents in mixed traffic scenarios. This generic methodology has proven versatile and effective in various applications, including CAV control and intelligent bus operations. It has been validated in improving key system-level performance metrics such as safety, efficiency, stability, and energy utilization.
