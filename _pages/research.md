@@ -24,8 +24,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
   </div>
   <!-- Abstract Section -->
   <div style="flex: 1;">
-    <p><strong>Abstract:</strong></p>
-    <p>This work introduces TrajGAN, a novel generative learning model based on Generative Adversarial Networks (GAN) for generating car-following trajectories. The model effectively reproduces naturalistic trajectory distributions and generates realistic vehicle trajectories, which can be applied in simulating human-driven vehicle behaviors in mixed traffic environments. The model contributes to advancing autonomous vehicle decision-making by providing realistic data for training and testing vehicle behavior prediction systems.</p>
+    <p>Car-following trajectory generation and anomaly detection are critical functions in the sensing module of an automated vehicle. However, developing models that capture realistic trajectory data distribution and detect anomalous driving behaviors could be challenging. This paper proposes ‘TrajGAN’, an unsupervised learning approach based on the Generative Adversarial Network (GAN) to exploit vehicle car following trajectory data for generation and anomaly detection. The proposed TrajGAN consists of two modules, an encoder-decoder Long Short-Term Memory (LSTM)-based generator and an LSTM-multilayer perceptron (MLP) based discriminator, whose former component is used to generate vehicular car following trajectories and the latter one is for trajectory anomaly detection. By letting these two modules game with each other in training, we can simultaneously achieve robust trajectory generators and anomaly detectors. Trained with the Next Generation Simulation (NGSIM) dataset, TrajGAN can generate realistic trajectories with a similar distribution of training data and identify a manifold of anomalous trajectories based on an anomaly scoring scheme. Simulation results indicate that the proposed approach is efficient in reproducing artificial trajectories and identifying anomalous driving behaviors.</p>
   </div>
 </div>
 
@@ -33,9 +32,9 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 ### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-  <!-- Fixed Size Image Section -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/gan.png" width="300px" />
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/FollowGen.png" style="max-width: 350px; height: auto;" />
   </div>
   <!-- Abstract Section -->
   <div style="flex: 1;">
