@@ -103,10 +103,49 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 ---
 
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
-Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. To address this challenge, we proposed [Graph-based Interaction-aware Multimodal Trajectory Prediction (GIMTP)](https://ieeexplore.ieee.org/abstract/document/10352973/) and Relational [Hypergraph Interaction-informed Neural mOtion generator (RHINO)](https://arxiv.org/abs/2409.11676) methodologies. GIMTP constructs a dynamic adjacency matrix to capture vehicle interactions comprehensively and leverages a Diffusion Graph Convolutional Network (DGCN) to model the evolving relationship between past and future states. RHINO leverages hypergraph-based relational reasoning by integrating a multi-scale hypergraph neural network to model group-wise interactions among multiple vehicles and their multimodal driving behaviors, thereby enhancing motion prediction accuracy and reliability. Using the probabilistic frameworks, GIMTP and RHINO accurately predict future driving intentions (e.g., going straight, left lane change, right lane change) and the two-dimensional longitudinal and lateral trajectory over a time horizon of several seconds. 
+Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. We proposed the following methodologies to address the 2D trajectory prediction challenges.
 
-Moreover, we introduce the [Physics-Enhanced Residual Learning (PERL)](https://www.sciencedirect.com/science/article/pii/S277242472500006X) framework, a novel approach blending physics models with neural networks to predict system states, particularly in complex environments like oscillated vehicle trajectory and road traffic dynamics. PERL enhances a physics model's prediction by adding a corrective residual derived from an NN model, thereby leveraging the interpretability and accuracy of NN models.  
+### [Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/10352973)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Graph.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Predicting vehicle trajectories is crucial to ensuring automated vehicle operation efficiency and safety, particularly on congested multi-lane highways. In such dynamic environments, a vehicle's motion is determined by its historical behaviors as well as interactions with surrounding vehicles. These intricate interactions arise from unpredictable motion patterns, leading to a wide range of driving behaviors that warrant in-depth investigation. This study presents the Graph-based Interaction-aware Multi-modal Trajectory Prediction (GIMTP) framework, designed to probabilistically predict future vehicle trajectories by effectively capturing these interactions. Within this framework, vehicles' motions are conceptualized as nodes in a time-varying graph, and the traffic interactions are represented by a dynamic adjacency matrix. To holistically capture both spatial and temporal dependencies embedded in this dynamic adjacency matrix, the methodology incorporates the Diffusion Graph Convolutional Network (DGCN), thereby providing a graph embedding of both historical states and future states. Furthermore, we employ a driving intention-specific feature fusion, enabling the adaptive integration of historical and future embeddings for enhanced intention recognition and trajectory prediction. This model gives two-dimensional predictions for each mode of longitudinal and lateral driving behaviors and offers probabilistic future paths with corresponding probabilities, addressing the challenges of complex vehicle interactions and multi-modality of driving behaviors. Validation using real-world trajectory datasets demonstrates the efficiency and potential.</p>
+  </div>
+</div>
 
+---
+
+### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Hypergraph.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>The intricate nature of real-world driving environments, characterized by dynamic and diverse interactions among multiple vehicles and their possible future states, presents considerable challenges in accurately predicting the motion states of vehicles and handling the uncertainty inherent in the predictions. Addressing these challenges requires comprehensive modeling and reasoning to capture the implicit relations among vehicles and the corresponding diverse behaviors. This research introduces an integrated framework for autonomous vehicles (AVs) motion prediction to address these complexities, utilizing a novel \textbf{R}elational \textbf{H}ypergraph \textbf{I}nteraction-informed \textbf{N}eural m\textbf{O}tion generator (\texttt{RHINO}). \texttt{RHINO} leverages hypergraph-based relational reasoning by integrating a multi-scale hypergraph neural network to model group-wise interactions among multiple vehicles and their multi-modal driving behaviors, thereby enhancing motion prediction accuracy and reliability. Experimental validation using real-world datasets demonstrates the superior performance of this framework in improving predictive accuracy and fostering socially aware automated driving in dynamic traffic scenarios.</p>
+  </div>
+</div>
+
+---
+
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/Goal.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>The intricate nature of real-world driving environments, characterized by dynamic and diverse interactions among multiple vehicles and their possible future states, presents considerable challenges in accurately predicting the motion states of vehicles and handling the uncertainty inherent in the predictions. Addressing these challenges requires comprehensive modeling and reasoning to capture the implicit relations among vehicles and the corresponding diverse behaviors. This research introduces an integrated framework for autonomous vehicles (AVs) motion prediction to address these complexities, utilizing a novel \textbf{R}elational \textbf{H}ypergraph \textbf{I}nteraction-informed \textbf{N}eural m\textbf{O}tion generator (\texttt{RHINO}). \texttt{RHINO} leverages hypergraph-based relational reasoning by integrating a multi-scale hypergraph neural network to model group-wise interactions among multiple vehicles and their multi-modal driving behaviors, thereby enhancing motion prediction accuracy and reliability. Experimental validation using real-world datasets demonstrates the superior performance of this framework in improving predictive accuracy and fostering socially aware automated driving in dynamic traffic scenarios.</p>
+  </div>
+</div>
+
+---
 
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, I focus on the application of VLMs in enhancing prediction and planning for autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. One of the key frameworks we have developed is [V2X-VLM](https://arxiv.org/pdf/2408.09251), an end-to-end (E2E) vehicle-infrastructure cooperative autonomous driving system that integrates Vehicle-to-Everything (V2X) communication and VLMs. This system enhances situational awareness and trajectory prediction by fusing data from vehicle-mounted cameras, infrastructure sensors, and textual descriptions. Contrastive learning is utilized to refine feature discrimination further, enabling the model to interpret the driving environment robustly. In parallel, we have explored the integration of model-based planning with VLMs through the [VLM-MPC](https://arxiv.org/pdf/2408.04821) framework. This system combines VLMs' reasoning abilities with a Model Predictive Controller (MPC) to create a closed-loop planning mechanism. The VLM generates high-level driving parameters, which the MPC uses to execute real-time vehicle planning while accounting for factors like engine lag and state feedback. Tested on the nuScenes dataset, VLM-MPC has been shown to enhance driving smoothness and safety across various scenarios significantly.
