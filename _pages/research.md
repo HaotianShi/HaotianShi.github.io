@@ -87,6 +87,34 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 ---
 
+### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/FollowGen.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Vehicle trajectory prediction is crucial for advancing autonomous driving and advanced driver assistance systems (ADAS). Although deep learning-based approaches - especially those utilizing transformer-based and generative models - have markedly improved prediction accuracy by capturing complex, non-linear patterns in vehicle dynamics and traffic interactions, they frequently overlook detailed car-following behaviors and the inter-vehicle interactions critical for real-world driving applications, particularly in fully autonomous or mixed traffic scenarios. To address the issue, this study introduces a scaled noise conditional diffusion model for car-following trajectory prediction, which integrates detailed inter-vehicular interactions and car-following dynamics into a generative framework, improving both the accuracy and plausibility of predicted trajectories. The model utilizes a novel pipeline to capture historical vehicle dynamics by scaling noise with encoded historical features within the diffusion process. Particularly, it employs a cross-attention-based transformer architecture to model intricate inter-vehicle dependencies, effectively guiding the denoising process and enhancing prediction accuracy. Experimental results on diverse real-world driving scenarios demonstrate the state-of-the-art performance and robustness of the proposed method.</p>
+  </div>
+</div>
+
+---
+
+### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)  
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <!-- Image Section with dynamic sizing -->
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="/images/PERL.png" style="max-width: 350px; height: auto;" />
+  </div>
+  <!-- Abstract Section -->
+  <div style="flex: 1;">
+    <p>Vehicle trajectory prediction is crucial for advancing autonomous driving and advanced driver assistance systems (ADAS). Although deep learning-based approaches - especially those utilizing transformer-based and generative models - have markedly improved prediction accuracy by capturing complex, non-linear patterns in vehicle dynamics and traffic interactions, they frequently overlook detailed car-following behaviors and the inter-vehicle interactions critical for real-world driving applications, particularly in fully autonomous or mixed traffic scenarios. To address the issue, this study introduces a scaled noise conditional diffusion model for car-following trajectory prediction, which integrates detailed inter-vehicular interactions and car-following dynamics into a generative framework, improving both the accuracy and plausibility of predicted trajectories. The model utilizes a novel pipeline to capture historical vehicle dynamics by scaling noise with encoded historical features within the diffusion process. Particularly, it employs a cross-attention-based transformer architecture to model intricate inter-vehicle dependencies, effectively guiding the denoising process and enhancing prediction accuracy. Experimental results on diverse real-world driving scenarios demonstrate the state-of-the-art performance and robustness of the proposed method.</p>
+  </div>
+</div>
+
+---
+
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
 Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. To address this challenge, we proposed [Graph-based Interaction-aware Multimodal Trajectory Prediction (GIMTP)](https://ieeexplore.ieee.org/abstract/document/10352973/) and Relational [Hypergraph Interaction-informed Neural mOtion generator (RHINO)](https://arxiv.org/abs/2409.11676) methodologies. GIMTP constructs a dynamic adjacency matrix to capture vehicle interactions comprehensively and leverages a Diffusion Graph Convolutional Network (DGCN) to model the evolving relationship between past and future states. RHINO leverages hypergraph-based relational reasoning by integrating a multi-scale hypergraph neural network to model group-wise interactions among multiple vehicles and their multimodal driving behaviors, thereby enhancing motion prediction accuracy and reliability. Using the probabilistic frameworks, GIMTP and RHINO accurately predict future driving intentions (e.g., going straight, left lane change, right lane change) and the two-dimensional longitudinal and lateral trajectory over a time horizon of several seconds. 
 
