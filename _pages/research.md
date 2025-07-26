@@ -21,7 +21,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 
 <!-- Left Side: Image -->
 <div style="flex-basis: 40%; padding-right: 20px; float: left;">
-  <img src="/images/gan.png" style="float:left; margin: 5px; width="200px" />
+  <img src="/images/gan.png" width="200px" />
 </div>
 
 <!-- Right Side: Abstract -->
