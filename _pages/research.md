@@ -26,7 +26,6 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
   </div>
 </div>
 
-
 ---
 
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
