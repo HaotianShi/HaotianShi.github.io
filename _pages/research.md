@@ -385,6 +385,19 @@ Tribal lands in the United States have consistently exhibited higher crash rates
 <div style="clear: both;"></div>
 <hr/>
 
+### 3.4  Travel data analysis
+We also aim to address the challenge of extracting meaningful travel features from disorganized public transportation data by leveraging trajectory mining and inference to enhance bus services and improve the attractiveness of public transit.
+
+### [Bus travel feature inference with small samples based on multi-clustering topic model over Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X24004898) 
+<p>
+  <img src="/images/BusTravel.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+With the widespread application of Internet of Things (IoT) technology, there has been a shift from a broad-brush to a more refined approach in traffic optimization. An increasing amount of IoT data is being utilized in trajectory mining and inference, offering more precise characteristic information for optimizing public transportation. Services that optimize public transit based on inferred travel characteristics can enhance the appeal of public transport, increase its likelihood as a travel choice, alleviate traffic congestion, and reduce carbon emissions. However, the inherent complexities of disorganized and unstructured public transportation data pose significant challenges to extracting travel features. This study explores the enhancement of bus travel by integrating advanced technologies like positioning systems, IoT, and AI to infer features in public transportation data. It introduces the MK-LDA (MeanShift Kmeans Latent Dirichlet Allocation), a novel thematic modeling technique for deducing characteristics of public transit travel using limited travel trajectory data. The model employs a segmented inference methodology, initially leveraging the Mean-shift clustering algorithm to create POI seeds, followed by the P-K-means algorithm for discerning patterns in user travel behavior and extracting travel modalities. Additionally, a P-LDA (POI-Latent Dirichlet Allocation) inference algorithm is proposed to examine the interplay between travel characteristics and behaviors, specifically targeting attributes significantly correlated with public transit usage, including age, occupation, gender, activity levels, cost, safety, and personality traits. Empirical validation highlights the efficacy of this thematic modeling-based inference technique in identifying and predicting travel characteristics and patterns, boasting enhanced interpretability and outperforming conventional benchmarks.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
   </section>
 </div>
 
