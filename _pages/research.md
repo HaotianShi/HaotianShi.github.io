@@ -66,7 +66,7 @@ Over the years, I have investigated the following three broad areas of research:
 
   <!-- 标签栏（点击即可切换） -->
   <div class="tab-labels">
-    <label for="tab-behavior"     title="Interactive driving behavior modeling and prediction">1) Behavior Modeling & Prediction</label>
+    <label for="tab-behavior"     title="Interactive driving behavior modeling and prediction">1) Driving Behavior Modeling & Prediction</label>
     <label for="tab-cav-control"  title="Optimal control of CAVs in mixed traffic environments">2) CAV Control</label>
     <label for="tab-management"   title="Traffic management for urban, rural, and tribal regions">3) Traffic Management</label>
   </div>
