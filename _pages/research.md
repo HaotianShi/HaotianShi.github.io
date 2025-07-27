@@ -217,6 +217,16 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
+### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536)  
+<p>
+  <img src="/images/Interaction.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+This paper presents the development of a comprehensive dataset capturing interactions between Autonomous Vehicles (AVs) and traffic control devices, specifically traffic lights and stop signs. Derived from the Waymo Motion dataset, our work addresses a critical gap in the existing literature by providing real-world trajectory data on how AVs navigate these traffic control devices. We propose a methodology for identifying and extracting relevant interaction trajectory data from the Waymo Motion dataset, incorporating over 37,000 instances with traffic lights and 44,000 with stop signs. Our methodology includes defining rules to identify various interaction types, extracting trajectory data, and applying a wavelet-based denoising method to smooth the acceleration and speed profiles and eliminate anomalous values, thereby enhancing the trajectory quality. Quality assessment metrics indicate that trajectories obtained in this study have anomaly proportions in acceleration and jerk profiles reduced to near-zero levels across all interaction categories. By making this dataset publicly available, we aim to address the current gap in datasets containing AV interaction behaviors with traffic lights and signs. Based on the organized and published dataset, we can gain a more in-depth understanding of AVs' behavior when interacting with traffic lights and signs. This will facilitate research on AV integration into existing transportation infrastructures and networks, supporting the development of more accurate behavioral models and simulation tools.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
 
