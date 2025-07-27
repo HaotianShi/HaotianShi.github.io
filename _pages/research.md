@@ -291,6 +291,15 @@ Connected automated vehicles (CAVs) are broadly recognized as next-generation tr
 <div style="clear: both;"></div>
 <hr/>
 
+### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662) 
+<p>
+  <img src="/images/LaneChange.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+Maintaining safety and efficiency for mixed traffic consisting of connected automated vehicles (CAVs) and human-driven vehicles (HDVs) is an arduous task due to the inherent HDVs’ stochasticity. Especially for longitudinal control, which is the basic function of vehicle automation, prevailing research primarily considers CAV’s car-following control merely the acceleration and deceleration of leading vehicles. However, this approach overlooks the potential disruptions caused by surrounding vehicles executing lane changes, which can significantly impact the control vehicle’s stability and overall safety. Hence, our study introduces a predictive deep reinforcement learning (DRL) longitudinal CAV controller. This innovative approach leverages prediction from a physics-informed neural network as well as the control capability of DRL to better anticipate and mitigate issues arising from lane-changing, enhancing the safety and efficiency of CAVs in such scenarios. Validated by the numerical simulations embedded with the real-world data, the results indicate that the proposed controller significantly enhances the safety and efficiency of CAVs in situations involving lane changes by other vehicles, showcasing its potential as a valuable tool in advancing CAV technology in mixed traffic. </p>
+
+<div style="clear: both;"></div>
+<hr/>
+
 ### 2.3  Distributed dynamics bus control for reducing bus bunching 
 We further extended the generic physics-informed control approach to develop dynamic control systems for buses to effectively reduces deviations in timetables and bus spacing, thereby enhancing the overall efficiency and stability of the transit system.
 
