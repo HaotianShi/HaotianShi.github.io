@@ -13,13 +13,6 @@ main:
 
   - title: "Research"
     url: /research/
-    children:
-      - title: "Behavior Modeling"
-        url: /research/#behavior
-      - title: "CAV Control"
-        url: /research/#cav-control
-      - title: "Traffic Management"
-        url: /research/#traffic-management
 
   - title: "Projects"
     url: /projects/
@@ -54,3 +47,10 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+  research-subnav:
+    - title: "Driving Behavior Modeling & Prediction"
+      url: /research/#behavior
+    - title: "CAV Control"
+      url: /research/#cav-control
+    - title: "Traffic Management"
+      url: /research/#traffic-management
