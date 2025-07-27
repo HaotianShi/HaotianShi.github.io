@@ -14,49 +14,97 @@ Over the years, I have investigated the following three broad areas of research:
 
 <!-- ===== Tabs: CSS + HTML + JS 仅在本页生效 ===== -->
 <style>
-/* 容器 */
-.research-tabs { margin: 0 0 1rem 0; }
+/* ===== Tabs 配色与可访问性增强 ===== */
+.research-tabs {
+  /* 统一可调色变量（浅色/深色模式分别定义） */
+  --tab-border: #c9d1d9;
+  --tab-inactive-bg: #f2f4f8;
+  --tab-inactive-text: #4b5563;
+  --tab-active-bg: #ffffff;
+  --tab-active-text: #111827;
+  --tab-hover-bg: #e5e7eb;
+  margin: 0 0 1rem 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .research-tabs {
+    --tab-border: #30363d;
+    --tab-inactive-bg: #161b22;
+    --tab-inactive-text: #c9d1d9;
+    --tab-active-bg: #0d1117;
+    --tab-active-text: #ffffff;
+    --tab-hover-bg: #1f2937;
+  }
+}
 
 /* 隐藏原始 radio */
-.research-tabs input[type="radio"] { position: absolute; left: -9999px; }
+.research-tabs input[type="radio"] {
+  position: absolute;
+  left: -9999px;
+}
 
 /* 标签栏 */
 .research-tabs .tab-labels {
-  display: flex; flex-wrap: wrap; gap: 6px;
-  border-bottom: 1px solid var(--mm-border, #eaecef);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  border-bottom: 2px solid var(--tab-border);
   margin-bottom: 0;
 }
 
-/* 单个标签 */
+/* 单个标签：未激活态更浅背景、较深文字 */
 .research-tabs label {
-  padding: 8px 12px;
-  border: 1px solid var(--mm-border, #eaecef);
+  padding: 10px 14px;
+  border: 1px solid var(--tab-border);
   border-bottom: none;
-  border-radius: 8px 8px 0 0;
+  border-radius: 10px 10px 0 0;
   cursor: pointer;
-  background: var(--mm-bg, #f8f9fa);
-  font-weight: 600;
+  background: var(--tab-inactive-bg);
+  color: var(--tab-inactive-text);
+  font-weight: 700;
+  transition: background .15s ease, color .15s ease, box-shadow .15s ease, transform .05s ease;
 }
 
-/* 激活态标签：根据 radio 选中状态高亮 */
+/* 悬停：轻微加深背景 */
+.research-tabs label:hover {
+  background: var(--tab-hover-bg);
+}
+
+/* 激活态：白底/深字、投影更明显，与内容面板连成一体 */
 #tab-behavior:checked    ~ .tab-labels label[for="tab-behavior"],
 #tab-cav-control:checked ~ .tab-labels label[for="tab-cav-control"],
 #tab-management:checked  ~ .tab-labels label[for="tab-management"] {
-  background: white;
-  border-bottom: 1px solid white;
+  background: var(--tab-active-bg);
+  color: var(--tab-active-text);
+  box-shadow: 0 -2px 0 var(--tab-active-bg), 0 2px 0 var(--tab-active-bg), 0 4px 12px rgba(0,0,0,0.06);
+  position: relative;
+  z-index: 1;
+  transform: translateY(1px); /* 轻微“顶起”效果 */
 }
 
-/* 面板默认隐藏 */
-.tab-panel { display: none; padding-top: 12px; }
+/* 键盘可达性 */
+.research-tabs label:focus-visible {
+  outline: 2px solid #3b82f6; /* 高对比焦点框 */
+  outline-offset: 2px;
+}
 
-/* 显示被选中的面板 */
+/* 面板：默认隐藏 */
+.tab-panel {
+  display: none;
+  padding-top: 12px;
+}
+
+/* 显示被选中的面板，并加边框与激活标签衔接 */
 #tab-behavior:checked    ~ #panel-behavior,
 #tab-cav-control:checked ~ #panel-cav-control,
 #tab-management:checked  ~ #panel-management {
   display: block;
+  border: 1px solid var(--tab-border);
+  border-top: none;     /* 与标签连接处无边框 */
+  padding: 16px;        /* 内容留白更舒适 */
 }
 
-/* 让标签栏在段落上方不显得拥挤 */
+/* 内文分隔线与间距微调 */
 .tab-panel hr { margin-top: 1.2rem; }
 </style>
 
