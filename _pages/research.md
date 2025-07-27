@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+sidebar:
+  title: "Research"
+  nav: research-subnav
 ---
 
 The rapid advancement of communication, vehicle automation technologies, and artificial intelligence (AI) is transforming intelligent transportation systems (ITS), offering opportunities to enhance safety, efficiency, and energy. Motivated by these developments, my research focuses on 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAVs) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. My research philosophy hinges on addressing challenges in these areas by integrating traditional analytical methods, such as physics-based modeling, control theory, and traffic flow theory, with emerging technologies like machine learning (ML) and foundation models (FMs)/large language models (LLMs). In line with my research philosophy, I have developed generic and interpretable methodological frameworks and computational models to analyze and improve transportation system performance in terms of mobility, safety, stability, and energy consumption. These models are validated through field implementations using Level 3 CAVs.
