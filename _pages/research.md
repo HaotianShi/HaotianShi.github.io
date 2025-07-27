@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 sidebar:
-  title: "Research"
   nav: "research-subnav"
 ---
 
