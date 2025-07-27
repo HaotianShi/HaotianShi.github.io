@@ -385,16 +385,6 @@ Developing effective transportation safety programs for tribal lands is importan
 <div style="clear: both;"></div>
 <hr/>
 
-### [Developing a Conceptual Tribal Crash Safety Dashboard: Data-Driven Strategies for Identifying High-Risk Areas and Enhancing Tribal Safety Programs](https://arxiv.org/abs/2308.08177) 
-<p>
-  <img src="/images/Tribal2.png" alt="GNP goal-based neural physics model"
-       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
-Tribal lands in the United States have consistently exhibited higher crash rates and injury severities compared to other regions. To address this issue, effective data-driven safety analysis methods are essential for resource allocation and tribal safety program development. This study outlines the minimum data requirements and presents a generic tribal crash dashboard prototype to enable feasible and reproducible tribal crash analysis. The dashboard offers statistical performance measurement techniques, tracks tribal safety trends using various indicators, and updates in with incoming data, making it adaptable for any state. Specifically, the dashboard's capabilities are showcased using Wisconsin tribal crash data, locating high-risk tribal land areas while analyzing and comparing statewide crashes and tribal crashes based on severity. The results reveal that tribal land roads, particularly rural ones, are more dangerous than those in other Wisconsin areas. The dashboard also examines crash types to uncover the causes and insights behind Wisconsin tribal crashes. Demonstrating this dashboard concept reveals its potential to facilitate a more intuitive understanding of tribal crashes from a statistical standpoint, thereby enabling more effective applications of available data sources and the development of targeted safety countermeasures.
-</p>
-
-<div style="clear: both;"></div>
-<hr/>
-
 ### 3.4  Travel data analysis
 We also aim to address the challenge of extracting meaningful travel features from disorganized public transportation data by leveraging trajectory mining and inference to enhance bus services and improve the attractiveness of public transit.
 
