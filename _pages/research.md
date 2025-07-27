@@ -191,7 +191,7 @@ Advancements in autonomous driving have increasingly focused on end-to-end (E2E)
   </section>
 
   <!-- 面板 2：CAV Control -->
-  <section id="panel-cav-ccontrol" class="tab-panel" markdown="1">
+  <section id="panel-cav-control" class="tab-panel" markdown="1">
   <a id="cav-control"></a>
 
 ### 2  Optimal control of CAVs in mixed traffic environments
