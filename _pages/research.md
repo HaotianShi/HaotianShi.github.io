@@ -7,10 +7,10 @@ sidebar:
   nav: "research-subnav"
 ---
 
-The rapid advancement of communication, vehicle automation technologies, and artificial intelligence (AI) is transforming intelligent transportation systems (ITS), offering opportunities to enhance safety, efficiency, and energy. Motivated by these developments, my research focuses on 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAVs) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. My research philosophy hinges on addressing challenges in these areas by integrating traditional analytical methods, such as physics-based modeling, control theory, and traffic flow theory, with emerging technologies like machine learning (ML) and foundation models (FMs)/large language models (LLMs). In line with my research philosophy, I have developed generic and interpretable methodological frameworks and computational models to analyze and improve transportation system performance in terms of mobility, safety, stability, and energy consumption. These models are validated through field implementations using Level 3 CAVs.
+The rapid advancement of communication, vehicle automation technologies, and artificial intelligence (AI) is transforming intelligent transportation systems (ITS), offering opportunities to enhance safety, efficiency, and energy. Motivated by these developments, my research focuses on 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAVs) in mixed traffic environments, and 3) traffic management. My research philosophy hinges on addressing challenges in these areas by integrating traditional analytical methods, such as physics-based modeling, control theory, and traffic flow theory, with emerging technologies like machine learning (ML) and foundation models (FMs)/large language models (LLMs). In line with my research philosophy, I have developed generic and interpretable methodological frameworks and computational models to analyze and improve transportation system performance in terms of mobility, safety, stability, and energy consumption. These models are validated through field implementations using Level 3 CAVs.
 
 ## Major Research Areas <br>
-Over the years, I have investigated the following three broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. A selection of my papers is provided in the reference section for further reading.
+Over the years, I have investigated the following three broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, and 3) traffic management. A selection of my papers is provided in the reference section for further reading.
 
 <!-- ===== Tabs: CSS + HTML + JS 仅在本页生效 ===== -->
 <style>
@@ -323,8 +323,8 @@ An efficient urban bus control system has the potential to significantly reduce 
   <section id="panel-management" class="tab-panel" markdown="1">
   <a id="traffic-management"></a>
 
-### 3  Traffic management for urban, rural, and tribal regions
-In addition to the above-emerging technologies for microscopic CAV and ITS modeling, prediction, and control, my research extends to traffic management strategies for diverse regions, including urban, rural, and tribal areas. This work involves developing traffic control solutions for mixed road networks, recovering traffic flow data in large-scale urban systems, and enhancing safety programs for tribal and rural regions.
+### 3  Traffic management
+In addition to the above-emerging technologies for microscopic CAV and ITS modeling, prediction, and control, my research extends to traffic management strategies for diverse regions, including urban, rural, and tribal areas. This work involves developing traffic control solutions for mixed road networks, recovering traffic flow data in large-scale urban systems, enhancing safety programs for tribal and rural regions, and travel data analysis.
 
 ### 3.1  Traffic control and network design strategies for mixed urban and expressway systems
 Regarding urban traffic management, we have explored strategies for mitigating congestion in mixed road networks that combine expressways and arterial roads. By employing traffic models such as the multi-class cell transmission model (CTM) and the macroscopic fundamental diagram (MFD), we aim to enhance coordination between these interconnected systems. Additionally, we propose a cooperative flow‑control strategy for large‑scale urban networks that seamlessly links expressways and surface streets. 
@@ -339,11 +339,37 @@ With the advancement of urbanization, cities are constructing expressways to mee
 <div style="clear: both;"></div>
 <hr/>
 
-### 3.2  Traffic flow recovery for large-scale urban transportation network
-To address the challenge of recovering accurate and high-resolution traffic flow data in large-scale urban transportation networks with limited sensor coverage, we developed the [Analytical Optimized Recovery (AOR) framework](https://arxiv.org/abs/2409.03906). This method leverages widely available GPS speed data combined with sparse traffic flow observations to reconstruct comprehensive traffic flow patterns. By formulating a constrained optimization problem with a quadratic objective function and using Lagrangian relaxation to enforce non-negativity constraints, the AOR framework effectively recovers traffic flow data. This approach is validated through simulations on calibrated Shenzhen's urban network using SUMO.
+### [A Cooperation Control for Multiple Urban Regions Traffic Flow Coupled With an Expressway Network](https://ieeexplore.ieee.org/abstract/document/11045413) 
+<p>
+  <img src="/images/Cooperation.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+As cities expand and long-distance travel demand increases, expressways are usually constructed to enhance regional connectivity. In the mixed road networks of urban roads and expressways, coordinating the distinct traffic dynamics of the two networks is a challenge. To address this challenge, we propose a cooperative flow control method for large-scale mixed networks. First, we develop an integrated traffic model that models urban regions using the macroscopic fundamental diagram (MFD) and expressways using the multi-class cell transmission model (CTM), achieving route tracking of vehicles throughout the entire mixed network. Next, a route choice model is developed to allocate new traffic demands within the mixed network. To coordinate traffic flow, a perimeter control (PC) is conducted to manage transfer flows between region boundaries, ramp metering (RM) to regulate flows entering expressways from urban regions, and variable speed limit (VSL) to control mainline speeds on expressways. We establish this cooperative flow control method within a model predictive control (MPC) framework. Case studies show that, based on the implementation of PC, the combined application of RM and VSL to the expressway system is more effective in reducing congestion and improving traffic efficiency in the mixed network than using RM and VSL independently. 
+</p>
 
-### 3.3  Traffic safety analysis and improvement in tribal and rural areas
-In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on [enhancing tribal crash reporting and data quality](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005), which is essential for identifying high-risk locations and developing effective safety programs. Using the Wisconsin police crash report, the study validates the effectiveness of specific tribal data elements, such as location, jurisdiction, and law enforcement agency. The findings reveal the necessity for establishing an independent subcategory in national crash classification systems for tribal data and creating a distinct tribal road type within roadway data elements to enhance data quality for safety analyses in tribal areas. Furthermore, we conducted a comprehensive [tribal crash analysis](https://arxiv.org/abs/2308.08177), utilizing a dashboard prototype for statistical performance measurement and monitoring of safety trends in tribal lands. This dashboard, demonstrated with Wisconsin tribal crash data, effectively identifies high-risk areas and compares tribal crashes with statewide data based on severity and type. The research highlights the importance of high-quality, spatially referenced crash data and proposes a reproducible, data-driven approach to enhance tribal safety programs.
+<div style="clear: both;"></div>
+<hr/>
+
+### 3.2  Traffic flow recovery for large-scale urban transportation network
+To address the challenge of recovering accurate and high-resolution traffic flow data in large-scale urban transportation networks with limited sensor coverage, we developed the Analytical Optimized Recovery (AOR) framework to reconstruct comprehensive traffic flow patterns. 
+
+### [Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network](https://arxiv.org/abs/2409.03906) 
+<p>
+  <img src="/images/Analytical.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+The implementation of intelligent transportation systems (ITS) has enhanced data collection in urban transportation through advanced traffic sensing devices. However, the high costs associated with installation and maintenance result in sparse traffic data coverage. To obtain complete, accurate, and high-resolution network-wide traffic flow data, this study introduces the Analytical Optimized Recovery (AOR) approach that leverages abundant GPS speed data alongside sparse flow data to estimate traffic flow in large-scale urban networks. The method formulates a constrained optimization framework that utilizes a quadratic objective function with l2 norm regularization terms to address the traffic flow recovery problem effectively and incorporates a Lagrangian relaxation technique to maintain non-negativity constraints. The effectiveness of this approach was validated in a large urban network in Shenzhen's Futian District using the Simulation of Urban MObility (SUMO) platform. Analytical results indicate that the method achieves low estimation errors, affirming its suitability for comprehensive traffic analysis in urban settings with limited sensor deployment. 
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
+
+### 3.3  Traffic safety analysis and improvement
+In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on enhancing tribal crash reporting and data quality, which is essential for identifying high-risk locations and developing effective safety programs. 
+
+
+
+
+
   </section>
 </div>
 
