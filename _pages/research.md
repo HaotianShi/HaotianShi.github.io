@@ -8,7 +8,72 @@ author_profile: true
 The rapid advancement of communication, vehicle automation technologies, and artificial intelligence (AI) is transforming intelligent transportation systems (ITS), offering opportunities to enhance safety, efficiency, and energy. Motivated by these developments, my research focuses on 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAVs) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. My research philosophy hinges on addressing challenges in these areas by integrating traditional analytical methods, such as physics-based modeling, control theory, and traffic flow theory, with emerging technologies like machine learning (ML) and foundation models (FMs)/large language models (LLMs). In line with my research philosophy, I have developed generic and interpretable methodological frameworks and computational models to analyze and improve transportation system performance in terms of mobility, safety, stability, and energy consumption. These models are validated through field implementations using Level 3 CAVs.
 
 ## Major Research Areas <br>
-Over the years, I have investigated the following three broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. A selection of my papers is provided in the reference section for further reading. 
+Over the years, I have investigated the following three broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, and 3) traffic management for urban, rural, and tribal regions. A selection of my papers is provided in the reference section for further reading.
+
+<!-- ===== Tabs: CSS + HTML + JS 仅在本页生效 ===== -->
+<style>
+/* 容器 */
+.research-tabs { margin: 0 0 1rem 0; }
+
+/* 隐藏原始 radio */
+.research-tabs input[type="radio"] { position: absolute; left: -9999px; }
+
+/* 标签栏 */
+.research-tabs .tab-labels {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  border-bottom: 1px solid var(--mm-border, #eaecef);
+  margin-bottom: 0;
+}
+
+/* 单个标签 */
+.research-tabs label {
+  padding: 8px 12px;
+  border: 1px solid var(--mm-border, #eaecef);
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  background: var(--mm-bg, #f8f9fa);
+  font-weight: 600;
+}
+
+/* 激活态标签：根据 radio 选中状态高亮 */
+#tab-behavior:checked    ~ .tab-labels label[for="tab-behavior"],
+#tab-cav-control:checked ~ .tab-labels label[for="tab-cav-control"],
+#tab-management:checked  ~ .tab-labels label[for="tab-management"] {
+  background: white;
+  border-bottom: 1px solid white;
+}
+
+/* 面板默认隐藏 */
+.tab-panel { display: none; padding-top: 12px; }
+
+/* 显示被选中的面板 */
+#tab-behavior:checked    ~ #panel-behavior,
+#tab-cav-control:checked ~ #panel-cav-control,
+#tab-management:checked  ~ #panel-management {
+  display: block;
+}
+
+/* 让标签栏在段落上方不显得拥挤 */
+.tab-panel hr { margin-top: 1.2rem; }
+</style>
+
+<div class="research-tabs" id="tabs-top">
+  <!-- 3 个 radio 控件 -->
+  <input type="radio" name="research-tabs" id="tab-behavior" checked>
+  <input type="radio" name="research-tabs" id="tab-cav-control">
+  <input type="radio" name="research-tabs" id="tab-management">
+
+  <!-- 标签栏（点击即可切换） -->
+  <div class="tab-labels">
+    <label for="tab-behavior"     title="Interactive driving behavior modeling and prediction">1) Behavior Modeling & Prediction</label>
+    <label for="tab-cav-control"  title="Optimal control of CAVs in mixed traffic environments">2) CAV Control</label>
+    <label for="tab-management"   title="Traffic management for urban, rural, and tribal regions">3) Traffic Management</label>
+  </div>
+
+  <!-- 面板 1：Behavior Modeling & Prediction -->
+  <section id="panel-behavior" class="tab-panel" markdown="1">
+  <a id="behavior"></a>
 
 ### 1 Interactive driving behavior modeling and prediction
 With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixed traffic flows have shifted significantly compared to traditional traffic conditions. In mixed traffic, human-driven vehicle (HV) behaviors exhibit greater variability and uncertainty, particularly in longitudinal car-following and lateral maneuvers. These factors heighten traffic safety risks and complicate the decision-making processes of AVs. To address these challenges, we have developed novel modeling and prediction methodologies for both AVs and HVs, focusing on longitudinal and lateral driving behaviors. These methodologies leverage approaches including physics-based models, machine learning (ML), physics-informed machine learning (PIML), and foundation models (FMs)/large language models (LLMs).
@@ -116,11 +181,18 @@ Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus
 <p>
  <img src="/images/V2X-VLM.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
-  As advanced driver-assistance systems (ADAS) are more widely implemented—particularly the adaptive cruise control (ACC) system in car-following behavior—accurate modeling of ACC vehicles’ behavior is needed. Currently, each vehicle manufacturer develops its ACC systems with unique controllers, creating “black boxes” that are not openly accessible for analysis. In addition, the vehicle dynamics that use sensor and dynamics systems introduce complicated inherent nonlinearity in ACC-equipped vehicles’ behaviors (hereinafter referred to as ACC vehicles). Given the complex inherent nonlinearity of ACC systems, traditional vehicle behavior modeling methods have to trade off between modeling accuracy and interpretability. To address these challenges, this study introduces an innovative multivariate piecewise linear (MPL) car-following modeling methodology to emulate any ACC system from observational data. The MPL modeling methodology allows for several empirical quantifications of the unknown design parameters of the different ACC systems as they are manifested in the vehicles’ driving behavior. This approach distinguishes itself from traditional piecewise linear models by incorporating multiple breakpoints. These breakpoints serve to capture the inherent nonlinearity of ACC vehicle dynamics across a range of linear functions. Simultaneously, these breakpoints are empirically derived from actual trajectory data, thereby enhancing modeling accuracy. A case study illustrates four calibrated MPL models based on a large-scale field automated vehicle experiment dataset. Compared to other models, the MPL models show sufficient accuracy and interpretability. This robust and transparent modeling methodology may serve as an analytical tool for future transportation planning.
+  <!-- TODO: 内容似乎与上文 MPL（ACC）段落重复，请确认是否需要替换为 V2X‑VLM 的正确摘要。 -->
+Advancements in autonomous driving have increasingly focused on end-to-end (E2E) systems that manage the full spectrum of driving tasks, from environmental perception to vehicle navigation and control. This paper introduces V2X-VLM, an innovative E2E vehicle-infrastructure cooperative autonomous driving (VICAD) framework with Vehicle-to-Everything (V2X) systems and large vision-language models (VLMs). V2X-VLM is designed to enhance situational awareness, decision-making, and ultimate trajectory planning by integrating multimodel data from vehicle-mounted cameras, infrastructure sensors, and textual information. The contrastive learning method is further employed to complement VLM by refining feature discrimination, assisting the model to learn robust representations of the driving environment. Evaluations on the DAIR-V2X dataset show that V2X-VLM outperforms state-of-the-art cooperative autonomous driving methods, while additional tests on corner cases validate its robustness in real-world driving conditions.
 </p>
 
 <div style="clear: both;"></div>
 <hr/>
+
+  </section>
+
+  <!-- 面板 2：CAV Control -->
+  <section id="panel-cav-ccontrol" class="tab-panel" markdown="1">
+  <a id="cav-control"></a>
 
 ### 2  Optimal control of CAVs in mixed traffic environments
 To address the challenges posed by the stochastic nature of human-driven behaviors, the heterogeneity in traffic composition, and the partial observability characteristic of complex mixed traffic conditions involving both CAVs and HVs, optimizing CAV driving behavior from a systemic traffic flow perspective remains particularly difficult. In response to these challenges, we have conducted extensive research on decision-making control for CAVs in mixed traffic environments. By integrating the core principles of physics models, control theory, and traffic flow theory into a deep reinforcement learning (DRL) framework, I developed the physics-informed deep reinforcement learning (PIDRL) methodology, specifically designed for the intelligent control of CAVs and other ITS agents in mixed traffic scenarios. This generic methodology has proven versatile and effective in various applications, including CAV control and intelligent bus operations. It has been validated in improving key system-level performance metrics such as safety, efficiency, stability, and energy utilization.
@@ -168,7 +240,7 @@ Connected automated vehicles (CAVs) are broadly recognized as next-generation tr
 
 <div style="clear: both;"></div>
 <hr/>
- 
+
 ### 2.3  Distributed dynamics bus control for reducing bus bunching 
 We further extended the generic physics-informed control approach to develop dynamic control systems for buses to effectively reduces deviations in timetables and bus spacing, thereby enhancing the overall efficiency and stability of the transit system.
 
@@ -193,6 +265,11 @@ An efficient urban bus control system has the potential to significantly reduce 
 <div style="clear: both;"></div>
 <hr/>
 
+  </section>
+
+  <!-- 面板 3：Traffic Management -->
+  <section id="panel-management" class="tab-panel" markdown="1">
+  <a id="traffic-management"></a>
 
 ### 3  Traffic management for urban, rural, and tribal regions
 In addition to the above-emerging technologies for microscopic CAV and ITS modeling, prediction, and control, my research extends to traffic management strategies for diverse regions, including urban, rural, and tribal areas. This work involves developing traffic control solutions for mixed road networks, recovering traffic flow data in large-scale urban systems, and enhancing safety programs for tribal and rural regions.
@@ -205,3 +282,31 @@ To address the challenge of recovering accurate and high-resolution traffic flow
 
 ### 3.3  Traffic safety analysis and improvement in tribal and rural areas
 In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on [enhancing tribal crash reporting and data quality](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005), which is essential for identifying high-risk locations and developing effective safety programs. Using the Wisconsin police crash report, the study validates the effectiveness of specific tribal data elements, such as location, jurisdiction, and law enforcement agency. The findings reveal the necessity for establishing an independent subcategory in national crash classification systems for tribal data and creating a distinct tribal road type within roadway data elements to enhance data quality for safety analyses in tribal areas. Furthermore, we conducted a comprehensive [tribal crash analysis](https://arxiv.org/abs/2308.08177), utilizing a dashboard prototype for statistical performance measurement and monitoring of safety trends in tribal lands. This dashboard, demonstrated with Wisconsin tribal crash data, effectively identifies high-risk areas and compares tribal crashes with statewide data based on severity and type. The research highlights the importance of high-quality, spatially referenced crash data and proposes a reproducible, data-driven approach to enhance tribal safety programs.
+  </section>
+</div>
+
+<script>
+/* 根据 URL Hash (#behavior / #cav-control / #traffic-management) 激活对应 Tab */
+(function() {
+  const map = {
+    "#behavior": "tab-behavior",
+    "#cav-control": "tab-cav-control",
+    "#traffic-management": "tab-management"
+  };
+
+  function activateFromHash() {
+    const id = map[location.hash];
+    if (id) {
+      const radio = document.getElementById(id);
+      if (radio) {
+        radio.checked = true;
+        const top = document.getElementById("tabs-top");
+        if (top && top.scrollIntoView) top.scrollIntoView({behavior: "instant", block: "start"});
+      }
+    }
+  }
+
+  window.addEventListener("hashchange", activateFromHash);
+  activateFromHash();
+})();
+</script>
