@@ -47,10 +47,12 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-  research-subnav:
-    - title: "Driving Behavior Modeling & Prediction"
-      url: /research/#behavior
-    - title: "CAV Control"
-      url: /research/#cav-control
-    - title: "Traffic Management"
-      url: /research/#traffic-management
+
+# ===== 顶级：侧栏导航清单（与 main: 平级）=====
+research-subnav:
+  - title: "Driving Behavior Modeling & Prediction"
+    url: /research/#behavior
+  - title: "CAV Control"
+    url: /research/#cav-control
+  - title: "Traffic Management"
+    url: /research/#traffic-management
