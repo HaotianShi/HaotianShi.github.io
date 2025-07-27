@@ -362,13 +362,28 @@ The implementation of intelligent transportation systems (ITS) has enhanced data
 <div style="clear: both;"></div>
 <hr/>
 
-
 ### 3.3  Traffic safety analysis and improvement
 In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on enhancing tribal crash reporting and data quality, which is essential for identifying high-risk locations and developing effective safety programs. 
 
+### [How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005) 
+<p>
+  <img src="/images/Tribal1.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+Developing effective transportation safety programs for tribal lands is important due to higher crash rates and crash severities in those areas. Correspondingly, a comprehensive tribal crash reporting and crash data quality are imperative to analyze and identify high crash locations and to develop and fund effective tribal safety programs. This study presents quantitative and spatial data analyses to validate the effectiveness of tribal crash data elements on the Wisconsin police crash report with respect to three attributes: location, jurisdiction, and law enforcement agency. The results indicate that these tribal attributes are coupled with other standard location attributes, which negatively affects data quality for further analysis. The findings recommend that adding an independent subfield in the national standard crash classification for tribal elements and adding a specific tribal road type to the roadway data elements would be more effective for tribal crash reporting and analysis, which facilitates further safety analysis regarding all roadway types within tribal lands. 
+</p>
 
+<div style="clear: both;"></div>
+<hr/>
 
+### [Developing a Conceptual Tribal Crash Safety Dashboard: Data-Driven Strategies for Identifying High-Risk Areas and Enhancing Tribal Safety Programs](https://arxiv.org/abs/2308.08177) 
+<p>
+  <img src="/images/Tribal2.png" alt="GNP goal-based neural physics model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+Tribal lands in the United States have consistently exhibited higher crash rates and injury severities compared to other regions. To address this issue, effective data-driven safety analysis methods are essential for resource allocation and tribal safety program development. This study outlines the minimum data requirements and presents a generic tribal crash dashboard prototype to enable feasible and reproducible tribal crash analysis. The dashboard offers statistical performance measurement techniques, tracks tribal safety trends using various indicators, and updates in with incoming data, making it adaptable for any state. Specifically, the dashboard's capabilities are showcased using Wisconsin tribal crash data, locating high-risk tribal land areas while analyzing and comparing statewide crashes and tribal crashes based on severity. The results reveal that tribal land roads, particularly rural ones, are more dangerous than those in other Wisconsin areas. The dashboard also examines crash types to uncover the causes and insights behind Wisconsin tribal crashes. Demonstrating this dashboard concept reveals its potential to facilitate a more intuitive understanding of tribal crashes from a statistical standpoint, thereby enabling more effective applications of available data sources and the development of targeted safety countermeasures.
+</p>
 
+<div style="clear: both;"></div>
+<hr/>
 
   </section>
 </div>
