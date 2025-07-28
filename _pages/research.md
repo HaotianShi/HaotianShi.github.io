@@ -124,7 +124,7 @@ With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixe
 ### 1.1  Multi-scale car-following and traffic dynamics modeling methodologies for HVs and AVs
 In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both HVs and AVs. This provides critical information about the driving characteristics of surrounding vehicles for CAVs to optimize their decision-making processes. However, current car-following models based on either physics or ML often struggle to accurately capture the uncertainty in driving behaviors and typically overlook the influence of macroscopic traffic flow (traffic dynamics) on individual driving behaviors. In this regard, We have developed models using both physics-based approaches and ML techniques. 
 
-### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)(J-ITS, 2024)  
+### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691) (J-ITS, 2024)  
 <p>
   <img src="/images/gan.png" alt="TrajGAN overview"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -134,7 +134,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887)(TR-Part E, 2024)  
+### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887) (TR-Part E, 2024)  
 <p>
   <img src="/images/BiScale.png" alt="Bi-scale calibration illustration"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -144,7 +144,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729)(TR-Part E, 2025)    
+### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729) (TR-Part E, 2025)    
 <p>
   <img src="/images/MPL.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -154,7 +154,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)(IEEE T-ITS, 2025)      
+### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270) (IEEE T-ITS, 2025)      
 <p>
   <img src="/images/Koopman.png" alt="Koopman approach"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -164,7 +164,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)(Accepted by COMMTR, 2025)    
+### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747) (Accepted by COMMTR, 2025)    
 <p>
   <img src="/images/FollowGen.png" alt="FollowGen diffusion model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -174,7 +174,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)(COMMTR, 2025)    
+### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X) (COMMTR, 2025)    
 <p>
   <img src="/images/PERL.png" alt="PERL framework"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -187,7 +187,7 @@ While physics models for predicting system states can reveal fundamental insight
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
 Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. We proposed the following methodologies to address the 2D trajectory prediction challenges.
 
-### [Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/10352973)(IEEE T-IV, 2024)     
+### [Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/10352973) (IEEE T-IV, 2024)     
 <p>
   <img src="/images/Graph.png" alt="GIMTP with DGCN"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -197,7 +197,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676)(Under Revision, TR-Part C)     
+### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676) (Under Revision, TR-Part C)     
 <p>
   <img src="/images/Hypergraph.png" alt="RHINO hypergraph motion generation"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -207,7 +207,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)(Accepted by TR-Part C, 2025)     
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182) (Accepted by TR-Part C, 2025)     
 <p>
   <img src="/images/Goal.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -217,7 +217,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536)(Accepted by COMMTR, 2025)   
+### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536) (Accepted by COMMTR, 2025)   
 <p>
   <img src="/images/Interaction.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -230,7 +230,7 @@ This paper presents the development of a comprehensive dataset capturing interac
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
 
-### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251)(Under Revision, TR-Part C)   
+### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251) (Under Revision, TR-Part C)   
 <p>
  <img src="/images/V2X-VLM.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -253,7 +253,7 @@ To address the challenges posed by the stochastic nature of human-driven behavio
 ### 2.1  Centralized multi-objective cooperative control for CAVs
 A centralized multi-objective cooperative control strategy based on deep reinforcement learning is proposed to address the heterogeneity of mixed traffic flow.
 
-### [Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment](https://www.sciencedirect.com/science/article/pii/S0968090X21004150)(TR-Part C, 2021)  
+### [Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment](https://www.sciencedirect.com/science/article/pii/S0968090X21004150) (TR-Part C, 2021)  
 <p>
   <img src="/images/Central.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -266,7 +266,7 @@ This paper proposes a cooperative strategy of connected and automated vehicles (
 ### 2.2  Distributed CAV control strategy considering communication loss
 In response to the partial observability of mixed traffic flow and the stochastic nature of HV behavior, we propose novel distributed control strategies for CAVs based on physics-informed DRL, offering a more practical implementation than centralized controllers. This work uniquely integrates traffic flow theory with consensus and equilibrium theories from control science within the DRL framework. Such integration enables a fusion of macroscopic traffic flow characteristics and multi-vehicle state data, effectively mitigating the stochastic nature of HDV behavior and reducing the propagation of traffic oscillations in mixed traffic flow. 
 
-### [A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon](https://www.sciencedirect.com/science/article/pii/S0968090X23000086)(TR-Part C, 2023)   
+### [A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon](https://www.sciencedirect.com/science/article/pii/S0968090X23000086) (TR-Part C, 2023)   
 <p>
   <img src="/images/DistributedMix.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -276,7 +276,7 @@ This paper proposes an innovative distributed longitudinal control strategy for 
 <div style="clear: both;"></div>
 <hr/>
 
-### [A deep reinforcement learning-based distributed connected automated vehicle control under communication failure](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12825)(CACAIE, 2022)  
+### [A deep reinforcement learning-based distributed connected automated vehicle control under communication failure](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12825) (CACAIE, 2022)  
 <p>
   <img src="/images/Communications.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -285,7 +285,7 @@ This paper proposes a deep reinforcement learning (DRL)-based distributed lon-gi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physics-informed deep reinforcement learning-based integrated two-dimensional car-following control strategy for connected automated vehicles](https://www.sciencedirect.com/science/article/pii/S0950705123002356)(KBS, 2023) 
+### [Physics-informed deep reinforcement learning-based integrated two-dimensional car-following control strategy for connected automated vehicles](https://www.sciencedirect.com/science/article/pii/S0950705123002356) (KBS, 2023) 
 <p>
   <img src="/images/2DControl.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -294,7 +294,7 @@ Connected automated vehicles (CAVs) are broadly recognized as next-generation tr
 <div style="clear: both;"></div>
 <hr/>
 
-### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662)(IEEE IOT, 2023)  
+### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662) (IEEE IOT, 2023)  
 <p>
   <img src="/images/LaneChange.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -306,7 +306,7 @@ Maintaining safety and efficiency for mixed traffic consisting of connected auto
 ### 2.3  Distributed dynamics bus control for reducing bus bunching 
 We further extended the generic physics-informed control approach to develop dynamic control systems for buses to effectively reduces deviations in timetables and bus spacing, thereby enhancing the overall efficiency and stability of the transit system.
 
-### [A distributed deep reinforcement learning–based integrated dynamic bus control system in a connected environment](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12803)(CACAIE, 2022)   
+### [A distributed deep reinforcement learning–based integrated dynamic bus control system in a connected environment](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12803) (CACAIE, 2022)   
 <p>
   <img src="/images/Bus.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -317,7 +317,7 @@ The bus bunching problem caused by the uncertain interstation travel time andpas
 <hr/>
 
 
-### [A robust integrated multi-strategy bus control system via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0952197624001441)(EAAI, 2024)   
+### [A robust integrated multi-strategy bus control system via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0952197624001441) (EAAI, 2024)   
 <p>
   <img src="/images/Bus2.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -339,7 +339,7 @@ In addition to the above-emerging technologies for microscopic CAV and ITS model
 ### 3.1  Traffic control and network design strategies
 Regarding urban traffic management, we have explored strategies for mitigating congestion in mixed road networks that combine expressways and arterial roads. By employing traffic models such as the multi-class cell transmission model (CTM) and the macroscopic fundamental diagram (MFD), we aim to enhance coordination between these interconnected systems. Additionally, we propose a cooperative flow‑control strategy for large‑scale urban networks that seamlessly links expressways and surface streets. 
 
-### [The expressway network design problem for multiple urban subregions based on the macroscopic fundamental diagram](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13435)(CACAIE, 2025)  
+### [The expressway network design problem for multiple urban subregions based on the macroscopic fundamental diagram](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13435) (CACAIE, 2025)  
 <p>
   <img src="/images/Expressway.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -349,7 +349,7 @@ With the advancement of urbanization, cities are constructing expressways to mee
 <div style="clear: both;"></div>
 <hr/>
 
-### [A Cooperation Control for Multiple Urban Regions Traffic Flow Coupled With an Expressway Network](https://ieeexplore.ieee.org/abstract/document/11045413)(IEEE TNSE, 2025) 
+### [A Cooperation Control for Multiple Urban Regions Traffic Flow Coupled With an Expressway Network](https://ieeexplore.ieee.org/abstract/document/11045413) (IEEE TNSE, 2025) 
 <p>
   <img src="/images/Cooperation.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -375,7 +375,7 @@ The implementation of intelligent transportation systems (ITS) has enhanced data
 ### 3.3  Traffic safety analysis and improvement
 In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on enhancing tribal crash reporting and data quality, which is essential for identifying high-risk locations and developing effective safety programs. 
 
-### [How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005)(ASCE ICTD Proceedings, 2022)  
+### [How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005) (ASCE ICTD Proceedings, 2022)  
 <p>
   <img src="/images/Tribal1.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -388,7 +388,7 @@ Developing effective transportation safety programs for tribal lands is importan
 ### 3.4  Travel data analysis
 We also aim to address the challenge of extracting meaningful travel features from disorganized public transportation data by leveraging trajectory mining and inference to enhance bus services and improve the attractiveness of public transit.
 
-### [Bus travel feature inference with small samples based on multi-clustering topic model over Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X24004898)(FGCS, 2025) 
+### [Bus travel feature inference with small samples based on multi-clustering topic model over Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X24004898) (FGCS, 2025) 
 <p>
   <img src="/images/BusTravel.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
