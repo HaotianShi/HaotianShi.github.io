@@ -154,7 +154,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)(T-ITS, 2025)      
+### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)(IEEE T-ITS, 2025)      
 <p>
   <img src="/images/Koopman.png" alt="Koopman approach"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -253,7 +253,7 @@ To address the challenges posed by the stochastic nature of human-driven behavio
 ### 2.1  Centralized multi-objective cooperative control for CAVs
 A centralized multi-objective cooperative control strategy based on deep reinforcement learning is proposed to address the heterogeneity of mixed traffic flow.
 
-### [Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment](https://www.sciencedirect.com/science/article/pii/S0968090X21004150)  
+### [Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment](https://www.sciencedirect.com/science/article/pii/S0968090X21004150)(TR-Part C, 2021)  
 <p>
   <img src="/images/Central.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -266,7 +266,7 @@ This paper proposes a cooperative strategy of connected and automated vehicles (
 ### 2.2  Distributed CAV control strategy considering communication loss
 In response to the partial observability of mixed traffic flow and the stochastic nature of HV behavior, we propose novel distributed control strategies for CAVs based on physics-informed DRL, offering a more practical implementation than centralized controllers. This work uniquely integrates traffic flow theory with consensus and equilibrium theories from control science within the DRL framework. Such integration enables a fusion of macroscopic traffic flow characteristics and multi-vehicle state data, effectively mitigating the stochastic nature of HDV behavior and reducing the propagation of traffic oscillations in mixed traffic flow. 
 
-### [A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon](https://www.sciencedirect.com/science/article/pii/S0968090X23000086)  
+### [A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon](https://www.sciencedirect.com/science/article/pii/S0968090X23000086)(TR-Part C, 2023)   
 <p>
   <img src="/images/DistributedMix.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -276,7 +276,7 @@ This paper proposes an innovative distributed longitudinal control strategy for 
 <div style="clear: both;"></div>
 <hr/>
 
-### [A deep reinforcement learning-based distributed connected automated vehicle control under communication failure](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12825) 
+### [A deep reinforcement learning-based distributed connected automated vehicle control under communication failure](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12825)(CACAIE, 2022)  
 <p>
   <img src="/images/Communications.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -285,7 +285,7 @@ This paper proposes a deep reinforcement learning (DRL)-based distributed lon-gi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physics-informed deep reinforcement learning-based integrated two-dimensional car-following control strategy for connected automated vehicles](https://www.sciencedirect.com/science/article/pii/S0950705123002356) 
+### [Physics-informed deep reinforcement learning-based integrated two-dimensional car-following control strategy for connected automated vehicles](https://www.sciencedirect.com/science/article/pii/S0950705123002356)(KBS, 2023) 
 <p>
   <img src="/images/2DControl.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -294,7 +294,7 @@ Connected automated vehicles (CAVs) are broadly recognized as next-generation tr
 <div style="clear: both;"></div>
 <hr/>
 
-### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662) 
+### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662)(IEEE IOT, 2023)  
 <p>
   <img src="/images/LaneChange.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -306,7 +306,7 @@ Maintaining safety and efficiency for mixed traffic consisting of connected auto
 ### 2.3  Distributed dynamics bus control for reducing bus bunching 
 We further extended the generic physics-informed control approach to develop dynamic control systems for buses to effectively reduces deviations in timetables and bus spacing, thereby enhancing the overall efficiency and stability of the transit system.
 
-### [A distributed deep reinforcement learning–based integrated dynamic bus control system in a connected environment](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12803) 
+### [A distributed deep reinforcement learning–based integrated dynamic bus control system in a connected environment](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12803)(CACAIE, 2022)   
 <p>
   <img src="/images/Bus.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -317,7 +317,7 @@ The bus bunching problem caused by the uncertain interstation travel time andpas
 <hr/>
 
 
-### [A robust integrated multi-strategy bus control system via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0952197624001441) 
+### [A robust integrated multi-strategy bus control system via deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0952197624001441)(EAAI, 2024)   
 <p>
   <img src="/images/Bus2.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -339,7 +339,7 @@ In addition to the above-emerging technologies for microscopic CAV and ITS model
 ### 3.1  Traffic control and network design strategies
 Regarding urban traffic management, we have explored strategies for mitigating congestion in mixed road networks that combine expressways and arterial roads. By employing traffic models such as the multi-class cell transmission model (CTM) and the macroscopic fundamental diagram (MFD), we aim to enhance coordination between these interconnected systems. Additionally, we propose a cooperative flow‑control strategy for large‑scale urban networks that seamlessly links expressways and surface streets. 
 
-### [The expressway network design problem for multiple urban subregions based on the macroscopic fundamental diagram](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13435) 
+### [The expressway network design problem for multiple urban subregions based on the macroscopic fundamental diagram](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13435)(CACAIE, 2025)  
 <p>
   <img src="/images/Expressway.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -349,7 +349,7 @@ With the advancement of urbanization, cities are constructing expressways to mee
 <div style="clear: both;"></div>
 <hr/>
 
-### [A Cooperation Control for Multiple Urban Regions Traffic Flow Coupled With an Expressway Network](https://ieeexplore.ieee.org/abstract/document/11045413) 
+### [A Cooperation Control for Multiple Urban Regions Traffic Flow Coupled With an Expressway Network](https://ieeexplore.ieee.org/abstract/document/11045413)(IEEE TNSE, 2025) 
 <p>
   <img src="/images/Cooperation.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -375,7 +375,7 @@ The implementation of intelligent transportation systems (ITS) has enhanced data
 ### 3.3  Traffic safety analysis and improvement
 In addition to my focus on urban traffic management, we also aim to address the pressing need for improved transportation safety programs in tribal lands, which typically experience higher crash rates and severities. My research concentrates on enhancing tribal crash reporting and data quality, which is essential for identifying high-risk locations and developing effective safety programs. 
 
-### [How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005) 
+### [How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System](https://ascelibrary.org/doi/abs/10.1061/9780784484333.005)(ASCE ICTD Proceedings, 2022)  
 <p>
   <img src="/images/Tribal1.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -388,7 +388,7 @@ Developing effective transportation safety programs for tribal lands is importan
 ### 3.4  Travel data analysis
 We also aim to address the challenge of extracting meaningful travel features from disorganized public transportation data by leveraging trajectory mining and inference to enhance bus services and improve the attractiveness of public transit.
 
-### [Bus travel feature inference with small samples based on multi-clustering topic model over Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X24004898) 
+### [Bus travel feature inference with small samples based on multi-clustering topic model over Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X24004898)(FGCS, 2025) 
 <p>
   <img src="/images/BusTravel.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
