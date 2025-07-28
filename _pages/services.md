@@ -13,6 +13,9 @@ author_profile: true
 - Member — IEEE Intelligent Transportation Systems Society (ITSS)
 - Senior Member — China Highway & Transportation Society (CHTS)
 
+## Review Services <br>
+Reviewer for 40 + international journals and conferences, including *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Knowledge and Data Engineering*, *Accident Analysis & Prevention*, among others.
+
 ## Proposal Writing Experiences <br>
 - Rural Autonomous Vehicle Research Program — U.S. DOT · USD 15 M · *Awarded* (Lead to write the proposal)  
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment — FHWA · *Awarded*  
@@ -24,7 +27,3 @@ author_profile: true
 - Center of Excellence on New Mobility & Automated Vehicles — FHWA  
 - Digital‑Twin System for Real‑Time Traffic Analysis & Accident Detection  
 - Connected Reference Marker System to Support Wisconsin Snowplow Operations  
-
-## Review Services <br>
-
-Reviewer for 40 + international journals and conferences, including *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Knowledge and Data Engineering*, *Accident Analysis & Prevention*, among others.
