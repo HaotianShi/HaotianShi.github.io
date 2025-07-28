@@ -124,7 +124,7 @@ With the integration of Autonomous Vehicles (AVs) and CAVs, the dynamics of mixe
 ### 1.1  Multi-scale car-following and traffic dynamics modeling methodologies for HVs and AVs
 In a mixed traffic environment, it is crucial to model and accurately calibrate car-following behaviors of both HVs and AVs. This provides critical information about the driving characteristics of surrounding vehicles for CAVs to optimize their decision-making processes. However, current car-following models based on either physics or ML often struggle to accurately capture the uncertainty in driving behaviors and typically overlook the influence of macroscopic traffic flow (traffic dynamics) on individual driving behaviors. In this regard, We have developed models using both physics-based approaches and ML techniques. 
 
-### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)  
+### [Generative adversarial network for car following trajectory generation and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2301691)(J-ITS, 2024)  
 <p>
   <img src="/images/gan.png" alt="TrajGAN overview"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -134,7 +134,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887)  
+### [Bi-scale car-following model calibration based on corridor-level trajectory](https://www.sciencedirect.com/science/article/abs/pii/S1366554524000887)(TR-Part E, 2024)  
 <p>
   <img src="/images/BiScale.png" alt="Bi-scale calibration illustration"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -144,7 +144,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729)  
+### [Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles](https://www.sciencedirect.com/science/article/pii/S1366554525000729)(TR-Part E, 2025)    
 <p>
   <img src="/images/MPL.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -154,7 +154,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)  
+### [Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach](https://ieeexplore.ieee.org/abstract/document/10954270)(T-ITS, 2025)      
 <p>
   <img src="/images/Koopman.png" alt="Koopman approach"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -164,7 +164,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)  
+### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747)(Accepted by COMMTR, 2025)    
 <p>
   <img src="/images/FollowGen.png" alt="FollowGen diffusion model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -174,7 +174,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)  
+### [Physical enhanced residual learning (PERL) framework for vehicle trajectory prediction](https://www.sciencedirect.com/science/article/pii/S277242472500006X)(COMMTR, 2025)    
 <p>
   <img src="/images/PERL.png" alt="PERL framework"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -187,7 +187,7 @@ While physics models for predicting system states can reveal fundamental insight
 ### 1.2  Interaction-aware two-dimensional (2D) trajectory prediction 
 Accurate prediction of human-driven vehicle trajectories is essential for decision-making and control in CAVs. In dynamic and complex environments, vehicle behavior is influenced by its own historical actions and interactions with surrounding vehicles, which complicates the precise prediction of future longitudinal and lateral movements. We proposed the following methodologies to address the 2D trajectory prediction challenges.
 
-### [Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/10352973)  
+### [Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/10352973)(IEEE T-IV, 2024)     
 <p>
   <img src="/images/Graph.png" alt="GIMTP with DGCN"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -197,7 +197,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676)  
+### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676)(Under Revision, TR-Part C)     
 <p>
   <img src="/images/Hypergraph.png" alt="RHINO hypergraph motion generation"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -207,7 +207,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)  
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182)(Accepted by TR-Part C, 2025)     
 <p>
   <img src="/images/Goal.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -217,7 +217,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536)  
+### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536)(Accepted by COMMTR, 2025)   
 <p>
   <img src="/images/Interaction.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -230,7 +230,7 @@ This paper presents the development of a comprehensive dataset capturing interac
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
 
-### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251)  
+### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251)(Under Revision, TR-Part C)   
 <p>
  <img src="/images/V2X-VLM.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
