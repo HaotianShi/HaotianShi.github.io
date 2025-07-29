@@ -207,7 +207,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Goal-based Neural Physics Vehicle Trajectory Prediction Model](https://arxiv.org/pdf/2409.15182) (Accepted by TR-Part C, 2025)     
+### [Goal-based Neural Physics Vehicle Trajectory Prediction Model]([https://arxiv.org/pdf/2409.15182](https://doi.org/10.1016/j.trc.2025.105283) (TR-Part C, 2025)     
 <p>
   <img src="/images/Goal.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
