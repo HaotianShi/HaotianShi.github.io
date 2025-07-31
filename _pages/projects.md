@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Principal‑Investigator (PI) Projects  
-- Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists
-- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class)
+- Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists - NSFC
+- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC
 
 ## Participated Projects <br>
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
