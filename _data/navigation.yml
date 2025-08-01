@@ -14,12 +14,12 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
-    url: /projects/
-  
   - title: "Publications"
     url: /publications/
     # url: https://scholar.google.com/citations?user=_YbzjdUAAAAJ&hl=en
+
+  - title: "Projects"
+    url: /projects/
 
   # - title: "Talks"
   #   url: /talks/    
