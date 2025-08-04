@@ -334,7 +334,7 @@ An efficient urban bus control system has the potential to significantly reduce 
   <a id="traffic-management"></a>
 
 ### 3  Traffic management
-In addition to the above-emerging technologies for microscopic CAV and ITS modeling, prediction, and control, my research extends to traffic management strategies for diverse regions, including urban, rural, and tribal areas. This work involves developing traffic control solutions for mixed road networks, recovering traffic flow data in large-scale urban systems, enhancing safety programs for tribal and rural regions, and travel data analysis.
+In addition to the emerging technologies for microscopic CAV and ITS modeling, prediction, and control, my research extends to traffic management strategies for diverse regions, including urban, rural, and tribal areas. This work involves developing traffic control solutions for mixed road networks, recovering traffic flow data in large-scale urban systems, enhancing safety programs for tribal and rural regions, and travel data analysis.
 
 ### 3.1  Traffic control and network design strategies
 Regarding urban traffic management, we have explored strategies for mitigating congestion in mixed road networks that combine expressways and arterial roads. By employing traffic models such as the multi-class cell transmission model (CTM) and the macroscopic fundamental diagram (MFD), we aim to enhance coordination between these interconnected systems. Additionally, we propose a cooperative flow‑control strategy for large‑scale urban networks that seamlessly links expressways and surface streets. 
