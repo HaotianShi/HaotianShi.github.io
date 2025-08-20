@@ -21,7 +21,7 @@ Office Room: Tongda Building A503, Jiading Campus, Tongji University.
 
 我每年招收交通、车辆、计算机、数学等学科背景的博士和硕士。欢迎对自动驾驶、智能交通、AI、人机交互等方向感兴趣的同学报考。 
 
-办公室：同济大学嘉定校区通达馆A503。
+办公室：同济大学嘉定校区通达馆A503
 
 For More Information
 ------
