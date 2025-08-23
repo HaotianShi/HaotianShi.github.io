@@ -67,6 +67,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 28. Wu, Z., Chen, T., Xie, H., **Shi, H.**, Yang, Z., & Zhao, H. (2019). Optimization of Valve Strategy for High Compression‑Ratio Gasoline Engine Operating with Miller Cycle. *Journal of Combustion Science and Technology*, 25(4), 331–339. (EI, JIF: 1.7, Q3)
 
 29. Dong, H., **Shi, H.**, Wang, G., & Zhao, F. (2012). Skillful use of technology to ensure equipment shape and position tolerance requirements. *Journal of Ordnance Equipment Engineering*, 33(12), 49–50. (中文核心期刊)
+    
+30. Zhang, P., Huang, H., Zhou, H., **Shi, H.**, Long, K., & Li, X. (2025). Online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning. Transportation Research Part C: Emerging Technologies, 178, 105242.
 
 
 ## Conference Proceedings & Presentations <br>
