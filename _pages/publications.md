@@ -69,6 +69,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 29. Dong, H., **Shi, H.**, Wang, G., & Zhao, F. (2012). Skillful use of technology to ensure equipment shape and position tolerance requirements. *Journal of Ordnance Equipment Engineering*, 33(12), 49–50. (中文核心期刊)
     
 30. Zhang, P., Huang, H., Zhou, H., **Shi, H.**, Long, K., & Li, X. (2025). Online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning. Transportation Research Part C: Emerging Technologies, 178, 105242.
+    
+31. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety assurance adaptive control for modular autonomous vehicles. Communications in Transportation Research, 5, 100204.
 
 
 ## Conference Proceedings & Presentations <br>
