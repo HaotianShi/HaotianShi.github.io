@@ -217,7 +217,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/pdf/2501.12536) (Accepted by COMMTR, 2025)   
+### [Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](doi.org/10.1016/j.commtr.2025.100201) (COMMTR, 2025)   
 <p>
   <img src="/images/Interaction.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
