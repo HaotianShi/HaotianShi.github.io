@@ -23,5 +23,5 @@ author_profile: true
 - CVEN 456 Urban Traffic Facilities — *A Deep Reinforcement Learning‑Based Distributed Control Strategy for Connected Automated Vehicles in Mixed Traffic Platoon* (2023)
 
 ### Class Advisor (班主任)
-Tongji University Qidi College (同济大学启迪书院)  
+**Tongji University Qidi College (同济大学启迪书院)**  
 - Class 13 (启迪书院 13 班)
