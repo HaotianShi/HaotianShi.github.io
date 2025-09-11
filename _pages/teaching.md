@@ -25,4 +25,4 @@ author_profile: true
 ### Class Advisor & Mentor
 **Tongji University**
 - Class Advisor, Class 13 (2025 Cohort), Qidi College (同济大学启迪书院-2025级13班班主任)  
-- Freshman Mentor, 2025 Cohort, School of Transportation (同济大学交通学院-2025级新生导师)
+- Freshman Mentor, 2025 Cohort, College of Transportation Engineering (同济大学交通学院-2025级新生导师)
