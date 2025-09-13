@@ -52,25 +52,27 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 21. Gan, R., **Shi, H****., Li, P\*., Wu, K., An, B., Li, L., … & Ran, B. (2024). Goal‑based Neural Physics Vehicle Trajectory Prediction Model. *Transportation Research Part C: Emerging Technologies*. (SCI, JIF: 7.9, Q1)
 
-22. Long, K., Ma, C., Li, H, Li, Z., Huang, H., **Shi, H.**, … & Li, X. (2025). AI‑Enabled Digital Twin Framework for Safe and Sustainable Intelligent Transportation. *Sustainability*, 17(10), 4391. (SCI, JIF: 3.3, Q2)
+22. Wu, K., **Zhou, Y****., **Shi, H****., Lord, D., Ran, B., & Ye, X. (2025). *Hypergraph-based motion generation with multi-modal interaction relational reasoning*. Transportation Research Part C: Emerging Technologies. (SCI, JIF: 7.9, Q1)
 
-23. Shi, K., Wu, Y., **Shi, H.**, Zhou, Y., & Ran, B. (2022). An integrated car‑following and lane changing vehicle trajectory prediction algorithm based on a deep neural network. *Physica A: Statistical Mechanics and its Applications*, 599, 127303. (SCI, JIF: 2.8, Q2)
+23. Long, K., Ma, C., Li, H, Li, Z., Huang, H., **Shi, H.**, … & Li, X. (2025). AI‑Enabled Digital Twin Framework for Safe and Sustainable Intelligent Transportation. *Sustainability*, 17(10), 4391. (SCI, JIF: 3.3, Q2)
 
-24. Liu, C., Sheng, Z., Chen, S., **Shi, H.**, & Ran, B. (2023). Longitudinal control of connected and automated vehicles among signalized intersections in mixed traffic flow with deep reinforcement learning approach. *Physica A: Statistical Mechanics and its Applications*. (SCI, JIF: 2.8, Q2)
+24. Shi, K., Wu, Y., **Shi, H.**, Zhou, Y., & Ran, B. (2022). An integrated car‑following and lane changing vehicle trajectory prediction algorithm based on a deep neural network. *Physica A: Statistical Mechanics and its Applications*, 599, 127303. (SCI, JIF: 2.8, Q2)
 
-25. Wu, R., Li, L., **Shi, H.**, Rui, Y., Ngoduy, D., & Ran, B. (2024). Integrated driving risk surrogate model and car‑following behavior for freeway risk assessment. *Accident Analysis & Prevention*, 201, 107571. (SCI, JIF: 5.7, Q1)
+25. Liu, C., Sheng, Z., Chen, S., **Shi, H.**, & Ran, B. (2023). Longitudinal control of connected and automated vehicles among signalized intersections in mixed traffic flow with deep reinforcement learning approach. *Physica A: Statistical Mechanics and its Applications*. (SCI, JIF: 2.8, Q2)
 
-26. Yue, X., **Shi, H.**, Zhou, Y., & Li, Z. (2024). Hybrid car‑following control for CAVs: Integrating linear feedback and deep reinforcement learning to stabilize mixed traffic. *Transportation Research Part C: Emerging Technologies*, 167, 104773. (SCI, JIF: 7.6, Q1)
+26. Wu, R., Li, L., **Shi, H.**, Rui, Y., Ngoduy, D., & Ran, B. (2024). Integrated driving risk surrogate model and car‑following behavior for freeway risk assessment. *Accident Analysis & Prevention*, 201, 107571. (SCI, JIF: 5.7, Q1)
 
-27. Long, K., Liang, Z., **Shi, H.**, Chen, S., & Li, X. (2024). Traffic Oscillations Mitigation With Physics Enhanced Residual Learning (PERL)‑Based Predictive Control. *Communications in Transportation Research*. (SCI, JIF: 12.5, Q1)
+27. Yue, X., **Shi, H.**, Zhou, Y., & Li, Z. (2024). Hybrid car‑following control for CAVs: Integrating linear feedback and deep reinforcement learning to stabilize mixed traffic. *Transportation Research Part C: Emerging Technologies*, 167, 104773. (SCI, JIF: 7.6, Q1)
 
-28. Wu, Z., Chen, T., Xie, H., **Shi, H.**, Yang, Z., & Zhao, H. (2019). Optimization of Valve Strategy for High Compression‑Ratio Gasoline Engine Operating with Miller Cycle. *Journal of Combustion Science and Technology*, 25(4), 331–339. (EI, JIF: 1.7, Q3)
+28. Long, K., Liang, Z., **Shi, H.**, Chen, S., & Li, X. (2024). Traffic Oscillations Mitigation With Physics Enhanced Residual Learning (PERL)‑Based Predictive Control. *Communications in Transportation Research*. (SCI, JIF: 12.5, Q1)
 
-29. Dong, H., **Shi, H.**, Wang, G., & Zhao, F. (2012). Skillful use of technology to ensure equipment shape and position tolerance requirements. *Journal of Ordnance Equipment Engineering*, 33(12), 49–50. (中文核心期刊)
+29. Wu, Z., Chen, T., Xie, H., **Shi, H.**, Yang, Z., & Zhao, H. (2019). Optimization of Valve Strategy for High Compression‑Ratio Gasoline Engine Operating with Miller Cycle. *Journal of Combustion Science and Technology*, 25(4), 331–339. (EI, JIF: 1.7, Q3)
+
+30. Dong, H., **Shi, H.**, Wang, G., & Zhao, F. (2012). Skillful use of technology to ensure equipment shape and position tolerance requirements. *Journal of Ordnance Equipment Engineering*, 33(12), 49–50. (中文核心期刊)
     
-30. Zhang, P., Huang, H., Zhou, H., **Shi, H.**, Long, K., & Li, X. (2025). Online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning. Transportation Research Part C: Emerging Technologies, 178, 105242.
+31. Zhang, P., Huang, H., Zhou, H., **Shi, H.**, Long, K., & Li, X. (2025). Online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning. Transportation Research Part C: Emerging Technologies, 178, 105242.
     
-31. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety assurance adaptive control for modular autonomous vehicles. Communications in Transportation Research, 5, 100204.
+32. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety assurance adaptive control for modular autonomous vehicles. Communications in Transportation Research, 5, 100204.
 
 
 ## Conference Proceedings & Presentations <br>
