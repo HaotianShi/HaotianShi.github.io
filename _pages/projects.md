@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Principal‑Investigator (PI) Projects  
-- Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists - NSFC
-- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC
+- Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists - NSFC 2025-2028
+- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC 2026-2029
 
 ## Participated Projects <br>
 - National Key R&D Program “Key Special Project on Transportation Equipment and Intelligent Transportation Technology” — Autonomous Transportation System Computing Technology
