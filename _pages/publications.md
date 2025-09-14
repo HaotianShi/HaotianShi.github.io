@@ -52,7 +52,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 21. Gan, R., **Shi, H****., Li, P\*., Wu, K., An, B., Li, L., … & Ran, B. (2024). Goal‑based Neural Physics Vehicle Trajectory Prediction Model. *Transportation Research Part C: Emerging Technologies*. (SCI, JIF: 7.9, Q1)
 
-22. Wu, K., **Zhou, Y****., **Shi, H****., Lord, D., Ran, B., & Ye, X. (2025). *Hypergraph-based motion generation with multi-modal interaction relational reasoning*. Transportation Research Part C: Emerging Technologies. (SCI, JIF: 7.9, Q1)
+22. Wu, K., Zhou, Y\*., **Shi, H****., Lord, D., Ran, B., & Ye, X. (2025). *Hypergraph-based motion generation with multi-modal interaction relational reasoning*. Transportation Research Part C: Emerging Technologies. (SCI, JIF: 7.9, Q1)
 
 23. Long, K., Ma, C., Li, H, Li, Z., Huang, H., **Shi, H.**, … & Li, X. (2025). AI‑Enabled Digital Twin Framework for Safe and Sustainable Intelligent Transportation. *Sustainability*, 17(10), 4391. (SCI, JIF: 3.3, Q2)
 
