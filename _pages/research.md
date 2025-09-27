@@ -197,7 +197,7 @@ Accurate prediction of human-driven vehicle trajectories is essential for decisi
 <div style="clear: both;"></div>
 <hr/>
 
-### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://arxiv.org/abs/2409.11676) (Accepted by TR-Part C)     
+### [Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning](https://doi.org/10.1016/j.trc.2025.105349) (TR-Part C, 2025)     
 <p>
   <img src="/images/Hypergraph.png" alt="RHINO hypergraph motion generation"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
