@@ -78,6 +78,11 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+links:
+- label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "https://drive.google.com/file/d/1oBfvkOH0N1jRTve68K1aUqehzfCNEZVz/view?usp=sharing"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
