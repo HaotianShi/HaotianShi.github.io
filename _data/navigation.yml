@@ -39,8 +39,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Members"
-    url: /members/   
+  - title: "Team"
+    url: /team/   
     
   - title: "CV"
     url: https://drive.google.com/file/d/1oBfvkOH0N1jRTve68K1aUqehzfCNEZVz/view?usp=sharing
