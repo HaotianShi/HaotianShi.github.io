@@ -5,20 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching Support  
+**College of Transportation Engineering, Tongji University**
+- Traffic Engineering (交通工程) — Fall 2025  
+- Human–Vehicle Interaction for Intelligent Vehicles (智能汽车人机交互) - Fall 2025
+- Frontiers in Urban Transportation Research (城市交通学术前沿) - Fall 2025  
+
 ### Co‑Instructor  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
-
 - CEE 574 Traffic Management & Control
 
 ### Teaching Assistant  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
-
 - CEE 571 Urban Transportation Planning  
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ### Guest Lectures  
 **Texas A&M University**
-
 - CVEN 307 Transportation System — *A Deep Reinforcement Learning‑Based Distributed Connected Automated Vehicle Control under Communication Failure* (2022)  
 - CVEN 456 Urban Traffic Facilities — *A Deep Reinforcement Learning‑Based Distributed Control Strategy for Connected Automated Vehicles in Mixed Traffic Platoon* (2023)
 
