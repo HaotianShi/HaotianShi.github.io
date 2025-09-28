@@ -7,9 +7,9 @@ author_profile: true
 
 ### Teaching Support  
 **College of Transportation Engineering, Tongji University**
-- Traffic Engineering (交通工程) - Fall 2025  
-- Human–Vehicle Interaction for Intelligent Vehicles (智能汽车人机交互) - Fall 2025
-- Frontiers in Urban Transportation Research (城市交通学术前沿) - Fall 2025  
+- Traffic Engineering - Fall 2025  
+- Human–Vehicle Interaction for Intelligent Vehicles - Fall 2025
+- Frontiers in Urban Transportation Research - Fall 2025  
 
 ### Co‑Instructor  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
@@ -20,10 +20,17 @@ author_profile: true
 - CEE 571 Urban Transportation Planning  
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
-### Guest Lectures  
+### Guest Lectures & Invited Talks 
+**Tongji University**
+- TOPS Research Group - Connected and Automated Mixed Traffic Flow Modeling and Control Optimization （2025）
+- Department of Transportation Planning & Management - Connected and Automated Mixed Traffic Flow Modeling and Control Optimization（2025）
+  
 **Texas A&M University**
 - CVEN 307 Transportation System — *A Deep Reinforcement Learning‑Based Distributed Connected Automated Vehicle Control under Communication Failure* (2022)  
 - CVEN 456 Urban Traffic Facilities — *A Deep Reinforcement Learning‑Based Distributed Control Strategy for Connected Automated Vehicles in Mixed Traffic Platoon* (2023)
+  
+**ASCE Panel Speaker**
+- Mixed Platoon Control Strategy of Connected and Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. Young Faculty & Practitioner Workshop. ASCE International Conference on Transportation and Development (2023)
 
 ### Class Advisor & Mentor
 **Tongji University**
