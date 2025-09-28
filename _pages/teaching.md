@@ -9,16 +9,19 @@ author_profile: true
 **College of Transportation Engineering, Tongji University**
 - Traffic Engineering - Fall 2025  
 - Human–Vehicle Interaction for Intelligent Vehicles - Fall 2025
-- Frontiers in Urban Transportation Research - Fall 2025  
+- Frontiers in Urban Transportation Research - Fall 2025
+---
 
 ### Co‑Instructor  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
 - CEE 574 Traffic Management & Control
+---
 
 ### Teaching Assistant  
 **Civil & Environmental Engineering, University of Wisconsin–Madison**
 - CEE 571 Urban Transportation Planning  
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
+---
 
 ### Guest Lectures & Invited Talks 
 **Tongji University**
@@ -34,6 +37,7 @@ author_profile: true
   
 **ASCE Panel Speaker**
 - Mixed Platoon Control Strategy of Connected and Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. Young Faculty & Practitioner Workshop. ASCE International Conference on Transportation and Development (2023)
+---
 
 ### Class Advisor & Mentor
 **Tongji University**
