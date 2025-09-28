@@ -28,6 +28,9 @@ author_profile: true
 **Texas A&M University**
 - CVEN 307 Transportation System — *A Deep Reinforcement Learning‑Based Distributed Connected Automated Vehicle Control under Communication Failure* (2022)  
 - CVEN 456 Urban Traffic Facilities — *A Deep Reinforcement Learning‑Based Distributed Control Strategy for Connected Automated Vehicles in Mixed Traffic Platoon* (2023)
+
+**INFORMS Panel Speaker**
+- Distributed Connected and Automated Vehicles Control Under Real-Time Aggregated Macroscopic Car-Following Behavior Estimation Based on Deep Reinforcement Learning. INFORMS 2023
   
 **ASCE Panel Speaker**
 - Mixed Platoon Control Strategy of Connected and Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. Young Faculty & Practitioner Workshop. ASCE International Conference on Transportation and Development (2023)
