@@ -27,7 +27,7 @@ author_profile: true
   Tianjin University · Sep 2013 – Jun 2017
 
 ## Professional Experiences <br>
-- **Associate Professor (Tenured)**  
+- **Tenured Associate Professor**  
   Tongji University, College of Transportation · April 2025 – Present <br>
   (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN); Personel web at Tongji: [https://faculty.tongji.edu.cn/shihaotian/en/index.htm](https://faculty.tongji.edu.cn/shihaotian/en/index.htm))
 
