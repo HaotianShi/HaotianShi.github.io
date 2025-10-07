@@ -80,7 +80,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 2. Bai, Y., Huang R., **Shi, H**\*, DyScene Enhancing Physical Realism: A Physics-Informed Graph Convolutional Network for Multimodal Stochastic Bicycle Trajectories Prediction. 105 st Annual Meeting of the Transportation Research Board, Washington.
 
-3. Liang, S., Ma, C., Li, P., **Shi, H**, Liu, J., Li, X. 105 st Annual Meeting of the Transportation Research Board, Washington.
+3. Liang, S., Ma, C., Li, P., **Shi, H**, Liu, J., Li, X. Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. 105 st Annual Meeting of the Transportation Research Board, Washington.
 
 4. Chenyi Xie, Yuan Zheng, Shen Li, Lu Bai, **Haotian Shi**, Bin Ran. A PHYSICS-INFORMED NEURAL NETWORK FOR LANE-CHANGING TRAJECTORY RECONSTRUCTION FROM NOISY AND SPARSE OBSERVATIONS. HKSTS2025.
 
