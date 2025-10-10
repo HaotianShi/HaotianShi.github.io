@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Principal‑Investigator (PI) Projects  
+## Projects as Principal Investigator (PI)  
 - Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists - NSFC (2025-2028)
 - Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC (2026-2029)
 - Tongji University Young Talent Program (Category A) – High-Level Talent Research Project: "Assessment, Testing, and Decision Optimization for Autonomous Vehicles" (2026–2029)
