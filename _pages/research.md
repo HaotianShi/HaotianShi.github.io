@@ -164,7 +164,7 @@ In a mixed traffic environment, it is crucial to model and accurately calibrate 
 <div style="clear: both;"></div>
 <hr/>
 
-### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://arxiv.org/abs/2411.16747) (Accepted by COMMTR, 2025)    
+### [FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction](https://doi.org/10.1016/j.commtr.2025.100215) (COMMTR, 2025)    
 <p>
   <img src="/images/FollowGen.png" alt="FollowGen diffusion model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
