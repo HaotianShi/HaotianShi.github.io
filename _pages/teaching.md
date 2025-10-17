@@ -21,6 +21,8 @@ author_profile: true
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ## Guest Lectures & Invited Talks 
+- RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
+
 **Tongji University**
 - TOPS Research Group - Connected and Automated Mixed Traffic Flow Modeling and Control Optimization （2025）
 - Department of Transportation Planning & Management - Connected and Automated Mixed Traffic Flow Modeling and Control Optimization（2025）
