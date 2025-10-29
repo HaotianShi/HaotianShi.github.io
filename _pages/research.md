@@ -294,7 +294,7 @@ Connected automated vehicles (CAVs) are broadly recognized as next-generation tr
 <div style="clear: both;"></div>
 <hr/>
 
-### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662) (IEEE IOT, 2023)  
+### [A Predictive Deep Reinforcement Learning Based Connected Automated Vehicle Anticipatory Longitudinal Control in a Mixed Traffic Lane Change Condition](https://ieeexplore.ieee.org/abstract/document/10988662) (IEEE IOT, 2025)  
 <p>
   <img src="/images/LaneChange.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
