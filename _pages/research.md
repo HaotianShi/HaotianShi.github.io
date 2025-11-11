@@ -230,7 +230,7 @@ This paper presents the development of a comprehensive dataset capturing interac
 ### 1.3  Large Vision-Language Models (VLMs) enabled prediction and planning for autonomous driving
 Motivated by the emergent reasoning capabilities of LLMs and VLMs, we also focus on the application of VLMs in enhancing prediction and planning for end-to-end (E2E) autonomous driving, leveraging their multimodal understanding to improve decision-making and safety. 
 
-### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251) (Under Revision, TR-Part C)   
+### [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/pdf/2408.09251) (Accepted by TR-Part C)   
 <p>
  <img src="/images/V2X-VLM.png" alt="MPL model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
