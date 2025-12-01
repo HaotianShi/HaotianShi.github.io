@@ -76,6 +76,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
     
 33. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety assurance adaptive control for modular autonomous vehicles. Communications in Transportation Research, 5, 100204.
 
+34.  Long, K., **Shi, H.**, Liu, J., & Li, X. (2025). Vlm-mpc: Vision language foundation model (vlm)-guided model predictive controller (mpc) for autonomous driving. Transportation Research Part C: Emerging Technologies. 
+
 
 ## Conference Proceedings & Presentations <br>
 1. Chen, T., **Shi, H**\*., Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. ASCE International Conference on Transportation and Development 2022 (pp. 48‑60). (Conference Proceedings)
