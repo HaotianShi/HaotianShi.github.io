@@ -11,7 +11,7 @@ I am Haotian Shi (石皓天), a Tenured Associate Professor at the College of Tr
 
 My primary research interests include Connected and Automated Vehicles (CAVs), traffic flow modeling and control optimization, AI-empowered intelligent transportation systems, and human-machine intelligent interaction. I have published over 60 academic papers in top-tier transportation or computer science journals such as Transportation Research Part C/E、IEEE T-ITS、CACAIE、COMMTR、AAP. Additionally, I hold more than 20 granted invention patents in United States and China.
 
-I recruit Ph.D. and Master’s students each year with backgrounds in transportation, automotive engineering, computer science, mathematics, and related fields. Students interested in autonomous driving, intelligent transportation systems, AI, and human-machine interaction are welcome to apply.
+I recruit Ph.D. and Master’s students and Postdoc with backgrounds in transportation, automotive engineering, computer science, mathematics, and related fields. Students interested in autonomous driving, intelligent transportation systems, AI, and human-machine interaction are welcome to apply.
 
 Office Room: Tongda Building A503, Jiading Campus, Tongji University.
 
@@ -19,7 +19,7 @@ Office Room: Tongda Building A503, Jiading Campus, Tongji University.
 
 自动驾驶行为建模与控制优化、智能网联汽车测试评估、端到端算法场景生成、智能驾驶人机交互、AI赋能自主式交通系统等。已发表学术论文60余篇，其中以一作/通讯在TR Part C/E、IEEE T-ITS、CACAIE、COMMTR等交通\计算机领域发表顶刊论文20余篇。授权中美发明专利20余项。在TRB、INFORMS等国际学术会议上作学术报告30余次。主持国自然优秀青年科学基金项目（海外）、国自然青年科学基金（C类）等项目。入选国家级高层次青年人才、上海市高层次人才，上海市晨光计划。获国家自然科学基金委指导的首届Onsite自动驾驶算法挑战赛高速赛段第三名、威斯康辛智能交通协会奖、IEEE“塑造智能交通未来”一等奖等奖项。担任AAAI 2026、ITFT 2024等会议程序委员会委员，世界交通运输大会（WTC）智能云管云控、智能网联与车路协同控制、CAV政策法规、智能驾驶出行服务等技术委员会国际委员，中国公路学会高级会员。
 
-我每年招收交通、车辆、计算机、数学等学科背景的博士和硕士。欢迎对自动驾驶、智能交通、AI、人机交互等方向感兴趣的同学报考。 
+长期招收交通、车辆、计算机、数学等学科背景的博士、硕士和博士后。欢迎对自动驾驶、智能交通、AI、人机交互等方向感兴趣的同学报考。 
 
 办公室：同济大学嘉定校区通达馆A503
 
