@@ -8,7 +8,7 @@ author_profile: true
 ## Editor & Memberships <br>
 - Lead Guest Editor — *Journal of Electronics* (Q2), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
 - World Transport Convention (WTC) — Technical Committees on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
-- 2024 International Symposium on Intelligent Technology for Future Transportation (ITFT 2024) - Program Committee Member  
+- 2024,2025 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
 - AAAI 2026 - Program Committee
 - Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport 
 - American Society of Civil Engineers (ASCE) - Professional Affiliate Member
