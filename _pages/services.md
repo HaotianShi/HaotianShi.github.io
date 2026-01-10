@@ -10,6 +10,7 @@ author_profile: true
 - World Transport Convention (WTC) — Technical Committees on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
 - 2024,2025 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
 - AAAI 2026 - Program Committee
+- International Conference on Smart Electrical Grid and Renewable Energy (SEGRE) - Steering Committee
 - Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport 
 - American Society of Civil Engineers (ASCE) - Professional Affiliate Member
 - IEEE Intelligent Transportation Systems Society (ITSS) - Member 
