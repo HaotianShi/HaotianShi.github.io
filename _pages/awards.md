@@ -4,10 +4,12 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-
 - **Shanghai “Morning Light Program” Scholar**  
   Shanghai Municipal Education Commission · 2025 
 
+- **SAE Aumoative Intelligent Transportation Technology Innovation Award - First Prize**  
+  SAE International · 2025 
+  
 - **The First OnSite Autonomous Driving Algorithm Challenge (第一届OnSite自动驾驶算法挑战赛) — Third Place**  
   Tongji University · Oct 2023  
 
