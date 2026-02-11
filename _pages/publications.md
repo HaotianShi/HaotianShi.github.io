@@ -154,7 +154,11 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 37. Chen, T., **Shi, H**, Vorhes, G., Parker, S. T., & Noyce, D. A. Data and System Architecture Improvements for Statewide Crash Mapping and Analysis. Presented at 99 th Annual Meeting of the Transportation Research Board, Washington, D.C., 2020. 20-05109. (Poster).
 
-38. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition). 
+38. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition).
+
+39. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. (Accepted)
+
+40. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment. (Accepted)
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
