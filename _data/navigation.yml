@@ -59,3 +59,7 @@ research-subnav:
     url: /research/#cav-control
   - title: "Traffic Management"
     url: /research/#traffic-management
+  - title: "Human-Machine Interaction"
+    url: /research/#hmi
+  - title: "3D Scene Generation & E2E AV Testing"
+    url: /research/#scene-testing
