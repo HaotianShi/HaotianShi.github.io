@@ -70,7 +70,9 @@ Over the years, I have investigated the following broad areas of research: 1) in
 /* 激活态：白底/深字 + 底部强调线（不加内容边框） */
 #tab-behavior:checked    ~ .tab-labels label[for="tab-behavior"],
 #tab-cav-control:checked ~ .tab-labels label[for="tab-cav-control"],
-#tab-management:checked  ~ .tab-labels label[for="tab-management"] {
+#tab-management:checked  ~ .tab-labels label[for="tab-management"],
+#tab-hmi:checked         ~ .tab-labels label[for="tab-hmi"],
+#tab-scene-test:checked  ~ .tab-labels label[for="tab-scene-test"] {
   background: var(--tab-active-bg);
   color: var(--tab-active-text);
   /* 用 box-shadow 画一条“底部强调线”，对比更强 */
@@ -92,7 +94,9 @@ Over the years, I have investigated the following broad areas of research: 1) in
 /* 显示被选中的面板（不加边框，仅保留内边距） */
 #tab-behavior:checked    ~ #panel-behavior,
 #tab-cav-control:checked ~ #panel-cav-control,
-#tab-management:checked  ~ #panel-management {
+#tab-management:checked  ~ #panel-management,
+#tab-hmi:checked         ~ #panel-hmi,
+#tab-scene-test:checked  ~ #panel-scene-test {
   display: block;
   padding: 12px 0 0 0;  /* 可按需调节；不加边框 */
 }
@@ -106,12 +110,16 @@ Over the years, I have investigated the following broad areas of research: 1) in
   <input type="radio" name="research-tabs" id="tab-behavior" checked>
   <input type="radio" name="research-tabs" id="tab-cav-control">
   <input type="radio" name="research-tabs" id="tab-management">
+  <input type="radio" name="research-tabs" id="tab-hmi">
+  <input type="radio" name="research-tabs" id="tab-scene-test">
 
   <!-- 标签栏（点击即可切换） -->
   <div class="tab-labels">
     <label for="tab-behavior"     title="Interactive driving behavior modeling and prediction">1) Driving Behavior Modeling & Prediction</label>
     <label for="tab-cav-control"  title="Optimal control of CAVs in mixed traffic environments">2) CAV Control</label>
     <label for="tab-management"   title="Traffic management for urban, rural, and tribal regions">3) Traffic Management</label>
+    <label for="tab-hmi"          title="Human-machine interaction for autonomous driving">4) Human-Machine Interaction</label>
+    <label for="tab-scene-test"   title="3D scene generation and end-to-end AV testing">5) 3D Scene Generation & E2E AV Testing</label>
   </div>
 
   <!-- 面板 1：Behavior Modeling & Prediction -->
@@ -399,6 +407,45 @@ With the widespread application of Internet of Things (IoT) technology, there ha
 <hr/>
 
   </section>
+
+  <!-- 面板 4：Human-Machine Interaction -->
+  <section id="panel-hmi" class="tab-panel" markdown="1">
+  <a id="hmi"></a>
+
+### 4  Human-machine interaction for autonomous driving
+To improve the safety and usability of conditionally automated driving, our research investigates adaptive takeover request (TOR) design from a human-centered perspective. We focus on stage-wise takeover mechanisms, cognitive-process-aware modeling, and adaptive strategy generation to support robust human–machine collaboration during control transitions.
+
+### Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design
+<p>
+  <img src="/images/TOR.png" alt="Driver stage-wise takeover behavior and TOR cognitive process model"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+  In conditionally automated driving, adaptive takeover request (TOR) design is critical to ensuring safe human-machine interaction. However, current TOR design strategies remain limited by three major shortcomings: a lack of stage-wise optimization objectives, insufficient cognitive-mechanism modeling, and inadequate adaptive design. To address these challenges, this study proposes a framework for cognitive behavioral takeover requests. To identify behavioral bottlenecks, we introduce a posture-perception-cognition architecture that models takeover as a three-stage control recovery process. We then develop a driver cognitive process model to capture how acoustic features, multimodal integration, and semantic information influence drivers’ response times and cognitive pathways, thus constructing a TOR strategy parameter space. Building on these insights, we propose a stage–strategy matching mechanism that adaptively generates and selects tailored TOR content to target the performance-limiting stage. The proposed framework is validated through experiments conducted on a human-in-the-loop driving simulation platform (N=41). The results indicate that the proposed framework achieves high precision in identifying the bottleneck stage, reaching 90.5%, 93.9%, and 93.1% in the three stages. It also reduces reaction time by 0.27 s, 0.48 s, and 0.15 s, respectively, and improves safety, efficiency, and comfort. In general, by dynamically identifying the bottleneck stage, the framework enables targeted optimization of TOR strategies and supports safer takeover mechanisms.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
+  </section>
+
+  <!-- 面板 5：3D Scene Generation and E2E AV Testing -->
+  <section id="panel-scene-test" class="tab-panel" markdown="1">
+  <a id="scene-testing"></a>
+
+### 5  3D scene generation and end-to-end AV testing
+We develop closed-loop simulation methodologies for evaluating end-to-end autonomous driving systems under complex and controllable risks. Our work emphasizes high-fidelity 3D scene reconstruction, risk-controllable trajectory generation, perception degradation modeling, and interpretable robustness diagnosis.
+
+### RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting Takeover Requests Design
+<p>
+  <img src="/images/Risk3D.png" alt="RiskMatrix-3D dual-risk controllable closed-loop testing framework"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+  End-to-end (E2E) autonomous driving models have shown great promise, yet verifying their safety under complex traffic scenarios remains a critical barrier to deployment. Closed-loop simulation, with its advantages in reproducibility, safety, and corner-case coverage, has become an essential tool for validating E2E models. However, real-world traffic risks are inherently multi-dimensional, encompassing both interaction risk and perception risk. Existing frameworks focus predominantly on interaction risk while largely neglecting perception risk, leading to incomplete safety assessments. Moreover, current trajectory generation methods struggle to balance risk controllability with real-time execution, and perception degradation methods lack spatio-temporal consistency and physically interpretable control. To bridge these gaps, this paper proposes RiskMatrix-3D, a 3D Gaussian Splatting (3DGS)-based closed-loop testing framework that enables dual-risk controllable testing for E2E autonomous driving, with two decoupled parameters that independently regulate interaction risk and perception risk. For interaction risk, a Generate-Evaluate-Select (GES) strategy generates candidate trajectories via parallel sampling, evaluates close-range safety through inter-vehicle corner-point distances, and selects the trajectory matching the target risk level, achieving real-time execution. For perception risk, a World-coordinate Atmospheric Fog Scattering (WAFS) method constructs a physically grounded fog density field anchored in world coordinates, providing intensity-controllable, physically interpretable, and spatiotemporally consistent visibility degradation. Experiments on the nuScenes dataset with three E2E models (UniAD, LTF, VAD) demonstrate that both risk dimensions can be independently and monotonically controlled. A Dual-Risk Amplification Effect is further identified: perception degradation exacerbates interaction risk under identical interaction settings. Microscopic analysis reveals that BEV feature distortion and detection confidence decay jointly drive this amplification, offering fine-grained diagnostic signals for assessing E2E model robustness under coupled risk conditions.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
+  </section>
+  
 </div>
 
 <script>
@@ -408,6 +455,8 @@ With the widespread application of Internet of Things (IoT) technology, there ha
     "#behavior": "tab-behavior",
     "#cav-control": "tab-cav-control",
     "#traffic-management": "tab-management"
+    "#hmi": "tab-hmi",
+    "#scene-testing": "tab-scene-test"
   };
 
   function activateFromHash() {
