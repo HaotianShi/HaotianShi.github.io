@@ -29,7 +29,7 @@ author_profile: true
 ## Professional Experiences <br>
 - **Tenured Associate Professor**  
   Tongji University, College of Transportation · April 2025 – Present <br>
-  (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN); Personel web at Tongji: [https://faculty.tongji.edu.cn/shihaotian/en/index.htm](https://faculty.tongji.edu.cn/shihaotian/en/index.htm))
+  (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN); [Personel web at Tongji](https://faculty.tongji.edu.cn/shihaotian/en/index.htm)
 
 - **Research Associate**  
   Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 <br>
