@@ -14,6 +14,7 @@ author_profile: true
 
 ## Participated Projects <br>
 - National Key R&D Program “Key Special Project on Transportation Equipment and Intelligent Transportation Technology” — Autonomous Transportation System Computing Technology
+- Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment. FHWA.
 - CPS: Small: NSF-DST: Turning “Tragedy of the Commons (ToC)” into “Emergent Cooperative Behavior (ECB)” for Automated Vehicles at Intersections with Meta-Learning. 
