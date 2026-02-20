@@ -158,7 +158,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 39. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition).
 
-40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. (Accepted)
+40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. 
 
 41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment. (Accepted)
 
