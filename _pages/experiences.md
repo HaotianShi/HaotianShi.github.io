@@ -18,7 +18,7 @@ author_profile: true
 
 - **M.S. in Power Machinery & Engineering**  
   Tianjin University · Sep 2017 – Jun 2020 <br>
-  (Supervised by Prof. [Hua Zhao](https://www.brunel.ac.uk/people/hua-zhao) and Prof. [Hui Xie](https://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1565))   
+  (Supervised by Prof. [Hua Zhao](https://www.brunel.ac.uk/people/hua-zhao) and Prof. [Hui Xie](https://me.tju.edu.cn/info/2080/43171.htm))   
 
 - **B.S. in Computer Science & Technology**  
   Tianjin University · Sep 2013 – Jun 2017  
