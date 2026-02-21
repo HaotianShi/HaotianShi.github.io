@@ -84,7 +84,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 2. Chen, T., **Shi, H**\*., Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. ASCE International Conference on Transportation and Development 2022 (pp. 48‑60). (Conference Proceedings)
 
-3. RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
+3. **Shi, H**. RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
 
 4. Bai, Y., Huang R., **Shi, H**\*, DyScene Enhancing Physical Realism: A Physics-Informed Graph Convolutional Network for Multimodal Stochastic Bicycle Trajectories Prediction. 105 st Annual Meeting of the Transportation Research Board, Washington.
 
