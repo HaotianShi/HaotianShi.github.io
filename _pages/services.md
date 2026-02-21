@@ -11,7 +11,8 @@ author_profile: true
 - 2024,2025 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
 - AAAI 2026 - Program Committee
 - International Conference on Smart Electrical Grid and Renewable Energy (SEGRE) - Steering Committee
-- Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport 
+- Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
+- Organizing Committee Member, 2026 OnSite Autonomous Driving Algorithm Challenge — Real-Vehicle Competition
 - American Society of Civil Engineers (ASCE) - Professional Affiliate Member
 - IEEE Intelligent Transportation Systems Society (ITSS) - Member 
 - China Highway & Transportation Society (CHTS) - Senior Member
