@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor
+**College of Transportation Engineering, Tongji University**
+- Autonomous Transportation Technologies (in Chinese) - Spring 2026
+- Autonomous Transportation Technologies (in English) - Spring 2026
+
 ## Teaching Support  
 **College of Transportation Engineering, Tongji University**
 - Traffic Engineering - Fall 2025  
