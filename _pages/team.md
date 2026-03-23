@@ -21,21 +21,21 @@ author_profile: true
 - [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Co-advised with Prof. Ying Ni, 2024 Fall – Present)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*
 
-- **Xucheng Luo** — PhD Student (Incoming 2026 Fall)
+- **Xucheng Luo** (Incoming 2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
-- **Shangxuan Ding** — PhD Student (Incoming 2026 Fall)
+- **Shangxuan Ding** (Incoming 2026 Fall)  
   *Research Area: Connected Automated Transportation Systems Control*
   
-- **Qingyu Li** — PhD Student (Co-advised with Prof. Jian Sun, Incoming 2026 Fall)
+- **Qingyu Li** (Co-advised with Prof. Jian Sun, Incoming 2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
   
- ## Master Students <br>
-- **Yuechao Wang** — Master’s Student (Incoming 2026 Fall)
-    *Research Area: Driving Behavior Modeling & Prediction*
+## Master Students <br>
+- **Yuechao Wang** (Incoming 2026 Fall)  
+  *Research Area: Driving Behavior Modeling & Prediction*
   
-- **Yuanbiao Cao** — Master’s Student (Incoming 2026 Fall)
-    *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
+- **Yuanbiao Cao** (Incoming 2026 Fall)  
+  *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
 
 
 
