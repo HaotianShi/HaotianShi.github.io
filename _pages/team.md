@@ -21,6 +21,9 @@ author_profile: true
 - [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Co-advised with Prof. Ying Ni, 2024 Fall – Present)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*
 
+- [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2424.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, 2025 Fall – Present)  
+  *Research Area: Large Language Model for Transportation Domain Control and Management*
+
 - **Xucheng Luo** (Incoming 2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
