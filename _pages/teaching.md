@@ -12,6 +12,8 @@ author_profile: true
 
 ## Teaching Support  
 **College of Transportation Engineering, Tongji University**
+- Practical Training in Intelligent Vehicle–Infrastructure Systems - Spring 2026  
+- Introduction to Intelligent Transportation and Vehicles - Spring 2026  
 - Traffic Engineering - Fall 2025  
 - Human–Vehicle Interaction for Intelligent Vehicles - Fall 2025
 - Frontiers in Urban Transportation Research - Fall 2025
