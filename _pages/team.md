@@ -28,7 +28,7 @@ author_profile: true
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
 - **Shangxuan Ding** (Incoming 2026 Fall)  
-  *Research Area: Connected Automated Transportation Systems Control*
+  *Research Area: Connected Automated Transportation Systems Control and Optimization*
   
 - **Qingyu Li** (Co-advised with Prof. Jian Sun, Incoming 2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
