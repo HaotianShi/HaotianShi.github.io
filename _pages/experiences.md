@@ -51,4 +51,4 @@ author_profile: true
 
 - **Research Assistant**  
   [National Key Laboratory of Engines](https://en.tju.edu.cn/info/1035/1375.htm), Tianjin University · Jan 2017 – Dec 2018 <br>
-  (Advised by Prof. [Tao Chen](https://faculty.tju.edu.cn/ChenTao/en/index.htm)）
+  (Advised by Prof. [Tao Chen](https://me.tju.edu.cn/info/2080/41971.htm)）
