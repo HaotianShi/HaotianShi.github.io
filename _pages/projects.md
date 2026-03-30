@@ -12,13 +12,13 @@ author_profile: true
 - Tongji University Young Talent Program (Category A) – High-Level Talent Research Project: "Assessment, Testing, and Decision Optimization for Autonomous Vehicles" (2026–2029)
 - Contract for Commissioned Analysis of a Control Moment Gyroscope - Chongqing University of Technology (2025-2026)
 
-## Participated Projects <br>
+## Currently Participated Projects <br>
 - National Key R&D Program “Key Special Project on Transportation Equipment and Intelligent Transportation Technology” — Autonomous Transportation System Computing Technology
 - Ministry of Education Pilot Project on Disciplinary Breakthroughs in Autonomous Driving and Transportation
 - NSFC Excellent Research Group Project on Intelligent Control of Autonomous Driving Traffic
 - Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project
 
-Previously Participated Projects：
+## Previously Participated Projects <br>
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment. FHWA.
 - CPS: Small: NSF-DST: Turning “Tragedy of the Commons (ToC)” into “Emergent Cooperative Behavior (ECB)” for Automated Vehicles at Intersections with Meta-Learning. 
