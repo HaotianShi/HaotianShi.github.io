@@ -17,6 +17,7 @@ author_profile: true
 - Ministry of Education Pilot Project on Disciplinary Breakthroughs in Autonomous Driving and Transportation
 - NSFC Excellent Research Group Project on Intelligent Control of Autonomous Driving Traffic
 - Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project
+
 Previously Participated Projects：
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment. FHWA.
