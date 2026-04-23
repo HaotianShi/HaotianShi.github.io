@@ -195,33 +195,35 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 15. Ran B., Dong S., Cheng Y., Chen T., Li S., Li X., Shi K, **Shi H**, Wu K., Yao Y., Yi R. Device allocation system: U.S. Patent Application 17/192,441 [P]. 2025.
 
-16. **Shi H** & Liang X. A kind of AMT clutch friction plate rapid wear test system and method: CN Patent Application CN 105606362B. 2019.
+16. Ran, B., Fu, S., Gan, R., Cheng, Y., Li, S., Tian, K., Chen, T., Dong, S., Shi, K., **Shi, H**. and Li, X., 2024. Distributed computing for autonomous vehicles. U.S. Patent Application 18/762,995. 
 
-17. **Shi H**, Wu Z., Zhang J., Han Y., Lan S., & Liang X. AMT clutch plate rapid wear testing system: CN Patent Application CN 205449493U. 2016.
+17. **Shi H** & Liang X. A kind of AMT clutch friction plate rapid wear test system and method: CN Patent Application CN 105606362B. 2019.
 
-18. **Shi H**, Wu Z., Han Y., Zhang J., Lan S., & Liang X. Automobile suspension system vibration energy recovering apparatus. CN 105252987A.
+18. **Shi H**, Wu Z., Zhang J., Han Y., Lan S., & Liang X. AMT clutch plate rapid wear testing system: CN Patent Application CN 205449493U. 2016.
 
-19. **Shi H**, Wu Z., Lan S., Han Y., Zhang J., & Liang X. Vehicle shock absorber vibration energy recovery unit: CN Patent Application CN 205123547U. 2016.
+19. **Shi H**, Wu Z., Han Y., Zhang J., Lan S., & Liang X. Automobile suspension system vibration energy recovering apparatus. CN 105252987A.
 
-20. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. A kind of vehicle shock absorber vibration energy recovery device: CN Patent Application CN105226910A. 2016.
+20. **Shi H**, Wu Z., Lan S., Han Y., Zhang J., & Liang X. Vehicle shock absorber vibration energy recovery unit: CN Patent Application CN 205123547U. 2016.
 
-21. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. Car suspension system vibration energy recovery unit: CN Patent Application CN205112909U. 2016.
+21. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. A kind of vehicle shock absorber vibration energy recovery device: CN Patent Application CN105226910A. 2016.
 
-22. Ran B., Zhao K., Li H., Zhang M., Chen Z., Jiang J., Wu R., Zhang W., He S., Li S., Cheng Y., **Shi H**. Vehicle-mounted intelligent unit with fusion perception and collaborative decision function and control method: CN Patent Application CN 113954879B. 2023.
+22. **Shi H**, Wu Z., Lan S., Zhang J., Han Y., & Liang X. Car suspension system vibration energy recovery unit: CN Patent Application CN205112909U. 2016.
 
-23. Nie Q., Zhang H., Ou J., Pjing, Yue P., Zhou Y., **Shi H**, Xiao X. Multi-strategy fusion control method for bus operation in intelligent network environment. CN115691196A. 2023.
+23. Ran B., Zhao K., Li H., Zhang M., Chen Z., Jiang J., Wu R., Zhang W., He S., Li S., Cheng Y., **Shi H**. Vehicle-mounted intelligent unit with fusion perception and collaborative decision function and control method: CN Patent Application CN 113954879B. 2023.
 
-24. Ran B., Li S., Cheng Y., Chen T., Dong S., Shi K, **Shi H**, Li X. Distributed driving system and method for automatically driving vehicle: CN Patent Application CN 114585876B. 2023.
+24. Nie Q., Zhang H., Ou J., Pjing, Yue P., Zhou Y., **Shi H**, Xiao X. Multi-strategy fusion control method for bus operation in intelligent network environment. CN115691196A. 2023.
 
-25. Li S., Ran B., Cheng Y., Chen Z., He S., Rui Y., Li R., Gu H., Li L., Chen T., Li X., Dong S., Shi K, **Shi H**, Yao Y., Wu K., Zhang X. Intelligent roadside tool box: CN Patent Application CN 113496602B. 2023.
+25. Ran B., Li S., Cheng Y., Chen T., Dong S., Shi K, **Shi H**, Li X. Distributed driving system and method for automatically driving vehicle: CN Patent Application CN 114585876B. 2023.
 
-26. Ran B., Liang B., Lu W., Yi X., Rui Y., Kong L., Gong Y., Shi K, **Shi H**, Cheng Y., Chen T., He S., Yao Y., Wu K., Fu S. Virtual road configuration module: CN Patent Application CN114664116B. 2023.
+26. Li S., Ran B., Cheng Y., Chen Z., He S., Rui Y., Li R., Gu H., Li L., Chen T., Li X., Dong S., Shi K, **Shi H**, Yao Y., Wu K., Zhang X. Intelligent roadside tool box: CN Patent Application CN 113496602B. 2023.
 
-27. Chen T., **Shi H**, and Yao Z. Gasoline engine starting method combining variable oil injection strategy with waste gas energy utilization: CN Patent Application CN 111550322B. 2022.
+27. Ran B., Liang B., Lu W., Yi X., Rui Y., Kong L., Gong Y., Shi K, **Shi H**, Cheng Y., Chen T., He S., Yao Y., Wu K., Fu S. Virtual road configuration module: CN Patent Application CN114664116B. 2023.
 
-28. Chen T., Yao Z., **Shi H**. Method for improving cold start combustion of gasoline engine with variable residual waste gas rate: CN Patent Application CN 111550315B. 2022.
+28. Chen T., **Shi H**, and Yao Z. Gasoline engine starting method combining variable oil injection strategy with waste gas energy utilization: CN Patent Application CN 111550322B. 2022.
 
-29. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
+29. Chen T., Yao Z., **Shi H**. Method for improving cold start combustion of gasoline engine with variable residual waste gas rate: CN Patent Application CN 111550315B. 2022.
+
+30. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
 
 ## Standard Guidelines <br>
 1.	Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems (车路协同自动驾驶系统版本建设指南).
