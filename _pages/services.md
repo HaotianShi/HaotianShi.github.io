@@ -5,14 +5,15 @@ permalink: /services/
 author_profile: true
 ---
 
-## Editor & Memberships <br>
+## Editorial Roles, Organizing Activities, & Professional Memberships <br>
 - Lead Guest Editor — *Journal of Electronics* (Q2), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
+- IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: Advances in Designing and Evaluating AI-empowered Human-Autonomous Vehicle Interaction, Organizer and Host.  
 - World Transport Convention (WTC) — Technical Committees on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
 - 2024,2025,2026 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
 - AAAI 2026 - Program Committee
 - International Conference on Smart Electrical Grid and Renewable Energy (SEGRE) - Steering Committee
 - Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
-- Organizing Committee Member, 2026 OnSite Autonomous Driving Algorithm Challenge — Real-Vehicle Competition
+- 2026 OnSite Autonomous Driving Algorithm Challenge, Organizing Committee Member — Real-Vehicle Competition
 - American Society of Civil Engineers (ASCE) - Professional Affiliate Member
 - IEEE Intelligent Transportation Systems Society (ITSS) - Member 
 - China Highway & Transportation Society (CHTS) - Senior Member
