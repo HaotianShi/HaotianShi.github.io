@@ -162,7 +162,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. 
 
-41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment. (Accepted)
+41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment.
+
+42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026. 
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
