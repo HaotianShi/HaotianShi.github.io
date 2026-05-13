@@ -4,6 +4,9 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+- **Outstanding Reviewer of China Journal of Highway and Transport**  
+  China Journal of Highway and Transport · 2026
+
 - **Shanghai “Morning Light Program” Scholar**  
   Shanghai Municipal Education Commission · 2025 
 
