@@ -164,7 +164,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment.
 
-42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026. 
+42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026.
+
+43.  **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
