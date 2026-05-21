@@ -24,20 +24,20 @@ author_profile: true
 - [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2424.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, 2025 Fall – Present)  
   *Research Area: Large Language Model for Transportation Domain Control and Management*
 
-- **Xucheng Luo** (Incoming 2026 Fall)  
+- **Xucheng Luo** (2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
-- **Shangxuan Ding** (Incoming 2026 Fall)  
+- **Shangxuan Ding** (2026 Fall)  
   *Research Area: Connected Automated Transportation Systems Control and Optimization*
   
-- **Qingyu Li** (Co-advised with Prof. Jian Sun, Incoming 2026 Fall)  
+- **Qingyu Li** (Co-advised with Prof. Jian Sun, 2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
   
 ## Master Students <br>
-- **Yuechao Wang** (Incoming 2026 Fall)  
+- **Yuechao Wang** (2026 Fall)  
   *Research Area: Driving Behavior Modeling & Prediction*
   
-- **Yuanbiao Cao** (Incoming 2026 Fall)  
+- **Yuanbiao Cao** (2026 Fall)  
   *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
 
 
