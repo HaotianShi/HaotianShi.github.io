@@ -28,6 +28,8 @@ author_profile: true
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ## Guest Lectures & Invited Talks 
+- End-to-End Cooperative Autonomous Driving and Virtual–Real Fusion Testing Platform. Tongji University Young Scholars Forum, May 2026.
+- End-to-End V2X Cooperative Autonomous Driving for Safety Enhancement and Long-Tail Generalization. China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E), 2026.
 - RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
 
 **Tongji University**
