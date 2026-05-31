@@ -78,8 +78,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
     
 34. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety assurance adaptive control for modular autonomous vehicles. Communications in Transportation Research, 5, 100204.
 
-35.  Long, K., **Shi, H.**, Liu, J., & Li, X. (2026). Vlm-mpc: Vision language foundation model (vlm)-guided model predictive controller (mpc) for autonomous driving. Transportation Research Part C: Emerging Technologies. 
-
+35.  Long, K., **Shi, H.**, Liu, J., & Li, X. (2026). Vlm-mpc: Vision language foundation model (vlm)-guided model predictive controller (mpc) for autonomous driving. Transportation Research Part C: Emerging Technologies.
+    
+36.  Long, K., **Shi, H.**, & Li, X. (2026). Physics Enhanced Residual Policy Learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay. Transportation Research Part C: Emerging Technologies.(Accepted)
 
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
