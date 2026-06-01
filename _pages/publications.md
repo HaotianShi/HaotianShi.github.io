@@ -82,6 +82,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
     
 36.  Long, K., **Shi, H.**, & Li, X. (2026). Physics Enhanced Residual Policy Learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay. Transportation Research Part C: Emerging Technologies.(Accepted)
 
+37.  Liang, S., Ma, C., Li, P., **Shi, H.**, Liu, J., Zhou, H., ... & Li, X. (2026). Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. Accident Analysis & Prevention (Acceptd)
+
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
 
