@@ -84,6 +84,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 37.  Liang, S., Ma, C., Li, P., **Shi, H.**, Liu, J., Zhou, H., ... & Li, X. (2026). Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. Accident Analysis & Prevention (Acceptd)
 
+38. 自动驾驶汽车驾驶人分阶段接管反应时间预测 (2026). 孙剑，王洁，蒋溪彦，石皓天，李子睿，赵晓聪. 《中国公路学报》.   
+
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
 
