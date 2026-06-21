@@ -173,6 +173,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 43.  **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 
+44.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. 2026 European Conference on Computer Vision (ECCV).
+
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
 
