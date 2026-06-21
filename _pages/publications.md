@@ -80,7 +80,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 35.  Long, K., **Shi, H.**, Liu, J., & Li, X. (2026). Vlm-mpc: Vision language foundation model (vlm)-guided model predictive controller (mpc) for autonomous driving. Transportation Research Part C: Emerging Technologies.
     
-36.  Long, K., **Shi, H.**, & Li, X. (2026). Physics Enhanced Residual Policy Learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay. Transportation Research Part C: Emerging Technologies.(Accepted)
+36.  Long, K., **Shi, H.**, & Li, X. (2026). Physics Enhanced Residual Policy Learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay. Transportation Research Part C: Emerging Technologies.
 
 37.  Liang, S., Ma, C., Li, P., **Shi, H.**, Liu, J., Zhou, H., ... & Li, X. (2026). Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. Accident Analysis & Prevention (Acceptd)
 
@@ -165,11 +165,11 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 39. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition).
 
-40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. 
+40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. (Oral Presentation-8% of the accepted papers)
 
-41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment.
+41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment. 
 
-42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026.
+42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026. (Oral Presentation)
 
 43.  **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 
