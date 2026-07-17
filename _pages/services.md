@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Editorial Roles, Organizing Activities, & Professional Memberships <br>
-- Lead Guest Editor — *Journal of Electronics* (Q2), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
+- Young Editorial Board Member of Journal of Green Energy and Intelligent Transportation (Q1, IF=21.5)
+- Lead Guest Editor — *Journal of Electronics* (Q1), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
 - IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: Advances in Designing and Evaluating AI-empowered Human-Autonomous Vehicle Interaction, Organizer and Host.  
 - World Transport Convention (WTC) — Technical Committees on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
 - 2024,2025,2026 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
