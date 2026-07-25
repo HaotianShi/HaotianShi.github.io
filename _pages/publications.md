@@ -173,9 +173,11 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026. (Oral Presentation)
 
-43.  **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
+43. **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 
-44.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. 2026 European Conference on Computer Vision (ECCV).
+44. **Shi, H**\*. The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation) 
+
+45.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. 2026 European Conference on Computer Vision (ECCV).
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
