@@ -28,6 +28,8 @@ author_profile: true
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ## Guest Lectures & Invited Talks 
+- The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation)
+- End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 - End-to-End Cooperative Autonomous Driving and Virtual–Real Fusion Testing Platform. Tongji University Young Scholars Forum, May 2026.
 - End-to-End V2X Cooperative Autonomous Driving for Safety Enhancement and Long-Tail Generalization. China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E), 2026.
 - RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
