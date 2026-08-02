@@ -437,7 +437,7 @@ Car-hailing GPS traces provide an extensive and cost-effective data source for u
 ### 4  Human-machine interaction for autonomous driving
 To improve the safety and usability of conditionally automated driving, our research investigates adaptive takeover request (TOR) design from a human-centered perspective. We focus on stage-wise takeover mechanisms, cognitive-process-aware modeling, and adaptive strategy generation to support robust human–machine collaboration during control transitions.
 
-### [Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184772)
+### [Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184772)(TR Part C, Under Revision)
 <p>
   <img src="/images/TOR.png" alt="Driver stage-wise takeover behavior and TOR cognitive process model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -456,7 +456,7 @@ To improve the safety and usability of conditionally automated driving, our rese
 ### 5  3D scene generation and end-to-end AV testing
 We develop closed-loop simulation methodologies for evaluating end-to-end autonomous driving systems under complex and controllable risks. Our work emphasizes high-fidelity 3D scene reconstruction, risk-controllable trajectory generation, perception degradation modeling, and interpretable robustness diagnosis.
 
-### [RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6218524)
+### [RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6218524)(TR Part C, Under Review)
 <p>
   <img src="/images/Risk3D.png" alt="RiskMatrix-3D dual-risk controllable closed-loop testing framework"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
