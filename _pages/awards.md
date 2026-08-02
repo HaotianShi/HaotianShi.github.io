@@ -15,7 +15,7 @@ author_profile: true
 
 - **National-Level Young Talent** China · 2024
 
-- **Shanghai Leading Talent** Shanghai, China · 2023
+- **Shanghai Leading Talent** Shanghai, China · 2024
   
 - **The First OnSite Autonomous Driving Algorithm Challenge (第一届OnSite自动驾驶算法挑战赛) — Third Place**  
   National Natural Science Foundation of China (NSFC); China-SAE· Oct 2023  
