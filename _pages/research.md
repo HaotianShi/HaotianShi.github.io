@@ -382,7 +382,7 @@ Mixed networks comprising expressways and arterial regions involve heterogeneous
 ### 3.2  Traffic flow recovery for urban network
 To address the challenge of recovering accurate and high-resolution traffic flow data in large-scale urban transportation networks with limited sensor coverage, we developed the Analytical Optimized Recovery (AOR) framework to reconstruct comprehensive traffic flow patterns. 
 
-### [Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network](https://arxiv.org/abs/2409.03906) 
+### [Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network](https://arxiv.org/abs/2409.03906) (CACAIE, Under Revision)  
 <p>
   <img src="/images/Analytical.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
