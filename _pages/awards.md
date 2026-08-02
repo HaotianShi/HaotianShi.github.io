@@ -11,7 +11,11 @@ author_profile: true
   Shanghai Municipal Education Commission · 2025 
 
 - **SAE Automotive Intelligent Transportation Technology Innovation Award - First Prize**  
-  SAE International · 2025 
+  SAE International · 2025
+
+- **National-Level Young Talent** China · 2024
+
+- **Shanghai Leading Talent** Shanghai, China · 2023
   
 - **The First OnSite Autonomous Driving Algorithm Challenge (第一届OnSite自动驾驶算法挑战赛) — Third Place**  
   National Natural Science Foundation of China (NSFC); China-SAE· Oct 2023  
