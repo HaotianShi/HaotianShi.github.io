@@ -369,6 +369,16 @@ As cities expand and long-distance travel demand increases, expressways are usua
 <div style="clear: both;"></div>
 <hr/>
 
+### [Cooperative Route Guidance and Flow Control for Mixed Networks Comprising Expressway and Arterial Network](https://doi.org/10.1109/TASE.2026.3713629) (IEEE T-ASE, 2026)  
+<p>
+  <img src="/images/CooperativeDi.png" alt="Cooperative route guidance and flow control for mixed expressway and arterial networks"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+Mixed networks comprising expressways and arterial regions involve heterogeneous traffic dynamics and travel patterns, posing challenges for unified modeling and coordinated control. To address these challenges, this study develops an integrated traffic modeling and control framework. First, urban trip-length characteristics are analyzed, revealing marked differences between trips exiting through arterial regions and those using expressways through on-ramps. This heterogeneity is incorporated to better represent realistic travel patterns. Second, a hybrid traffic model is developed by integrating a multi-class cell transmission model (CTM) for expressways with trip-based and accumulation-based macroscopic fundamental diagrams (MFDs) for urban regions. The trip-based MFD captures traffic-flow heterogeneity through remaining-distance distributions, while the accumulation-based MFD enables tractable control, providing a consistent route-based state representation across the two subsystems. Third, a route choice model and a cooperative strategy are established within a model predictive control (MPC) framework to jointly optimize route guidance, ramp metering, and perimeter control. Case studies demonstrate that the proposed strategy alleviates congestion and improves network efficiency compared with flow control alone, while its effectiveness is further influenced by travelers' compliance with route guidance.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
 ### 3.2  Traffic flow recovery for urban network
 To address the challenge of recovering accurate and high-resolution traffic flow data in large-scale urban transportation networks with limited sensor coverage, we developed the Analytical Optimized Recovery (AOR) framework to reconstruct comprehensive traffic flow patterns. 
 
@@ -403,6 +413,16 @@ We also aim to address the challenge of extracting meaningful travel features fr
   <img src="/images/BusTravel.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
 With the widespread application of Internet of Things (IoT) technology, there has been a shift from a broad-brush to a more refined approach in traffic optimization. An increasing amount of IoT data is being utilized in trajectory mining and inference, offering more precise characteristic information for optimizing public transportation. Services that optimize public transit based on inferred travel characteristics can enhance the appeal of public transport, increase its likelihood as a travel choice, alleviate traffic congestion, and reduce carbon emissions. However, the inherent complexities of disorganized and unstructured public transportation data pose significant challenges to extracting travel features. This study explores the enhancement of bus travel by integrating advanced technologies like positioning systems, IoT, and AI to infer features in public transportation data. It introduces the MK-LDA (MeanShift Kmeans Latent Dirichlet Allocation), a novel thematic modeling technique for deducing characteristics of public transit travel using limited travel trajectory data. The model employs a segmented inference methodology, initially leveraging the Mean-shift clustering algorithm to create POI seeds, followed by the P-K-means algorithm for discerning patterns in user travel behavior and extracting travel modalities. Additionally, a P-LDA (POI-Latent Dirichlet Allocation) inference algorithm is proposed to examine the interplay between travel characteristics and behaviors, specifically targeting attributes significantly correlated with public transit usage, including age, occupation, gender, activity levels, cost, safety, and personality traits. Empirical validation highlights the efficacy of this thematic modeling-based inference technique in identifying and predicting travel characteristics and patterns, boasting enhanced interpretability and outperforming conventional benchmarks.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
+### [Estimating Urban Traffic Patterns through GPS Trace Data from Car-Hailing Vehicles: A Temporal–Spatial Analysis](https://ascelibrary.org/doi/10.1061/JTEPBS.TEENG-9166) (ASCE JTE Part A, 2026)
+<p>
+  <img src="/images/Estimating.png" alt="Urban traffic pattern estimation using car-hailing GPS trace data"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+Car-hailing GPS traces provide an extensive and cost-effective data source for understanding urban traffic, but the differences between car-hailing activities and overall traffic patterns must be carefully considered. This study proposes a generic framework for estimating and analyzing urban traffic patterns using car-hailing trace data. The framework comprises a data layer, an interactive software layer, and a processing method layer. Through data cutting, map matching, trajectory correction, and other preprocessing operations, GPS traces are transformed into matrices representing car-hailing vehicle flow and average road speed. An analysis module is then developed to examine the temporal and spatial relationships between car-hailing activities and urban traffic conditions. The results reveal that urban road traffic generally exhibits morning and evening peaks, whereas car-hailing demand follows a multipeak pattern and shows greater fluctuations during holidays. Spatially, although the resulting traffic and car-hailing heat maps exhibit some differences, their major hotspots and vehicle aggregation areas remain broadly consistent. These findings clarify both the potential and limitations of using car-hailing GPS data to estimate citywide traffic patterns.
 </p>
 
 <div style="clear: both;"></div>
