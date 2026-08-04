@@ -456,6 +456,17 @@ To improve the safety and usability of conditionally automated driving, our rese
 ### 5  3D scene generation and end-to-end AV testing
 We develop closed-loop simulation methodologies for evaluating end-to-end autonomous driving systems under complex and controllable risks. Our work emphasizes high-fidelity 3D scene reconstruction, risk-controllable trajectory generation, perception degradation modeling, and interpretable robustness diagnosis.
 
+### [DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing](https://arxiv.org/abs/2608.01761) (ECCV, 2026)  
+<p>
+  <img src="/images/DecoupleGS.png" alt="DecoupleGS interactive 3D Gaussian splatting framework for end-to-end autonomous driving testing"
+       style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
+  <strong>Accepted by the European Conference on Computer Vision (ECCV) 2026.</strong>
+  End-to-end (E2E) autonomous driving algorithms require rigorous closed-loop validation in simulation environments that simultaneously offer high visual fidelity, strong interactivity, and real-time performance. Existing approaches, ranging from game engines to static neural rendering, inherently trade off these requirements and struggle with the dynamic scene composition essential for E2E testing. To bridge this gap, we propose DecoupleGS, a novel decoupled 3D Gaussian Splatting (3DGS) framework tailored for large-scale E2E autonomous driving evaluation. DecoupleGS decomposes driving scenes into a high-fidelity static background and independently manipulable dynamic agents using an object-centric canonical representation. To resolve the resulting representational conflicts, the framework introduces three targeted modules: (1) asset compression through perceptual pruning and vector quantization for real-time traffic rendering; (2) map-guided geometric registration leveraging semantic topology to accurately align dynamic agents with prescribed trajectories; and (3) proxy-based relighting that transfers ambient illumination for seamless photometric integration. Extensive experiments demonstrate that DecoupleGS achieves a favorable balance between rendering fidelity and computational efficiency, improves geometric and photometric consistency, and provides a practical closed-loop sensor simulation platform for evaluating E2E autonomous driving systems.
+</p>
+
+<div style="clear: both;"></div>
+<hr/>
+
 ### [RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6218524) (TR Part C, Under Review)
 <p>
   <img src="/images/Risk3D.png" alt="RiskMatrix-3D dual-risk controllable closed-loop testing framework"
