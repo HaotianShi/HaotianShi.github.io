@@ -60,9 +60,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 25. Di, Y., **Shi, H****., Zhang, W., Ding, H*., Zheng, X., & Ran, B. (2026). Cooperative Route Guidance and Flow Control for Mixed Road Networks Comprising Expressway and Arterial Network. IEEE Transactions on Automation Science and Engineering. (SCI, JIF: 7.9, Q1)
 
-26. Fu, S., **Shi, H.**, Liang, S., Wang, X., & Ran, B. (2026). Recovering Large-Scale Urban Traffic Flow Data From Sparse Observations via Analytical Optimization. Computer-aided Civil and Infrastructure Engineering. (SCI, Q1)
+26. Fu, S., **Shi, H****., Liang, S., Wang, X., & Ran, B. (2026). Recovering Large-Scale Urban Traffic Flow Data From Sparse Observations via Analytical Optimization. Computer-aided Civil and Infrastructure Engineering. (SCI, Q1)
 
-27. Wang, J., Zhao, Y., Zhao, X., **Shi, H.**, & Sun, J. Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design. Transportation Research Part C: Emerging Technologies. (SCI, Q1)
+27. Wang, J., Zhao, Y., Zhao, X., **Shi, H****., & Sun, J. Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design. Transportation Research Part C: Emerging Technologies. (SCI, Q1)
 
 28. Long, K., Ma, C., Li, H, Li, Z., Huang, H., **Shi, H.**, … & Li, X. (2025). AI‑Enabled Digital Twin Framework for Safe and Sustainable Intelligent Transportation. *Sustainability*, 17(10), 4391. (SCI, JIF: 3.3, Q2)
 
