@@ -382,7 +382,7 @@ Mixed networks comprising expressways and arterial regions involve heterogeneous
 ### 3.2  Traffic flow recovery for urban network
 To address the challenge of recovering accurate and high-resolution traffic flow data in large-scale urban transportation networks with limited sensor coverage, we developed the Analytical Optimized Recovery (AOR) framework to reconstruct comprehensive traffic flow patterns. 
 
-### [Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network](https://arxiv.org/abs/2409.03906) (CACAIE, Under Revision)  
+### [Recovering large-scale urban traffic flow data from sparse observations via analytical optimization](doi.org/10.1016/j.cacaie.2026.100180) (CACAIE, 2026)  
 <p>
   <img src="/images/Analytical.png" alt="GNP goal-based neural physics model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
@@ -437,7 +437,7 @@ Car-hailing GPS traces provide an extensive and cost-effective data source for u
 ### 4  Human-machine interaction for autonomous driving
 To improve the safety and usability of conditionally automated driving, our research investigates adaptive takeover request (TOR) design from a human-centered perspective. We focus on stage-wise takeover mechanisms, cognitive-process-aware modeling, and adaptive strategy generation to support robust human–machine collaboration during control transitions.
 
-### [Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184772) (TR Part C, Under Revision)
+### [Toward Driver Stage-wise Takeover Behavior in Autonomous Driving: A Cognitive Process Modeling Approach for Adaptive Takeover Requests Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6184772) (TR Part C, 2026)
 <p>
   <img src="/images/TOR.png" alt="Driver stage-wise takeover behavior and TOR cognitive process model"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
