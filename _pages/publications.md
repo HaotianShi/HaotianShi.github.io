@@ -92,6 +92,10 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 41. 孙剑，王洁，蒋溪彦，石皓天，李子睿，赵晓聪. 自动驾驶汽车驾驶人分阶段接管反应时间预测[J/OL].中国公路学报,1-25[2026-06-07].https://link.cnki.net/urlid/61.1313.u.20260507.1320.002.
 
+42. Wang, J., **Shi, H.**, Zhao, Y., Zhao, X., Liang, H., Hang, P., & Sun, J. (2026). Chain-Like Cognitive Processes in Human-Machine Co-Driving: Uncovering Causal-Chain Mechanisms of Driver Takeover Failure. Transportation Research Part C: Emerging Technologies.
+
+43. Cui, Y., Fang, S., Zhang, G., **Shi, H.**, Hang, P., Zhang, H., & Sun, J. V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic. Transportation Research Part C: Emerging Technologies.
+
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
 
