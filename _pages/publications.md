@@ -94,7 +94,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 42. Wang, J., **Shi, H.**, Zhao, Y., Zhao, X., Liang, H., Hang, P., & Sun, J. (2026). Chain-Like Cognitive Processes in Human-Machine Co-Driving: Uncovering Causal-Chain Mechanisms of Driver Takeover Failure. Transportation Research Part C: Emerging Technologies.
 
-43. Cui, Y., Fang, S., Zhang, G., **Shi, H.**, Hang, P., Zhang, H., & Sun, J. V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic. Transportation Research Part C: Emerging Technologies.
+43. Cui, Y., Fang, S., Zhang, G., **Shi, H.**, Hang, P., Zhang, H., & Sun, J. (2026). V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic. Transportation Research Part C: Emerging Technologies.
 
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
@@ -185,7 +185,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 44. **Shi, H**\*. The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation) 
 
-45.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. 2026 European Conference on Computer Vision (ECCV).
+45.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. European Conference on Computer Vision (ECCV) 2026.
+
+46.  He et al. A Multi-Strategy Cooperative Control Decision Generation Framework for Non-Recurrent Traffic. CVCI 2026.
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
