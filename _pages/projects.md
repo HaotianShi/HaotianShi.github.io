@@ -7,7 +7,8 @@ author_profile: true
 
 ## Projects as Principal Investigator (PI)  
 - Mixed Traffic Flow Modeling, Control and Optimization in a Connected and Automated Environment - Science Fund Program for Excellent Young Scientists - NSFC (2025-2028)
-- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC (2026-2029)
+- Traffic Physical World Model Construction for Transportation Agent Training and Optimization - NSFC General Program - NSFC (2027–2030)
+- Analysis of Interaction Behaviors of Autonomous Vehicles and Assessment of Their Impact on Road Traffic Performance - Young Scientists Fund (C Class) - NSFC (2026-2028)
 - Human–Machine Interaction for Autonomous Driving - Shanghai “Morning Light” Young Scholars Program - Shanghai Municipal Education Commission（2026-2027）
 - Tongji University Young Talent Program (Category A) – High-Level Talent Research Project: "Assessment, Testing, and Decision Optimization for Autonomous Vehicles" (2026–2029)
 - Cooperative Project with Chongqing University of Technology (2025-2026)
