@@ -7,6 +7,9 @@ author_profile: true
 
 ## Instructor
 **College of Transportation Engineering, Tongji University**
+- Autonomous Driving Technology - Fall 2026
+- Human–Vehicle Interaction for Intelligent Vehicles - Fall 2026
+- Scientific and Technical Paper Writing - Fall 2026
 - Autonomous Transportation Technologies (in Chinese) - Spring 2026
 - Autonomous Transportation Technologies (in English) - Spring 2026
 
