@@ -19,8 +19,10 @@ author_profile: true
 - Ministry of Education Pilot Project on Disciplinary Breakthroughs in Autonomous Driving and Transportation (2025-2029)
 - NSFC Excellent Research Group Project on Intelligent Control of Autonomous Driving Traffic (2025-2029)
 - Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project (2026-2027)
+- Technical Collaboration Project on Hierarchical Vehicle–Infrastructure Cooperative Optimization Based on Model Predictive Control, Huawei - (2026–2027)
 
 ## Previously Participated Projects <br>
+- Rural Autonomous Vehicle Research Program. US. DOT.
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
 - Realistic Autonomous Vehicle Behavior Investigation for Stakeholder Empowerment. FHWA.
 - CPS: Small: NSF-DST: Turning “Tragedy of the Commons (ToC)” into “Emergent Cooperative Behavior (ECB)” for Automated Vehicles at Intersections with Meta-Learning. 
