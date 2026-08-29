@@ -15,10 +15,10 @@ author_profile: true
 - Cooperative Project with Chongqing Vocational and Technical University of Mechatronics (2026-2027)
 
 ## Currently Participated Projects <br>
-- National Key R&D Program “Key Special Project on Transportation Equipment and Intelligent Transportation Technology” — Autonomous Transportation System Computing Technology
-- Ministry of Education Pilot Project on Disciplinary Breakthroughs in Autonomous Driving and Transportation
-- NSFC Excellent Research Group Project on Intelligent Control of Autonomous Driving Traffic
-- Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project
+- National Key R&D Program “Key Special Project on Transportation Equipment and Intelligent Transportation Technology” — Autonomous Transportation System Computing Technology (2023-2027)
+- Ministry of Education Pilot Project on Disciplinary Breakthroughs in Autonomous Driving and Transportation (2025-2029)
+- NSFC Excellent Research Group Project on Intelligent Control of Autonomous Driving Traffic (2025-2029)
+- Shenzhen Intelligent City Group Transportation Vertical Domain Foundation Model Project (2026-2027)
 
 ## Previously Participated Projects <br>
 - Analysis, Modeling, and Simulation (AMS) Tools for Vehicle Automation. FHWA. Project Manager. 
