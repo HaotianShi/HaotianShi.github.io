@@ -250,6 +250,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 30. Ran B., Chen T., Li S., Cheng Y., Li L., Zhou Z., He S., Li X., Dong S., Yao Y., Shi K, **Shi H**, Wu K., Fu S. Collaborative autopilot system. CN 117087695A. 2023.
 
+31. Ran, B., et al. Function allocation and integration for autonomous vehicles. U.S. Patent Application 18/762,227. 2026.
+
 ## Standard Guidelines <br>
 1.	Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems (车路协同自动驾驶系统版本建设指南).
 
