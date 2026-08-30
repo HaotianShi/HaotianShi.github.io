@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Educational Experiences <br>
+## Education <br>
 - **Ph.D. in Civil and Environmental Engineering (Transportation Engineering)**  
   University of Wisconsin–Madison · Jun 2020 – May 2023 <br>
   (Supervised by Prof. [Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/))   
@@ -27,25 +27,25 @@ author_profile: true
   Tianjin University · Sep 2013 – Jun 2017 <br>
   (Advised by Prof. [Xingyu Liang](https://me.tju.edu.cn/info/2080/42501.htm))
 
-## Professional Experiences <br>
+## Professional Experience <br>
 - **Tenured Associate Professor**  
   Tongji University, College of Transportation · April 2025 – Present <br>
   (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN) at TOPS); [Personel web at Tongji](https://faculty.tongji.edu.cn/shihaotian/en/index.htm)
 
 - **Research Associate**  
   Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 <br>
-  (Work with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/))
+  (Worked with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/))
 
 - **Co‑Instructor, “Traffic Management and Control” (CEE 574)**  
   University of Wisconsin–Madison · Sep 2024 – Dec 2024  
 
 - **Research Assistant**  
   Connected Automated Vehicle Highway Research Group ([CAVH](https://cavh.cee.wisc.edu/)), University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
-  (Collaborate with Prof. [Yang Zhou](https://engineering.tamu.edu/civil/profiles/zhou-yang.html))
+  (Collaborated with Prof. [Yang Zhou](https://engineering.tamu.edu/civil/profiles/zhou-yang.html))
   
 - **Project Assistant**  
   Wisconsin Traffic Operations and Safety ([TOPS](https://topslab.wisc.edu/)) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
-  (Work with Dr. [Steven Parker](https://topslab.wisc.edu/about/people/steven-parker/))
+  (Worked with Dr. [Steven Parker](https://topslab.wisc.edu/about/people/steven-parker/))
 
 - **Teaching Assistant**  
   Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
