@@ -24,7 +24,7 @@ author_profile: true
   Tianjin University · Sep 2013 – Jun 2017  
 
 - **B.S. in Energy & Power Engineering**  
-  Tianjin University · Sep 2013 – Jun 2017
+  Tianjin University · Sep 2013 – Jun 2017 <br>
   (Advised by Prof. [Xingyu Liang](https://me.tju.edu.cn/info/2080/42501.htm))
 
 ## Professional Experiences <br>
