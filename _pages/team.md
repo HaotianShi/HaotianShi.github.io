@@ -24,7 +24,7 @@ author_profile: true
 - [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2424.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, 2025 Fall – Present)  
   *Research Area: Large Language Model for Transportation Domain Control and Management*
 
-- **Rong Huang** (2023 Fall - Present)  
+- **Rong Huang** (Co-advised with Prof. Yu Bai, 2023 Fall - Present)  
   *Research Area: Non-Motorized Vehicle Interaction Behavior Modeling*
 
 - **Xucheng Luo** (2026 Fall - Present)  
