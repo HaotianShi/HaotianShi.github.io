@@ -16,7 +16,7 @@ author_profile: true
   *Research Area: Human–Vehicle Interaction in Autonomous Driving*  
 
 - [**Boya Sun**](https://tops.tongji.edu.cn/info/1161/2146.htm) (Co-advised with Prof. Ying Ni, 2024 Fall – Present)  
-  *Research Area: Interaction Behavior Modeling in Autonomous Driving*  
+  *Research Area: Pedestrian–Vehicle Interactive Behavior Modeling in Autonomous Driving*  
 
 - [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Co-advised with Prof. Ying Ni, 2024 Fall – Present)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*
@@ -24,20 +24,23 @@ author_profile: true
 - [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2424.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, 2025 Fall – Present)  
   *Research Area: Large Language Model for Transportation Domain Control and Management*
 
-- **Xucheng Luo** (2026 Fall)  
+- **Rong Huang** (2023 Fall - Present)  
+  *Research Area: Non-Motorized Vehicle Interaction Behavior Modeling*
+
+- **Xucheng Luo** (2026 Fall - Present)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
-- **Shangxuan Ding** (2026 Fall)  
+- **Shangxuan Ding** (2026 Fall - Present)  
   *Research Area: Connected Automated Transportation Systems Control and Optimization*
   
-- **Qingyu Li** (Co-advised with Prof. Jian Sun, 2026 Fall)  
+- **Qingyu Li** (Co-advised with Prof. Jian Sun, 2026 Fall - Present)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
   
 ## Master Students <br>
-- **Yuechao Wang** (2026 Fall)  
+- **Yuechao Wang** (2026 Fall - Present)  
   *Research Area: Driving Behavior Modeling & Prediction*
   
-- **Yuanbiao Cao** (2026 Fall)  
+- **Yuanbiao Cao** (2026 Fall - Present)  
   *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
 
 
