@@ -31,6 +31,7 @@ author_profile: true
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ## Guest Lectures & Invited Talks 
+- Human–Machine Symbiosis in Automated Driving: Driver Cognitive Perception and Intelligent Interaction. Thematic Seminar on Brain–Computer Interface and Brain Intelligence, Institute of Medical Artificial Intelligence, September 2026.. (Invited Oral Presentation)
 - The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation)
 - End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
 - End-to-End Cooperative Autonomous Driving and Virtual–Real Fusion Testing Platform. Tongji University Young Scholars Forum, May 2026.
