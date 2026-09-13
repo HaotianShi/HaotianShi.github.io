@@ -96,6 +96,10 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 43. Cui, Y., Fang, S., Zhang, G., **Shi, H.**, Hang, P., Zhang, H., & Sun, J. (2026). V2I-LENC: A Vehicle-Infrastructure Language-Enhanced Negotiation and Cooperation Chain for Mixed-Traffic. Transportation Research Part C: Emerging Technologies.
 
+44. You, J., Li, P., Jiang, Z., Huang, Z., Gan, R., **Shi, H.**, & Ran, B. (2026). Seal: Vision-language model-based safe end-to-end cooperative autonomous driving with adaptive long-tail modeling. Accident Analysis & Prevention, 238, 108748.
+
+45. Chen, Q., Liu, X., Ding, S., Chen, S., **Shi, H.**, & Liang, J. (2026). Observer-based control for vehicle platoons under uncertainties and measurement noise. Journal of the Franklin Institute, 109016. 
+
 ## Conference Proceedings & Presentations <br>
 1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
 
