@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## PhD Students <br>
-- [**Tianxiang Tang**](https://tops.tongji.edu.cn/info/1204/2423.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
+- [**Tianxiang Tang**](https://tops.tongji.edu.cn/info/1204/2564.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
   *Research Area: Human–Vehicle Interaction in Autonomous Driving*  
 
-- [**An Xie**](https://tops.tongji.edu.cn/info/1204/2418.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
+- [**An Xie**](https://tops.tongji.edu.cn/info/1204/2561.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*  
 
 - [**Jie Wang**](https://tops.tongji.edu.cn/info/1162/2135.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
@@ -21,7 +21,7 @@ author_profile: true
 - [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Co-advised with Prof. Ying Ni, Fall 2024 – Present)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*
 
-- [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2424.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, Fall 2025 – Present)  
+- [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2567.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, Fall 2025 – Present)  
   *Research Area: Large Language Model for Transportation Domain Control and Management*
 
 - **Rong Huang** (Co-advised with Prof. Yu Bai, Fall 2023 - Present)  
