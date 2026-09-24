@@ -193,6 +193,15 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 46.  He et al. A Multi-Strategy Cooperative Control Decision Generation Framework for Non-Recurrent Traffic. CVCI 2026.
 
+47.  Ding S., Luo X., Wang, J., **Shi, H**\*. Macroscopic–Microscopic Cooperative Control for Disturbance Suppression in Mixed Traffic Flow under Non-Recurrent Traffic Incidents. Transportation Research Board (TRB) Annual Meeting 2027.
+
+48.  Cao Y., Li S., Zhao Y., Wang C., Zhou H., **Shi, H**\*. Scene2Flow: Evaluating End-to-End Autonomous Driving Beyond the Ego Vehicle. Transportation Research Board (TRB) Annual Meeting 2027.
+
+49.  Wang J., Zhao Y., Sun J., **Shi, H**\*. Recovering Driver Attention to High-Risk Traffic Actors During Automated-Driving Takeovers Under Ocular Degradation. Transportation Research Board (TRB) Annual Meeting 2027.
+
+50.  Sun B., Li Q., Ni Y., **Shi, H**\*. Clustering and Characterization of Heterogeneous Pedestrian Crossing Behavior in Explicit--Implicit Interaction with AVs: A Measure--Analysis--Pattern Framework. Transportation Research Board (TRB) Annual Meeting 2027.
+ 
+
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
 
