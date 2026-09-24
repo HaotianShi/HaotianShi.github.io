@@ -456,7 +456,7 @@ To improve the safety and usability of conditionally automated driving, our rese
 ### 5  3D scene generation and end-to-end AV testing
 We develop closed-loop simulation methodologies for evaluating end-to-end autonomous driving systems under complex and controllable risks. Our work emphasizes high-fidelity 3D scene reconstruction, risk-controllable trajectory generation, perception degradation modeling, and interpretable robustness diagnosis.
 
-### [DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing](https://arxiv.org/abs/2608.01761) (ECCV, 2026)  
+### [DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing](https://link.springer.com/chapter/10.1007/978-3-032-37577-3_28) (ECCV, 2026)  
 <p>
   <img src="/images/DecoupleGS.png" alt="DecoupleGS interactive 3D Gaussian splatting framework for end-to-end autonomous driving testing"
        style="float:left; width:clamp(140px,38%,350px); height:auto; margin:0 16px 8px 0;" />
