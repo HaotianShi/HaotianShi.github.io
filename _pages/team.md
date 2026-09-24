@@ -43,7 +43,7 @@ author_profile: true
 - **Yuanbiao Cao** (Fall 2026 - Present)  
   *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
 
-## Incoming Students <br>
+## Incoming Graduate Students <br>
 - **Jiewen Yu** (PhD Student, Fall 2027)  
 - **Ziyi Wang** (PhD Student, Fall 2027)  
 - **Huibo Liang** (PhD Student, Fall 2027)  
