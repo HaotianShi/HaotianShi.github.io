@@ -6,25 +6,25 @@ author_profile: true
 ---
 
 ## PhD Students <br>
-- [**Tianxiang Tang**](https://tops.tongji.edu.cn/info/1204/2564.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
+- [**Tianxiang Tang**](https://tops.tongji.edu.cn/info/1204/2564.htm) (Fall 2025 – Present, Co-advised with Prof. Jian Sun)  
   *Research Area: Human–Vehicle Interaction in Autonomous Driving*  
 
-- [**An Xie**](https://tops.tongji.edu.cn/info/1204/2561.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
+- [**An Xie**](https://tops.tongji.edu.cn/info/1204/2561.htm) (Fall 2025 – Present, Co-advised with Prof. Jian Sun)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*  
 
-- [**Jie Wang**](https://tops.tongji.edu.cn/info/1162/2135.htm) (Co-advised with Prof. Jian Sun, Fall 2025 – Present)  
+- [**Jie Wang**](https://tops.tongji.edu.cn/info/1162/2135.htm) (Fall 2025 – Present, Co-advised with Prof. Jian Sun)  
   *Research Area: Human–Vehicle Interaction in Autonomous Driving*  
 
-- [**Boya Sun**](https://tops.tongji.edu.cn/info/1161/2146.htm) (Co-advised with Prof. Ying Ni, Fall 2024 – Present)  
+- [**Boya Sun**](https://tops.tongji.edu.cn/info/1161/2146.htm) (Fall 2024 – Present, Co-advised with Prof. Ying Ni)  
   *Research Area: Pedestrian–Vehicle Interactive Behavior Modeling in Autonomous Driving*  
 
-- [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Co-advised with Prof. Ying Ni, Fall 2024 – Present)  
+- [**Siying Li**](https://tops.tongji.edu.cn/info/1161/2134.htm) (Fall 2024 – Present, Co-advised with Prof. Ying Ni)  
   *Research Area: End-to-End 3D Scenario Generation for Autonomous Driving*
 
-- [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2567.htm) (Co-advised with Prof. Jian Sun and Prof. Jie Sun, Fall 2025 – Present)  
+- [**Jiamei Xu**](https://tops.tongji.edu.cn/info/1204/2567.htm) (Fall 2025 – Present, Co-advised with Prof. Jian Sun and Prof. Jie Sun)  
   *Research Area: Large Language Model for Transportation Domain Control and Management*
 
-- **Rong Huang** (Co-advised with Prof. Yu Bai, Fall 2023 - Present)  
+- **Rong Huang** (Fall 2023 - Present, Co-advised with Prof. Yu Bai)  
   *Research Area: Non-Motorized Vehicle Interaction Behavior Modeling*
 
 - **Xucheng Luo** (Fall 2026 - Present)  
@@ -33,7 +33,7 @@ author_profile: true
 - **Shangxuan Ding** (Fall 2026 - Present)  
   *Research Area: Connected Automated Transportation Systems Control and Optimization*
   
-- **Qingyu Li** (Co-advised with Prof. Jian Sun, Fall 2026 - Present)  
+- **Qingyu Li** (Fall 2026 - Present, Co-advised with Prof. Jian Sun)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
   
 ## Master Students <br>
