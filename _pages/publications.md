@@ -200,6 +200,20 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 49.  Wang J., Zhao Y., Sun J., **Shi, H**\*. Recovering Driver Attention to High-Risk Traffic Actors During Automated-Driving Takeovers Under Ocular Degradation. Transportation Research Board (TRB) Annual Meeting 2027.
 
 50.  Sun B., Li Q., Ni Y., **Shi, H**\*. Clustering and Characterization of Heterogeneous Pedestrian Crossing Behavior in Explicit--Implicit Interaction with AVs: A Measure--Analysis--Pattern Framework. Transportation Research Board (TRB) Annual Meeting 2027.
+
+51.  Wang Y., **Shi, H**\*. SIFNet: Selective Interaction Forecasting Network for Vehicle Motion Prediction in Highly Interactive Urban Driving Scenarios. Transportation Research Board (TRB) Annual Meeting 2027.
+
+52.  Li S., Zhao Y., Cao Y., Ni Y., **Shi, H**\*. EchoSplat: Self-Improving Camera-LiDAR Neural Simulation for Autonomous Driving Testing. Transportation Research Board (TRB) Annual Meeting 2027.
+
+53.  Xu J., Xu C., Peng B., Zhao Y., **Shi, H**\*. LLM-MAC: Large Language Model-Orchestrated Multi-Agent Control for Non-Recurrent Traffic Management. Transportation Research Board (TRB) Annual Meeting 2027.
+
+54.  Xie A., Zhao Y., **Shi, H**\*. RiskStage-3D: Scalable Generation of 3D Safety-Critical Scenarios for End-to-End Autonomous Driving Models via Semantic Feed-Forward Gaussian Splatting. Transportation Research Board (TRB) Annual Meeting 2027.
+
+55.  Li Q., Tang T., Sun B., **Shi, H**\*. Traffic-Regulation-Grounded Motion Planning with Vision-Language Models for Autonomous Driving. Transportation Research Board (TRB) Annual Meeting 2027.
+
+56.  Xie A., **Shi, H**\*. RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting. Transportation Research Board (TRB) Annual Meeting 2027.
+
+57.  Zhao Y., Wang J., Li S., Cao Y., Ni Y., **Shi, H.**. Allocating Offline Driving Logs for Closed-Loop Automated-Driving Performance: Sparse Target Feedback across Scenario Families. Transportation Research Board (TRB) Annual Meeting 2027.    
  
 
 ## Granted Invention Patents <br>
