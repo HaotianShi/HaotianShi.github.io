@@ -279,6 +279,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 31. Ran, B., et al. Function allocation and integration for autonomous vehicles. U.S. Patent Application 18/762,227. 2026.
 
+32. Ni, Y., Li, S., **Shi H**., and Sun, J. “Three-Dimensional Gaussian Scene Simulation Method and System for End-to-End Autonomous Driving Testing,” Chinese Patent Application Publication CN122473353B, Sep. 28, 2026. 
+
 ## Standard Guidelines <br>
 1.	Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems (车路协同自动驾驶系统版本建设指南).
 
