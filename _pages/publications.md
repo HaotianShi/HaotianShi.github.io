@@ -217,7 +217,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 58.  Zhao Y., Wang J., Xu J.,  Ni Y., **Shi, H.**. Evaluating the Trustworthiness of Vision–Language Reasoning for Vulnerable Road User Interactions: A Difficulty-Stratified Study. Transportation Research Board (TRB) Annual Meeting 2027.
 
-61.  Zhao Y., Wang J., Li Y., Xie A., Ni Y., **Shi, H.**. Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. Transportation Research Board (TRB) Annual Meeting 2027.   
+59.  Zhao Y., Wang J., Li Y., Xie A., Ni Y., **Shi, H.**. Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. Transportation Research Board (TRB) Annual Meeting 2027.   
  
 
 ## Granted Invention Patents <br>
