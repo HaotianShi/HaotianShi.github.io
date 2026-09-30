@@ -213,7 +213,11 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 56.  Xie A., **Shi, H**\*. RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting. Transportation Research Board (TRB) Annual Meeting 2027.
 
-57.  Zhao Y., Wang J., Li S., Cao Y., Ni Y., **Shi, H.**. Allocating Offline Driving Logs for Closed-Loop Automated-Driving Performance: Sparse Target Feedback across Scenario Families. Transportation Research Board (TRB) Annual Meeting 2027.    
+57.  Zhao Y., Wang J., Li S., Cao Y., Ni Y., **Shi, H.**. Allocating Offline Driving Logs for Closed-Loop Automated-Driving Performance: Sparse Target Feedback across Scenario Families. Transportation Research Board (TRB) Annual Meeting 2027.
+
+58.  Zhao Y., Wang J., Xu J.,  Ni Y., **Shi, H.**. Evaluating the Trustworthiness of Vision–Language Reasoning for Vulnerable Road User Interactions: A Difficulty-Stratified Study. Transportation Research Board (TRB) Annual Meeting 2027.
+
+61.  Zhao Y., Wang J., Li Y., Xie A., Ni Y., **Shi, H.**. Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. Transportation Research Board (TRB) Annual Meeting 2027.   
  
 
 ## Granted Invention Patents <br>
