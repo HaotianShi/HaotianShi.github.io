@@ -6,18 +6,19 @@ author_profile: true
 ---
 
 ## Editorial Roles, Organizing Activities, & Professional Memberships <br>
-- Young Editorial Board Member of Journal of Green Energy and Intelligent Transportation (Q1, IF=21.5)
+- Young Editorial Board - Journal of Green Energy and Intelligent Transportation (Q1, IF=21.5)
+- Associate Editor (Regular Papers) of IEEE Conference on Automation and AI for Mobility, Connectivity and Sustainability (AIMCS)
 - Lead Guest Editor — *Journal of Electronics* (Q1), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
-- IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: [Designing & Evaluating AI-empowered Human–AV Interaction](https://zxc-tju.github.io/itsc2026-hav-workshop/), Organizer and Host.  
-- World Transport Convention (WTC) — Technical Committees on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
-- 2024,2025,2026 International Symposium on Intelligent Technology for Future Transportation (ITFT) - Program Committee Member  
-- AAAI 2026 - Program Committee
-- International Conference on Smart Electrical Grid and Renewable Energy (SEGRE) - Steering Committee
-- Guest Editor for the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
-- 2026 OnSite Autonomous Driving Algorithm Challenge, Organizing Committee Member — Real-Vehicle Competition
-- American Society of Civil Engineers (ASCE) - Professional Affiliate Member
-- IEEE Intelligent Transportation Systems Society (ITSS) - Member 
-- China Highway & Transportation Society (CHTS) - Senior Member
+- Guest Editor - the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
+- Workshop Organizer & Host - IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: [Designing & Evaluating AI-empowered Human–AV Interaction](https://zxc-tju.github.io/itsc2026-hav-workshop/).
+- Technical Committees - World Transport Convention (WTC) — on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
+- Program Committee Member - 2024,2025,2026 International Symposium on Intelligent Technology for Future Transportation (ITFT) 
+- Program Committee - AAAI 2026 
+- Steering Committee - International Conference on Smart Electrical Grid and Renewable Energy (SEGRE) - 
+- Organizing Committee - 2026 OnSite Autonomous Driving Algorithm Challenge — Real-Vehicle Competition
+- Professional Affiliate Member - American Society of Civil Engineers (ASCE) 
+- Member - IEEE Intelligent Transportation Systems Society (ITSS) 
+- Senior Member - China Highway & Transportation Society (CHTS)
 
 ## Review Services <br>
 Reviewer for 50 + international journals and conferences, including *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Knowledge and Data Engineering*, *AAAI*, among others.
