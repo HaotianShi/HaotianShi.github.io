@@ -7,8 +7,8 @@ author_profile: true
 
 ## Editorial Roles, Organizing Activities, & Professional Memberships <br>
 - Young Editorial Board - Journal of Green Energy and Intelligent Transportation (Q1, IF=21.5)
-- Associate Editor (Regular Papers) of IEEE Conference on Automation and AI for Mobility, Connectivity and Sustainability (AIMCS)
-- Lead Guest Editor — *Journal of Electronics* (Q1), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
+- Associate Editor (Regular Papers) - IEEE Conference on Automation and AI for Mobility, Connectivity and Sustainability (AIMCS)
+- Lead Guest Editor - *Journal of Electronics* (Q1), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
 - Guest Editor - the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
 - Workshop Organizer & Host - IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: [Designing & Evaluating AI-empowered Human–AV Interaction](https://zxc-tju.github.io/itsc2026-hav-workshop/).
 - Technical Committees - World Transport Convention (WTC) — on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
