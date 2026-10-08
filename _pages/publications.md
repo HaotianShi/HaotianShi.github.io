@@ -10,7 +10,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 ## Journal Articles <br>
 (* corresponding author; ‡ co‑first author)
 
-1. **Shi, H.**, Chen, D., Zheng, N., Wang, X., Zhou, Y*., & Ran, B. (2023). A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon. *Transportation Research Part C: Emerging Technologies*, 148, 104019. (SCI, JIF: 7.6, Q1, Top Cited in Part C)
+1. **Shi, H.**, Chen, D., Zheng, N., Wang, X., Zhou, Y*., & Ran, B. (2023). A deep reinforcement learning based distributed control strategy for connected automated vehicles in mixed traffic platoon. *Transportation Research Part C: Emerging Technologies*, 148, 104019. (SCI, JIF: 7.6, Q1, **Top Cited** in Part C)
 
 2. **Shi, H.**, Zhou, Y*., Wang, X., Fu, S., Gong, S., & Ran, B. (2022). A deep reinforcement learning‑based distributed connected automated vehicle control under communication failure. *Computer‑Aided Civil and Infrastructure Engineering*, 37(15), 2033–2051. (SCI, JIF: 8.5, Q1)
 
