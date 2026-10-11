@@ -219,7 +219,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 59.  Zhao Y., Wang J., Li Y., Xie A., Ni Y., **Shi, H.**. Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. Transportation Research Board (TRB) Annual Meeting 2027.
 
-60.  **Shi, H**. OnSite Autonomous Driving Public Testing Service Platform. The 7th Workshop on Intelligent Transportation Systems between Tongji University and The University of Tokyo. 
+60.  **Shi, H**. OnSite Autonomous Driving Public Testing Service Platform. The 7th Workshop on Intelligent Transportation Systems between Tongji University and The University of Tokyo 2026. 
  
 
 ## Granted Invention Patents <br>
