@@ -135,7 +135,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 16. Bai, Y., Huang, R., & **Shi, H.**\* (2026). Graph Model-Driven Causal Inference for Non-Motorized Vehicle Behavior. *IEEE International Conference on Intelligent Transportation Systems (ITSC 2026)*. (Oral Presentation)
 
-17. Li, S., Ni, Y., Sun, J., Sun, J., & **Shi, H.**\* (2026). DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. *European Conference on Computer Vision (ECCV 2026)*, pp. 512–530.
+17. Li, S., Ni, Y., Sun, J., Sun, J., & **Shi, H.**\* (2026). DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. *European Conference on Computer Vision (ECCV 2026, Main Conference)*, pp. 512–530.
 
 18. **Shi, H.** (2026). AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. *26th COTA International Conference of Transportation Professionals (CICTP 2026)*, Young Scholars Forum. (Invited Oral Presentation)
 
