@@ -223,10 +223,8 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 60. Chen, T., **Shi, H.**, Vorhes, G., Parker, S. T., & Noyce, D. A. (2020). Data and System Architecture Improvements for Statewide Crash Mapping and Analysis. *99th Annual Meeting of the Transportation Research Board (TRB 2020)*, Washington, D.C. (Poster; Paper No. 20-05109)
 
+
 ## Granted Invention Patents <br>
-
-
-## Patents & Patent Applications <br>
 
 1. Ni, Y., Li, S., **Shi, H.**, & Sun, J. (2026). Three-Dimensional Gaussian Scene Simulation Method and System for End-to-End Autonomous Driving Testing. Chinese Patent [CN122473353B].
 
