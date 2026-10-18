@@ -102,126 +102,126 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
     
 
 ## Conference Proceedings & Presentations <br>
-1. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H**, ... & Sun, J. (2026). Steerable adversarial scenario generation through test-time preference alignment. ICLR 2026. 
 
-2. Chen, T., **Shi, H**\*., Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. ASCE International Conference on Transportation and Development 2022 (pp. 48‑60). (Conference Proceedings)
+1. Ding, S., Luo, X., Wang, J., & **Shi, H.**\* (2027). Macroscopic–Microscopic Cooperative Control for Disturbance Suppression in Mixed Traffic Flow under Non-Recurrent Traffic Incidents. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-3. **Shi, H**. RISE Week 2025: Co-creating Resilient Urban Futures - "Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving" (2025) 
+2. Cao, Y., Li, S., Zhao, Y., Wang, C., Zhou, H., & **Shi, H.**\* (2027). Scene2Flow: Evaluating End-to-End Autonomous Driving Beyond the Ego Vehicle. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-4. Bai, Y., Huang R., **Shi, H**\*, DyScene Enhancing Physical Realism: A Physics-Informed Graph Convolutional Network for Multimodal Stochastic Bicycle Trajectories Prediction. 105 st Annual Meeting of the Transportation Research Board, Washington.
+3. Wang, J., Zhao, Y., Sun, J., & **Shi, H.**\* (2027). Recovering Driver Attention to High-Risk Traffic Actors During Automated-Driving Takeovers Under Ocular Degradation. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-5. Liang, S., Ma, C., Li, P., **Shi, H**, Liu, J., Li, X. Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. 105 st Annual Meeting of the Transportation Research Board, Washington.
+4. Sun, B., Li, Q., Ni, Y., & **Shi, H.**\* (2027). Clustering and Characterization of Heterogeneous Pedestrian Crossing Behavior in Explicit–Implicit Interaction with AVs: A Measure–Analysis–Pattern Framework. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-6. Chenyi Xie, Yuan Zheng, Shen Li, Lu Bai, **Haotian Shi**, Bin Ran. A PHYSICS-INFORMED NEURAL NETWORK FOR LANE-CHANGING TRAJECTORY RECONSTRUCTION FROM NOISY AND SPARSE OBSERVATIONS. HKSTS2025.
+5. Wang, Y., & **Shi, H.**\* (2027). SIFNet: Selective Interaction Forecasting Network for Vehicle Motion Prediction in Highly Interactive Urban Driving Scenarios. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-7. Zhou H., Huang H\*., Zhang P., Li X\*., **Shi, H**\*, Long K. Online Physical Enhanced Residual Learning for Connected Autonomous Vehicles Platoon Centralized Control. IEEE Intelligent Vehicles Symposium 2024. arXiv preprint arXiv:2402.11468.
+6. Li, S., Zhao, Y., Cao, Y., Ni, Y., & **Shi, H.**\* (2027). EchoSplat: Self-Improving Camera-LiDAR Neural Simulation for Autonomous Driving Testing. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-8. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H**, Li, X. Safety Assurance Adaptive Control in Automated Vehicles: A Case Study on Modular Vehicles. 104 st Annual Meeting of the Transportation Research Board, Washington.
+7. Xu, J., Xu, C., Peng, B., Zhao, Y., & **Shi, H.**\* (2027). LLM-MAC: Large Language Model-Orchestrated Multi-Agent Control for Non-Recurrent Traffic Management. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-9. Zhang, P., Zhou, H., Huang, H., **Shi, H**, Long, K., Li, X. Online Adaptive Platoon Control for Connected and Automated Vehicles via Physical Enhanced Residual Learning. 104 st Annual Meeting of the Transportation Research Board, Washington.
+8. Xie, A., Zhao, Y., & **Shi, H.**\* (2027). RiskStage-3D: Scalable Generation of 3D Safety-Critical Scenarios for End-to-End Autonomous Driving Models via Semantic Feed-Forward Gaussian Splatting. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-10. You, J., **Shi, H**\*., Wu, K., Long, K., Fu, S., Chen, S\*., Ran, B. Crossfusor: A Cross‑Attention Transformer Enhanced Conditional Diffusion Model for Car‑Following Trajectory Prediction. 104 st Annual Meeting of the Transportation Research Board, Washington.
+9. Li, Q., Tang, T., Sun, B., & **Shi, H.**\* (2027). Traffic-Regulation-Grounded Motion Planning with Vision-Language Models for Autonomous Driving. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-11. Ma, K., Zhou, H., Zhang, Y., **Shi, H**, Ma, C., Li, Z., Zhang, P., Liang, Z., Li, X. Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test. 104 st Annual Meeting of the Transportation Research Board, Washington.
+10. Xie, A., & **Shi, H.**\* (2027). RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-12. Long, K., **Shi, H**, Zhou, Y., Li, X. Physics Enhanced Residual Policy Learning (PERPL) for Safety Cruising in mixed traffic platooning under actuator and communication delay. 104 st Annual Meeting of the Transportation Research Board, Washington.
+11. Zhao, Y., Wang, J., Li, S., Cao, Y., Ni, Y., & **Shi, H.** (2027). Allocating Offline Driving Logs for Closed-Loop Automated-Driving Performance: Sparse Target Feedback across Scenario Families. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-13. Long, K., **Shi, H**, Liu, J., Li, X. VLM‑MPC: Vision Language Foundation Model (VLM)‑Guided Model Predictive Controller (MPC) for Autonomous Driving. 104 st Annual Meeting of the Transportation Research Board, Washington.
+12. Zhao, Y., Wang, J., Xu, J., Ni, Y., & **Shi, H.** (2027). Evaluating the Trustworthiness of Vision–Language Reasoning for Vulnerable Road User Interactions: A Difficulty-Stratified Study. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-14. Ma, K., Zhou, H., **Shi, H**, Ma, C., Li, X. Understanding Autonomous Vehicle Behavior: A Soft‑Margin Approach in Piecewise Linear Model. 104 st Annual Meeting of the Transportation Research Board, Washington.
+13. Zhao, Y., Wang, J., Li, Y., Xie, A., Ni, Y., & **Shi, H.** (2027). Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. *106th Annual Meeting of the Transportation Research Board (TRB 2027)*, Washington, D.C.
 
-15. Gan R., **Shi, H**\*., Li, P., Wu, K., An, B., Li, L., Ma, J., Ma, C., Ran, B. Goal‑based Neural Physics Vehicle Trajectory Prediction Model. 104 st Annual Meeting of the Transportation Research Board, Washington.
+14. He et al. (2026). A Multi-Strategy Cooperative Control Decision Generation Framework for Non-Recurrent Traffic. *10th CAA International Conference on Vehicular Control and Intelligence (CVCI 2026)*.
 
-16. You, J., **Shi, H**\*., Jiang, Z., Huang, Z., Gan, R., Wu, K., Cheng, X., Li X., Ran, B. V2X‑VLM: End‑to‑End V2X Cooperative Autonomous Driving Through Large Vision‑Language Models. 104 st Annual Meeting of the Transportation Research Board, Washington.
+15. **Shi, H.** (2026). OnSite Autonomous Driving Public Testing Service Platform. *7th Workshop on Intelligent Transportation Systems between Tongji University and the University of Tokyo*. (Presentation)
 
-17. Huo, J., Liang, Z., **Shi, H**\*., Ma, K., Li, X., Liu, Z. Vehicle Trajectory Tracking On Snowy Roads: A Model Predictive Control Method. 104 st Annual Meeting of the Transportation Research Board, Washington.
+16. Bai, Y., Huang, R., & **Shi, H.**\* (2026). Graph Model-Driven Causal Inference for Non-Motorized Vehicle Behavior. *IEEE International Conference on Intelligent Transportation Systems (ITSC 2026)*. (Oral Presentation)
 
-18. Wu, K., **Shi, H**\*., Zhou, Y\*., Ran, B. HYPERGRAPH‑BASED MOTION GENERATION AND PLANNING WITH MULTI‑MODAL INTERACTION RELATIONAL REASONING. 104 st Annual Meeting of the Transportation Research Board, Washington.
+17. Li, S., Ni, Y., Sun, J., Sun, J., & **Shi, H.**\* (2026). DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. *European Conference on Computer Vision (ECCV 2026)*, pp. 512–530.
 
-19. Long, K., Liang, Z., **Shi, H**, Shi, L., Chen, S., Li, X. Traffic Oscillations Mitigation With Physics Enhanced Residual Learning (PERL)-Based Predictive Control. 104 st Annual Meeting of the Transportation Research Board, Washington.
+18. **Shi, H.** (2026). AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. *26th COTA International Conference of Transportation Professionals (CICTP 2026)*, Young Scholars Forum. (Invited Oral Presentation)
 
-20. Li, Z., Bao, Z., Meng, H., **Shi, H**\*., Li Q., Yao, H., Li X. Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs. 104 st Annual Meeting of the Transportation Research Board, Washington.
+19. You, J., **Shi, H.**\*, et al. (2026). FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction. *15th Asia-Pacific Conference on Transportation and the Environment (APTE 2026)*.
 
-21. Tian, K#., **Shi, H**#., Zhou Y., Li, S. Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling During Traffic Oscillation: A Koopman Approach. 104 st Annual Meeting of the Transportation Research Board, Washington.
+20. Wang, J., Zhao, Y., **Shi, H.**\*, & Sun, J. (2026). Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage-Based Cognitive Process Modeling Approach. *IEEE Intelligent Vehicles Symposium (IV 2026)*, pp. 867–874. (Oral Presentation)
 
-22. Di Y., **Shi, H**\*., Zhang, W., Ding, H., Zheng X., Ran, B. Cooperative Route Guidance and Flow Control for Mixed Road Networks Comprising Expressway and Arterial Network. 104 st Annual Meeting of the Transportation Research Board, Washington.
+21. **Shi, H.** (2026). End-to-End V2X Cooperative Autonomous Driving Method for Safety and Long-Tail Generalization. *China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (AUTO-E 2026)*. (Invited Oral Presentation)
 
-23. Di Y., Zhang W., **Shi, H**\*., Ding H., Huo J., Ran, B. The Expressway Network Design Problem for Multiple Urban Subregions Based on the Macroscopic Fundamental Diagram. 104 st Annual Meeting of the Transportation Research Board, Washington.
+22. Nie, T., Mei, Y., Tang, Y., He, J., Sun, J., **Shi, H.**, Ma, W., & Sun, J. (2026). Steerable Adversarial Scenario Generation through Test-Time Preference Alignment. *International Conference on Learning Representations (ICLR 2026)*. (Conference Paper)
 
-24. Di, Y., Zhang, W., You, J., **Shi, H**\*., Li, H., Ding, H., Ran, B. A Cooperative Flow Control for Multiple Urban Regions Coupled with an Expressway Network. 104 st Annual Meeting of the Transportation Research Board, Washington.
+23. Bai, Y., Huang, R., & **Shi, H.**\* (2026). DyScene—Enhancing Physical Realism: A Physics-Informed Graph Convolutional Network for Multimodal Stochastic Bicycle Trajectories Prediction. *105th Annual Meeting of the Transportation Research Board (TRB 2026)*, Washington, D.C.
 
-25. Long, K., **Shi, H**\*, Sheng Z., Li, X\*., Chen, S. ASCE International Conference on Transportation and Development 2024.
+24. Liang, S., Ma, C., Li, P., **Shi, H.**, Liu, J., & Li, X. (2026). Real-Time Lane-Level Crash Detection on Freeways Using Sparse Telematics Data. *105th Annual Meeting of the Transportation Research Board (TRB 2026)*, Washington, D.C.
 
-26. **Shi, H**, Dong, S., Wu, Y., Li, S., Zhou, Y., Ran, B. (2024). Generative Adversarial Network for Car Following Trajectory Generation and Anomaly Detection. Presented at 103 st Annual Meeting of the Transportation Research Board, Washington. (Poster).
+25. Xie, C., Zheng, Y., Li, S., Bai, L., **Shi, H.**, & Ran, B. (2025). A Physics-Informed Neural Network for Lane-Changing Trajectory Reconstruction from Noisy and Sparse Observations. *29th International Conference of the Hong Kong Society for Transportation Studies (HKSTS 2025)*.
 
-27. Wu K., Zhou Y., **Shi, H**\*., Li X., Ran B. (2024). Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks. Presented at 103 st Annual Meeting of the Transportation Research Board, Washington. (Poster).
+26. **Shi, H.** (2025). Construction Technology of Virtual–Real Fusion Testing Platform for Autonomous Driving. *RISE Week 2025: Co-Creating Resilient Urban Futures*. (Presentation)
 
-28. Long K., Sheng Z., **Shi, H**\*., Li X\*., Chen S., Ahn S. (2024). A Physics Enhanced Residual Learning (PERL) Framework for Vehicle Trajectory Prediction. Presented at 103 st Annual Meeting of the Transportation Research Board, Washington. (Poster).
+27. Ma, C., Zhou, H., Zhang, P., Ma, K., **Shi, H.**, & Li, X. (2025). Safety Assurance Adaptive Control in Automated Vehicles: A Case Study on Modular Vehicles. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-29. Long K., **Shi, H**\*., Chen Z., Liang Z., Li X\*., Souza F. (2024). Bi-scale Car-following Model Calibration for Corridor Based on Trajectory. Presented at 103 st Annual Meeting of the Transportation Research Board, Washington. (Poster).
+28. Zhang, P., Zhou, H., Huang, H., **Shi, H.**, Long, K., & Li, X. (2025). Online Adaptive Platoon Control for Connected and Automated Vehicles via Physical Enhanced Residual Learning. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-30. Ma K., Li X., **Shi, H**, Ma C., Huang Z., Ghiasi A., Wang Q., Hourdos J., McHale G. A Novel Non-linear Car-following Model for Automated Vehicle: Development, Calibration, and Validation. Presented at 103 st Annual Meeting of the Transportation Research Board, Washington. (Poster).
+29. You, J., **Shi, H.**\*, Wu, K., Long, K., Fu, S., Chen, S.\*, & Ran, B. (2025). Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-31. **Shi, H**. (2023). Mixed Platoon Control Strategy of Connected Automated Vehicles based on Physics-informed Deep Reinforcement Learning. INFORMS 2023. (Panel Speaker).
+30. Ma, K., Zhou, H., Zhang, Y., **Shi, H.**, Ma, C., Li, Z., Zhang, P., Liang, Z., & Li, X. (2025). Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-32. **Shi, H**. (2023). Mixed Platoon Control Strategy of Connected and Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. Young Faculty & Practitioner Workshop. ASCE International Conference on Transportation and Development 2023. 2438399. (Panel Speaker).
+31. Long, K., **Shi, H.**, Zhou, Y., & Li, X. (2025). Physics Enhanced Residual Policy Learning (PERPL) for Safety Cruising in Mixed Traffic Platooning under Actuator and Communication Delay. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-33. Chen T., **Shi, H**\*, Parker, S. T., Vorhes, G., & Noyce, D. A. (2023). Conceptual Development for a Generalized Tribal Crash Safety Dashboard. ASCE International Conference on Transportation and Development 2023. 2252954. (Poster).
+32. Long, K., **Shi, H.**, Liu, J., & Li, X. (2025). VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-34. Chen T., **Shi, H**\*, Parker, S. T., Vorhes, G., & Noyce, D. A. (2023). Conceptual Development for a Generalized Tribal Crash Safety Dashboard. 102 st Annual Meeting of the Transportation Research Board, Washington, D.C., 2023. TRBAM-23-02333. (Podium).
+33. Ma, K., Zhou, H., **Shi, H.**, Ma, C., & Li, X. (2025). Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-35. **Shi, H**, Chen, D., Zheng, N., Wang, X., Zhou, Y., & Ran, B. (2023). Distributed Connected Automated Vehicles Control under Real-time Aggregated Macroscopic Car-following Behavior Estimation based on Deep Reinforcement Learning. 102 st Annual Meeting of the Transportation Research Board, Washington, D.C., 2023. TRBAM-23-02403. (Poster).
+34. Gan, R., **Shi, H.**\*, Li, P., Wu, K., An, B., Li, L., Ma, J., Ma, C., & Ran, B. (2025). Goal-Based Neural Physics Vehicle Trajectory Prediction Model. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-36. Chen T., **Shi, H**\*, Vorhes G., Parker, S. T., Noyce, D. A. Tribal Crash Reporting System Improvements in Wisconsin. Presented at 101 st Annual Meeting of the Transportation Research Board, Washington, D.C., 2022. TRBAM-22-02539. (Podium).
+35. You, J., **Shi, H.**\*, Jiang, Z., Huang, Z., Gan, R., Wu, K., Cheng, X., Li, X., & Ran, B. (2025). V2X-VLM: End-to-End V2X Cooperative Autonomous Driving through Large Vision-Language Models. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-37. **Shi, H**, Nie, Q., Fu, S., Wang, X., Zhou, Y., & Ran, B. A Distributed Deep Reinforcement Learning Based Integrated Dynamic Bus Control System in a Connected Environment. Presented at 101 st Annual Meeting of the Transportation Research Board, Washington, D.C., 2022. TRBAM-22-00882. (Poster).
+36. Huo, J., Liang, Z., **Shi, H.**\*, Ma, K., Li, X., & Liu, Z. (2025). Vehicle Trajectory Tracking on Snowy Roads: A Model Predictive Control Method. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-38. Chen, T., **Shi, H**, Vorhes, G., Parker, S. T., & Noyce, D. A. Data and System Architecture Improvements for Statewide Crash Mapping and Analysis. Presented at 99 th Annual Meeting of the Transportation Research Board, Washington, D.C., 2020. 20-05109. (Poster).
+37. Wu, K., **Shi, H.**\*, Zhou, Y.\*, & Ran, B. (2025). Hypergraph-Based Motion Generation and Planning with Multi-Modal Interaction Relational Reasoning. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-39. **Shi, H**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. Connected automated vehicle cooperative control with a deep reinforcement learning approach in a mixed traffic environment. ASCE T&DI Technical Committee on Artificial Intelligence Student Competition. 2021. (Top 10 in Competition).
+38. Long, K., Liang, Z., **Shi, H.**, Shi, L., Chen, S., & Li, X. (2025). Traffic Oscillations Mitigation with Physics Enhanced Residual Learning (PERL)-Based Predictive Control. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-40. Wang, J., Zhao, Y., **Shi, H**\*, & Sun, J. Optimizing Takeover Request Strategies in Automated Driving: A Behavioral Stage–Based Cognitive Process Modeling Approach. 2026 IEEE Intelligent Vehicles Symposium. (Oral Presentation-8% of the accepted papers)
+39. Li, Z., Bao, Z., Meng, H., **Shi, H.**\*, Li, Q., Yao, H., & Li, X. (2025). Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-41. You, J., **Shi, H**\* et al. FollowGen: A scaled noise conditional diffusion model for car-following trajectory prediction. The 15th Asia-Pacific Conference on Transportation and the Environment. 
+40. Tian, K.‡, **Shi, H.**‡, Zhou, Y., & Li, S. (2025). Physically Analyzable AI-Based Nonlinear Platoon Dynamics Modeling during Traffic Oscillation: A Koopman Approach. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-42. Huang, R., Bai Y., **Shi, H**\*. (2026). Graph Model-driven Causal Inference for Non-motorized Vehicle Behavior. IEEE Intelligent Transportation Systems Conference (ITSC) 2026. (Oral Presentation)
+41. Di, Y., **Shi, H.**\*, Zhang, W., Ding, H., Zheng, X., & Ran, B. (2025). Cooperative Route Guidance and Flow Control for Mixed Road Networks Comprising Expressway and Arterial Network. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-43. **Shi, H**\*. End-to-end V2X cooperative autonomous driving method for safety and long-tail generalization. 2026 China Intelligent New Energy Vehicles and Smart Transportation Young Scholars Forum (Auto-E) Conference. (Invited Oral Presentation)
+42. Di, Y., Zhang, W., **Shi, H.**\*, Ding, H., Huo, J., & Ran, B. (2025). The Expressway Network Design Problem for Multiple Urban Subregions Based on the Macroscopic Fundamental Diagram. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-44. **Shi, H**\*. The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation) 
+43. Di, Y., Zhang, W., You, J., **Shi, H.**\*, Li, H., Ding, H., & Ran, B. (2025). A Cooperative Flow Control for Multiple Urban Regions Coupled with an Expressway Network. *104th Annual Meeting of the Transportation Research Board (TRB 2025)*, Washington, D.C.
 
-45.  Li, S., Ni, Y., **Shi, H**\*, Sun, J & Sun, J. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing. European Conference on Computer Vision (ECCV) 2026.
+44. Zhou, H., Huang, H.\*, Zhang, P., **Shi, H.**\*, Long, K., & Li, X.\* (2024). Online Physical Enhanced Residual Learning for Connected Autonomous Vehicles Platoon Centralized Control. *IEEE Intelligent Vehicles Symposium (IV 2024)*. arXiv:2402.11468.
 
-46.  He et al. A Multi-Strategy Cooperative Control Decision Generation Framework for Non-Recurrent Traffic. CVCI 2026.
+45. Long, K., **Shi, H.**\*, Sheng, Z., Li, X.\*, & Chen, S. (2024). A Physics Enhanced Residual Learning (PERL) Framework for Vehicle Trajectory Prediction. *ASCE International Conference on Transportation and Development (ICTD 2024)*. (Conference Presentation)
 
-47.  Ding S., Luo X., Wang, J., **Shi, H**\*. Macroscopic–Microscopic Cooperative Control for Disturbance Suppression in Mixed Traffic Flow under Non-Recurrent Traffic Incidents. Transportation Research Board (TRB) Annual Meeting 2027.
+46. **Shi, H.**, Dong, S., Wu, Y., Li, S., Zhou, Y., & Ran, B. (2024). Generative Adversarial Network for Car Following Trajectory Generation and Anomaly Detection. *103rd Annual Meeting of the Transportation Research Board (TRB 2024)*, Washington, D.C. (Poster)
 
-48.  Cao Y., Li S., Zhao Y., Wang C., Zhou H., **Shi, H**\*. Scene2Flow: Evaluating End-to-End Autonomous Driving Beyond the Ego Vehicle. Transportation Research Board (TRB) Annual Meeting 2027.
+47. Wu, K., Zhou, Y., **Shi, H.**\*, Li, X., & Ran, B. (2024). Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks. *103rd Annual Meeting of the Transportation Research Board (TRB 2024)*, Washington, D.C. (Poster)
 
-49.  Wang J., Zhao Y., Sun J., **Shi, H**\*. Recovering Driver Attention to High-Risk Traffic Actors During Automated-Driving Takeovers Under Ocular Degradation. Transportation Research Board (TRB) Annual Meeting 2027.
+48. Long, K., Sheng, Z., **Shi, H.**\*, Li, X.\*, Chen, S., & Ahn, S. (2024). A Physics Enhanced Residual Learning (PERL) Framework for Vehicle Trajectory Prediction. *103rd Annual Meeting of the Transportation Research Board (TRB 2024)*, Washington, D.C. (Poster)
 
-50.  Sun B., Li Q., Ni Y., **Shi, H**\*. Clustering and Characterization of Heterogeneous Pedestrian Crossing Behavior in Explicit--Implicit Interaction with AVs: A Measure--Analysis--Pattern Framework. Transportation Research Board (TRB) Annual Meeting 2027.
+49. Long, K., **Shi, H.**\*, Chen, Z., Liang, Z., Li, X.\*, & de Souza, F. (2024). Bi-Scale Car-Following Model Calibration for Corridor Based on Trajectory. *103rd Annual Meeting of the Transportation Research Board (TRB 2024)*, Washington, D.C. (Poster)
 
-51.  Wang Y., **Shi, H**\*. SIFNet: Selective Interaction Forecasting Network for Vehicle Motion Prediction in Highly Interactive Urban Driving Scenarios. Transportation Research Board (TRB) Annual Meeting 2027.
+50. Ma, K., Li, X., **Shi, H.**, Ma, C., Huang, Z., Ghiasi, A., Wang, Q., Hourdos, J., & McHale, G. (2024). A Novel Non-Linear Car-Following Model for Automated Vehicle: Development, Calibration, and Validation. *103rd Annual Meeting of the Transportation Research Board (TRB 2024)*, Washington, D.C. (Poster)
 
-52.  Li S., Zhao Y., Cao Y., Ni Y., **Shi, H**\*. EchoSplat: Self-Improving Camera-LiDAR Neural Simulation for Autonomous Driving Testing. Transportation Research Board (TRB) Annual Meeting 2027.
+51. **Shi, H.** (2023). Mixed Platoon Control Strategy of Connected Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. *INFORMS Annual Meeting 2023*. (Panel Speaker)
 
-53.  Xu J., Xu C., Peng B., Zhao Y., **Shi, H**\*. LLM-MAC: Large Language Model-Orchestrated Multi-Agent Control for Non-Recurrent Traffic Management. Transportation Research Board (TRB) Annual Meeting 2027.
+52. **Shi, H.** (2023). Mixed Platoon Control Strategy of Connected and Automated Vehicles Based on Physics-Informed Deep Reinforcement Learning. *Young Faculty & Practitioner Workshop, ASCE International Conference on Transportation and Development (ICTD 2023)*. (Panel Speaker; Presentation ID: 2438399)
 
-54.  Xie A., Zhao Y., **Shi, H**\*. RiskStage-3D: Scalable Generation of 3D Safety-Critical Scenarios for End-to-End Autonomous Driving Models via Semantic Feed-Forward Gaussian Splatting. Transportation Research Board (TRB) Annual Meeting 2027.
+53. Chen, T., **Shi, H.**\*, Parker, S. T., Vorhes, G., & Noyce, D. A. (2023). Conceptual Development for a Generalized Tribal Crash Safety Dashboard. *ASCE International Conference on Transportation and Development (ICTD 2023)*. (Poster; Presentation ID: 2252954)
 
-55.  Li Q., Tang T., Sun B., **Shi, H**\*. Traffic-Regulation-Grounded Motion Planning with Vision-Language Models for Autonomous Driving. Transportation Research Board (TRB) Annual Meeting 2027.
+54. Chen, T., **Shi, H.**\*, Parker, S. T., Vorhes, G., & Noyce, D. A. (2023). Conceptual Development for a Generalized Tribal Crash Safety Dashboard. *102nd Annual Meeting of the Transportation Research Board (TRB 2023)*, Washington, D.C. (Podium; TRBAM-23-02333)
 
-56.  Xie A., **Shi, H**\*. RiskMatrix-3D: Dual-Risk Controllable Closed-Loop Testing for End-to-End Autonomous Driving Based on 3D Gaussian Splatting. Transportation Research Board (TRB) Annual Meeting 2027.
+55. **Shi, H.**, Chen, D., Zheng, N., Wang, X., Zhou, Y., & Ran, B. (2023). Distributed Connected Automated Vehicles Control under Real-Time Aggregated Macroscopic Car-Following Behavior Estimation Based on Deep Reinforcement Learning. *102nd Annual Meeting of the Transportation Research Board (TRB 2023)*, Washington, D.C. (Poster; TRBAM-23-02403)
 
-57.  Zhao Y., Wang J., Li S., Cao Y., Ni Y., **Shi, H.**. Allocating Offline Driving Logs for Closed-Loop Automated-Driving Performance: Sparse Target Feedback across Scenario Families. Transportation Research Board (TRB) Annual Meeting 2027.
+56. Chen, T., **Shi, H.**\*, Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). How to Collect Tribal Crash Data Properly? Experience from a New Wisconsin Crash Reporting System. *International Conference on Transportation and Development 2022*, pp. 48–60. (Conference Proceedings; DOI: 10.1061/9780784484333.005)
 
-58.  Zhao Y., Wang J., Xu J.,  Ni Y., **Shi, H.**. Evaluating the Trustworthiness of Vision–Language Reasoning for Vulnerable Road User Interactions: A Difficulty-Stratified Study. Transportation Research Board (TRB) Annual Meeting 2027.
+57. Chen, T., **Shi, H.**\*, Vorhes, G., Parker, S. T., & Noyce, D. A. (2022). Tribal Crash Reporting System Improvements in Wisconsin. *101st Annual Meeting of the Transportation Research Board (TRB 2022)*, Washington, D.C. (Podium; TRBAM-22-02539)
 
-59.  Zhao Y., Wang J., Li Y., Xie A., Ni Y., **Shi, H.**. Reallocating Closed-Loop Training Exposure for Pre-Crash Safety: Risk Staging and Corrective Replay. Transportation Research Board (TRB) Annual Meeting 2027.
+58. **Shi, H.**, Nie, Q., Fu, S., Wang, X., Zhou, Y., & Ran, B. (2022). A Distributed Deep Reinforcement Learning Based Integrated Dynamic Bus Control System in a Connected Environment. *101st Annual Meeting of the Transportation Research Board (TRB 2022)*, Washington, D.C. (Poster; TRBAM-22-00882)
 
-60.  **Shi, H**. OnSite Autonomous Driving Public Testing Service Platform. The 7th Workshop on Intelligent Transportation Systems between Tongji University and The University of Tokyo 2026. 
- 
+59. **Shi, H.**, Zhou, Y., Wu, K., Wang, X., Lin, Y., & Ran, B. (2021). Connected Automated Vehicle Cooperative Control with a Deep Reinforcement Learning Approach in a Mixed Traffic Environment. *ASCE Transportation & Development Institute Technical Committee on Artificial Intelligence Student Competition*. (Top 10 in Competition)
+
+60. Chen, T., **Shi, H.**, Vorhes, G., Parker, S. T., & Noyce, D. A. (2020). Data and System Architecture Improvements for Statewide Crash Mapping and Analysis. *99th Annual Meeting of the Transportation Research Board (TRB 2020)*, Washington, D.C. (Poster; Paper No. 20-05109)
 
 ## Granted Invention Patents <br>
 1. Ran B., Cheng Y., Chen T., Yao Y., Wu K., **Shi H**, Li S., Shi K, Zhang Z., Ding F., Tan H., Wu Y., Dong S., Ye L., Li X. Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network: U.S. Patent Application 17/840,249 [P].
