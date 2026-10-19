@@ -27,20 +27,20 @@ author_profile: true
 - **Rong Huang** (Fall 2023 - Present, Co-advised with Prof. Yu Bai)  
   *Research Area: Non-Motorized Vehicle Interaction Behavior Modeling*
 
-- **Xucheng Luo** (Fall 2026 - Present)  
+- [**Xucheng Luo**](https://tops.tongji.edu.cn/info/1241/2750.htm) (Fall 2026 - Present)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
-- **Shangxuan Ding** (Fall 2026 - Present)  
+- [**Shangxuan Ding**](https://tops.tongji.edu.cn/info/1241/2736.htm) (Fall 2026 - Present)  
   *Research Area: Connected Automated Transportation Systems Control and Optimization*
   
-- **Qingyu Li** (Fall 2026 - Present, Co-advised with Prof. Jian Sun)  
+- [**Qingyu Li**](https://tops.tongji.edu.cn/info/1241/2747.htm) (Fall 2026 - Present, Co-advised with Prof. Jian Sun and Prof. Guoyang Qin)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Control*
   
 ## Master Students <br>
-- **Yuechao Wang** (Fall 2026 - Present)  
+- [**Yuechao Wang**](https://tops.tongji.edu.cn/info/1242/2738.htm) (Fall 2026 - Present)  
   *Research Area: Driving Behavior Modeling & Prediction*
   
-- **Yuanbiao Cao** (Fall 2026 - Present)  
+- [**Yuanbiao Cao**](https://tops.tongji.edu.cn/info/1242/2735.htm) (Fall 2026 - Present)  
   *Research Area: End-to-End Autonomous Driving Testing & Evaluation*
 
 ## Incoming Graduate Students <br>
