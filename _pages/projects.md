@@ -22,6 +22,7 @@ author_profile: true
 - Technical Collaboration Project on Hierarchical Vehicle–Infrastructure Cooperative Optimization Based on Model Predictive Control, Huawei (2026–2027)
 - Development and Validation of a Virtual Subjective Evaluation System for Intelligent Driving, Geely (2026-2027)
 - Flight Crew Fatigue State Monitoring, COMAC (2026-2027)
+- Tongji University–Jida Simulation Collaborative Research Initiative on Simulation AI Foundation Models (2026-2027)
 
 ## Previously Participated Projects <br>
 - Rural Autonomous Vehicle Research Program. US. DOT.
