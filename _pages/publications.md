@@ -12,9 +12,9 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 1. Cui, Y., Fang, S., Zhang, G., **Shi, H.**, Hang, P., Zhang, H., & Sun, J. (2027). V2I-LENC: A vehicle-infrastructure language-enhanced negotiation and cooperation chain for mixed-traffic. *Transportation Research Part C: Emerging Technologies*, 194, 105979.
 
-2. Wang, J., **Shi, H.**, Zhao, Y., Zhao, X., Liang, H., Hang, P., & Sun, J. (2027). Chain-like cognitive processes in human-machine co-driving: Uncovering causal-chain mechanisms of driver takeover failure. *Transportation Research Part C: Emerging Technologies*, 194, 105972.
+2. Zhu, Y., Zhao, X., Liu, Y., **Shi, H.**, Li, Z., & Sun, J. (2027). Why some emergency maneuvers succeed: Interpretable behavior graphs from expert drivers to automated control. Accident Analysis & Prevention, 240, 108798.
 
-3. Zhu, Y., Zhao, X., Liu, Y., **Shi, H.**, Li, Z., & Sun, J. Why Some Emergency Maneuvers Succeed: Interpretable Behavior Graphs from Expert Drivers to Automated Control. Accident Analysis & Prevention. (Accepted)
+3. Wang, J., **Shi, H.**, Zhao, Y., Zhao, X., Liang, H., Hang, P., & Sun, J. (2027). Chain-like cognitive processes in human-machine co-driving: Uncovering causal-chain mechanisms of driver takeover failure. *Transportation Research Part C: Emerging Technologies*, 194, 105972.
 
 4. Wang, J., Zhao, Y., Zhao, X., **Shi, H.**\*, & Sun, J. (2026). Toward driver stage-wise takeover behavior in autonomous driving: A cognitive process modeling approach for adaptive takeover requests design. *Transportation Research Part C: Emerging Technologies*, 105930. (SCI, Q1)
 
