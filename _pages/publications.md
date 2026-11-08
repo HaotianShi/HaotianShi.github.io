@@ -293,6 +293,6 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 32. **Shi, H.**, Wu, Z., Lan, S., Han, Y., Zhang, J., & Liang, X. (2016). Vehicle Shock Absorber Vibration Energy Recovery Device. Chinese Patent Application [CN105226910A].
 
 ## Standard Guidelines <br>
-1.	Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems (车路协同自动驾驶系统版本建设指南).
+1.	China Highway and Transportation Society (CHTS). (2021). Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems. [In Chinese]. (车路协同自动驾驶系统版本建设指南)
 
-2.	Study Report on Technical Development Roadmaps for Collaborative Automated Driving (车路协同自动驾驶技术发展路线图研究报告).
+2.	China Highway and Transportation Society (CHTS). (2021). Study Report on Technical Development Roadmaps for Collaborative Automated Driving (Version 1.0). [In Chinese]. (车路协同自动驾驶技术发展路线图研究报告)
