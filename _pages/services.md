@@ -11,6 +11,7 @@ author_profile: true
 - Lead Guest Editor - Journal of *Electronics* (Q1), Special Issue “Advanced Control Technologies for Next‑Generation Autonomous Vehicles”
 - Guest Editor - Journal of *Expert Systems* (Q2), Special Issue "Safe and Trustworthy Autonomous Systems in Real-World Environments"
 - Guest Editor - the Special Issue on “Key Technologies for Autonomous Driving Evaluation,” China Journal of Highway and Transport
+- Area Editor - Connected, Cooperative, and Automated Transportation, The 27th COTA International Conference of Transportation Professionals (CICTP 2027)
 - Workshop Organizer & Host - IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026 Workshop, Topic: [Designing & Evaluating AI-empowered Human–AV Interaction](https://zxc-tju.github.io/itsc2026-hav-workshop/).
 - Technical Committees - World Transport Convention (WTC) — on Vehicle–Road–Cloud Integrated Traffic Systems, Mobility Services, CAV Policies & Regulations, and Intelligent Highway Applications
 - Program Committee Member - 2024,2025,2026 International Symposium on Intelligent Technology for Future Transportation (ITFT) 
