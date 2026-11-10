@@ -22,6 +22,17 @@ My research lies at the intersection of autonomous driving, intelligent transpor
 
 To support systematic experimentation and real-world evaluation of the research outlined above, our TOPS Lab has established a comprehensive suite of autonomous driving research equipment and platforms. The lab is supported by the Ministry of Education Key Laboratory and the Ministry of Transport Key Laboratory of Trustworthy Testing for Intelligent Driving and Vehicle–Road Systems, both based at Tongji University’s College of Transportation Engineering. Our research platforms include multiple **Level-3 CAVs**, a **driving simulator cluster** for large-scale simulation experiments, a complete set of **human factors data acquisition equipment**, a **full-vehicle-in-the-loop human–machine interaction platform**, a **virtual–real integrated autonomous driving testing platform**, an **autonomous driving domain-controller-in-the-loop platform**, a **Cave Automatic Virtual Environment ([CAVE](https://arxiv.org/abs/2609.29686))-based immersive human-in-the-loop experimental platform**, and an **intelligent connected transportation proving ground at Tongji**, collectively enabling systematic validation from algorithm development to real-world deployment. In addition, our TOPS lab has established the [OnSite](https://www.onsite.com.cn/#/dist/home) public autonomous driving testing service platform, providing standardized testing services for autonomous driving algorithms, and organized and hosted three editions of the OnSite Autonomous Driving Algorithm [Challenge](https://www.onsite.com.cn/#/dist/announcement3) to advance fundamental research in autonomous driving.
 
+<figure style="margin: 2rem 0;">
+  <a href="https://haotianshi.github.io/images/platform.png"
+     target="_blank"
+     rel="noopener">
+    <img
+      src="https://haotianshi.github.io/images/platform.png"
+      alt="Autonomous driving research equipment and platforms at TOPS Lab"
+      style="display: block; width: 100%; height: auto;">
+  </a>
+</figure>
+
 ## Major Research Areas <br>
 Over the years, I have investigated the following broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, 3) traffic management, 4) human-machine interaction for autonomous driving, and 5) 3D scene generation and end-to-end AV testing.
 
