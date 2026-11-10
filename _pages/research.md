@@ -10,11 +10,11 @@ sidebar:
 My research lies at the intersection of autonomous driving, intelligent transportation systems, and artificial intelligence, with a focus on understanding and optimizing interactions among humans, vehicles, and transportation infrastructure. My work spans five interconnected areas: (1) interaction-aware driving behavior modeling and prediction; (2) cooperative decision-making and control of connected and automated vehicles (CAVs) in mixed traffic; (3) AI-enabled traffic management; (4) human–machine interaction for autonomous driving; and (5) 3D scene generation and closed-loop testing of end-to-end autonomous driving systems. Methodologically, I integrate physics-based modeling, traffic flow theory, control theory, and optimization with machine learning, foundation models, and world models to develop interpretable and generalizable models and algorithms. A central goal is to connect vehicle-level behavior and decision-making with system-level transportation performance, improving safety, mobility, traffic stability, and energy efficiency. My research combines theoretical analysis with validation through high-fidelity simulation, human-in-the-loop experiments, vehicle-in-the-loop testing, and real-world vehicle experiments.
 
 <figure style="margin: 2rem 0;">
-  <a href="{{ '/images/research-profile-HT.png' | relative_url }}"
+  <a href="{{ '/images/Profile2.png' | relative_url }}"
      target="_blank"
      rel="noopener">
     <img
-      src="{{ '/images/research-profile-HT.png' | relative_url }}"
+      src="{{ '/images/Profile2.png' | relative_url }}"
       alt="Research overview: driving behavior modeling and prediction, cooperative decision-making and control, AI-enabled traffic management, human–machine interaction, and 3D scene generation and closed-loop testing."
       width="1800"
       height="1320"
