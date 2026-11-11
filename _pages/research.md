@@ -34,8 +34,6 @@ To support systematic experimentation and real-world evaluation of the research 
 </figure>
 
 ## Major Research Areas <br>
-Over the years, I have investigated the following broad areas of research: 1) interactive driving behavior modeling and prediction, 2) optimal control of connected and automated vehicles (CAV) in mixed traffic environments, 3) traffic management, 4) human-machine interaction for autonomous driving, and 5) 3D scene generation and end-to-end AV testing.
-
 <!-- ===== Tabs: CSS + HTML + JS 仅在本页生效 ===== -->
 <style>
 /* ===== Tabs 配色与可访问性增强（无内容边框） ===== */
