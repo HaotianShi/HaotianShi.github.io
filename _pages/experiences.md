@@ -154,7 +154,7 @@ Civil &amp; Environmental Engineering, University of Wisconsin–Madison · Sep 
 <img class="academic-logo" src="/images/tianjin.svg" alt="Tianjin University logo" width="64" height="64">
 <div class="academic-entry-text">
 <strong>Research Assistant</strong><br>
-National Key Laboratory of Engines</a>, Tianjin University · Jan 2017 – Dec 2018<br>
+National Key Laboratory of Engines, Tianjin University · Jan 2017 – Dec 2018<br>
 (Advised by Prof. <a href="https://me.tju.edu.cn/info/2080/41971.htm">Tao Chen</a>)
 </div>
 </div>
