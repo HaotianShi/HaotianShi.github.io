@@ -228,7 +228,7 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 ## Granted Invention Patents <br>
 
-1. Ran, B., Mao, P., Lu, W., Yi, Z., Li, L., Cheng, Y., Zheng, Y., Wu, K., Xu, L., Chen, T., & **Shi, H.**., Wu, K. (2026). Cloud-Based Function Allocation System for Distributed Driving Intelligence. U.S. Patent [US 12,780,238 B2].
+1. Ran, B., Mao, P., Lu, W., Yi, Z., Li, L., Cheng, Y., Zheng, Y., Wu, K., Xu, L., Chen, T., & **Shi, H.**, Wu, K. (2026). Cloud-Based Function Allocation System for Distributed Driving Intelligence. U.S. Patent [US 12,780,238 B2].
 
 2. Ni, Y., Li, S., **Shi, H.**, & Sun, J. (2026). Three-Dimensional Gaussian Scene Simulation Method and System for End-to-End Autonomous Driving Testing. Chinese Patent [CN122473353B].
 
