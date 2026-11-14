@@ -284,15 +284,15 @@ You can also find my latest publications on my [Google Scholar](https://scholar.
 
 28. **Shi, H.**, & Liang, X. (2019). AMT Clutch Friction Plate Rapid Wear Test System and Method. Chinese Invention Patent [CN105606362B].
 
-29. **Shi, H.**, Wu, Z., Zhang, J., Han, Y., Lan, S., & Liang, X. (2016). AMT Clutch Plate Rapid Wear Testing System. Chinese Utility Model Patent [CN205449493U].
+29. **Shi, H.**, Wu, Z., Zhang, J., Han, Y., Lan, S., & Liang, X. (2016). AMT Clutch Plate Rapid Wear Testing System. Chinese Utility Model Patent [CN205449493].
 
-30. **Shi, H.**, Wu, Z., Han, Y., Lan, S., Zhang, J., & Liang, X. (2016). Vehicle Shock Absorber Vibration Energy Recovery Unit. Chinese Utility Model Patent [CN205123547U].
+30. **Shi, H.**, Wu, Z., Han, Y., Lan, S., Zhang, J., & Liang, X. (2016). Vehicle Shock Absorber Vibration Energy Recovery Unit. Chinese Utility Model Patent [CN205123547].
 
-31. **Shi, H.**, Wu, Z., Lan, S., Zhang, J., Han, Y., & Liang, X. (2016). Automobile Suspension System Vibration Energy Recovery Unit. Chinese Utility Model Patent [CN205112909U].
+31. **Shi, H.**, Wu, Z., Lan, S., Zhang, J., Han, Y., & Liang, X. (2016). Automobile Suspension System Vibration Energy Recovery Unit. Chinese Utility Model Patent [CN205112909].
 
-32. **Shi, H.**, Wu, Z., Han, Y., Zhang, J., Lan, S., & Liang, X. (2016). Automobile Suspension System Vibration Energy Recovery Device. Chinese Patent Application [CN105252987A].
+32. **Shi, H.**, Wu, Z., Han, Y., Zhang, J., Lan, S., & Liang, X. (2016). Automobile Suspension System Vibration Energy Recovery Device. Chinese Patent Application [CN105252987B].
 
-33. **Shi, H.**, Wu, Z., Lan, S., Han, Y., Zhang, J., & Liang, X. (2016). Vehicle Shock Absorber Vibration Energy Recovery Device. Chinese Patent Application [CN105226910A].
+33. **Shi, H.**, Wu, Z., Lan, S., Han, Y., Zhang, J., & Liang, X. (2016). Vehicle Shock Absorber Vibration Energy Recovery Device. Chinese Patent Application [CN105226910B].
 
 ## Standard Guidelines <br>
 1.	China Highway and Transportation Society (CHTS). (2021). Guideline for the Development of Five Versions of Collaborative Automated Driving (CAD) Systems. [In Chinese]. (车路协同自动驾驶系统版本建设指南)
