@@ -23,7 +23,7 @@ author_profile: true
 - Senior Member - China Highway & Transportation Society (CHTS)
 
 ## Review Services <br>
-Reviewer for 50 + international journals and conferences, including *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Knowledge and Data Engineering*, *ICLR*, *AAAI*, among others.
+Reviewer for 50 + international journals and conferences, including *Transportation Research Part A/B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Knowledge and Data Engineering*, *ICLR*, *AAAI*, among others.
 
 ## Proposal Writing Experiences During Postdoctoral Period <br>
 - Rural Autonomous Vehicle Research Program — U.S. DOT · USD 15 M · *Awarded* (Lead to write the proposal)  
