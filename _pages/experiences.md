@@ -5,51 +5,173 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Education <br>
-- **Ph.D. in Civil and Environmental Engineering (Transportation Engineering)**  
-  University of Wisconsin–Madison · Jun 2020 – May 2023 <br>
-  (Supervised by Prof. [Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/))   
+<style>
+  .academic-background .academic-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
 
-- **M.S. in Computer Science**  
-  University of Wisconsin–Madison · Jun 2020 – May 2022  
+  .academic-background .academic-entry {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 18px;
+    align-items: start;
+    margin: 0 0 24px;
+    padding: 0;
+  }
 
-- **M.S. in Transportation Engineering**  
-  University of Wisconsin–Madison · Jan 2019 – May 2020  
+  .academic-background .academic-logo {
+    display: block;
+    width: 64px;
+    height: 64px;
+    max-width: 100%;
+    margin: 3px 0 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    object-fit: contain;
+  }
 
-- **M.S. in Power Machinery & Engineering**  
-  Tianjin University · Sep 2017 – Jun 2020 <br>
-  (Supervised by Prof. [Hua Zhao](https://www.brunel.ac.uk/people/hua-zhao) and Prof. [Hui Xie](https://me.tju.edu.cn/info/2080/43171.htm))   
+  .academic-background .academic-entry-text {
+    min-width: 0;
+    overflow-wrap: break-word;
+  }
 
-- **B.S. in Computer Science & Technology**  
-  Tianjin University · Sep 2013 – Jun 2017  
+  @media (max-width: 600px) {
+    .academic-background .academic-entry {
+      grid-template-columns: 48px minmax(0, 1fr);
+      gap: 12px;
+    }
 
-- **B.S. in Energy & Power Engineering**  
-  Tianjin University · Sep 2013 – Jun 2017 <br>
-  (Advised by Prof. [Xingyu Liang](https://me.tju.edu.cn/info/2080/42501.htm))
+    .academic-background .academic-logo {
+      width: 48px;
+      height: 48px;
+    }
+  }
+</style>
 
-## Professional Experience <br>
-- **Tenured Associate Professor**  
-  Tongji University, College of Transportation · April 2025 – Present <br>
-  (Cowork with Prof. [Jian Sun](https://scholar.google.com/citations?user=dXaFOeYAAAAJ&hl=zh-CN) at TOPS)
+<div class="academic-background">
 
-- **Research Associate**  
-  Connected & Autonomous Transportation Systems Laboratory ([CATS](https://catslab.engr.wisc.edu/)), University of Wisconsin–Madison · May 2023 – March 2025 <br>
-  (Worked with Prof. [Xiaopeng (Shaw) Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/))
+  <h2>Education</h2>
 
-- **Co‑Instructor**  
-  University of Wisconsin–Madison · Sep 2024 – Dec 2024  
+  <ul class="academic-list" role="list">
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Ph.D. in Civil and Environmental Engineering (Transportation Engineering)</strong><br>
+        University of Wisconsin–Madison · Jun 2020 – May 2023<br>
+        (Supervised by Prof. <a href="https://engineering.wisc.edu/directory/profile/bin-ran/">Bin Ran</a>)
+      </div>
+    </li>
 
-- **Research Assistant**  
-  Connected Automated Vehicle Highway Research Group ([CAVH](https://cavh.cee.wisc.edu/)), University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
-  (Collaborated with Prof. [Yang Zhou](https://engineering.tamu.edu/civil/profiles/zhou-yang.html))
-  
-- **Project Assistant**  
-  Wisconsin Traffic Operations and Safety ([TOPS](https://topslab.wisc.edu/)) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023 <br>
-  (Worked with Dr. [Steven Parker](https://topslab.wisc.edu/about/people/steven-parker/))
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>M.S. in Computer Science</strong><br>
+        University of Wisconsin–Madison · Jun 2020 – May 2022
+      </div>
+    </li>
 
-- **Teaching Assistant**  
-  Civil & Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021  
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>M.S. in Transportation Engineering</strong><br>
+        University of Wisconsin–Madison · Jan 2019 – May 2020
+      </div>
+    </li>
 
-- **Research Assistant**  
-  [National Key Laboratory of Engines](https://en.tju.edu.cn/info/1035/1375.htm), Tianjin University · Jan 2017 – Dec 2018 <br>
-  (Advised by Prof. [Tao Chen](https://me.tju.edu.cn/info/2080/41971.htm)）
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/tianjin.svg' | relative_url }}" alt="Tianjin University logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>M.S. in Power Machinery &amp; Engineering</strong><br>
+        Tianjin University · Sep 2017 – Jun 2020<br>
+        (Supervised by Prof. <a href="https://www.brunel.ac.uk/people/hua-zhao">Hua Zhao</a> and Prof. <a href="https://me.tju.edu.cn/info/2080/43171.htm">Hui Xie</a>)
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/tianjin.svg' | relative_url }}" alt="Tianjin University logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>B.S. in Computer Science &amp; Technology</strong><br>
+        Tianjin University · Sep 2013 – Jun 2017
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/tianjin.svg' | relative_url }}" alt="Tianjin University logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>B.S. in Energy &amp; Power Engineering</strong><br>
+        Tianjin University · Sep 2013 – Jun 2017<br>
+        (Advised by Prof. <a href="https://me.tju.edu.cn/info/2080/42501.htm">Xingyu Liang</a>)
+      </div>
+    </li>
+  </ul>
+
+  <h2>Professional Experience</h2>
+
+  <ul class="academic-list" role="list">
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/tongji.png' | relative_url }}" alt="Tongji University logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Tenured Associate Professor</strong><br>
+        Tongji University, College of Transportation · April 2025 – Present<br>
+        (Cowork with Prof. <a href="https://scholar.google.com/citations?user=dXaFOeYAAAAJ&amp;hl=zh-CN">Jian Sun</a> at TOPS)
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Research Associate</strong><br>
+        Connected &amp; Autonomous Transportation Systems Laboratory (<a href="https://catslab.engr.wisc.edu/">CATS</a>), University of Wisconsin–Madison · May 2023 – March 2025<br>
+        (Worked with Prof. <a href="https://engineering.wisc.edu/directory/profile/xiaopeng-li/">Xiaopeng (Shaw) Li</a>)
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Co-Instructor</strong><br>
+        University of Wisconsin–Madison · Sep 2024 – Dec 2024
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Research Assistant</strong><br>
+        Connected Automated Vehicle Highway Research Group (<a href="https://cavh.cee.wisc.edu/">CAVH</a>), University of Wisconsin–Madison · Jan 2019 – March 2023<br>
+        (Collaborated with Prof. <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html">Yang Zhou</a>)
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Project Assistant</strong><br>
+        Wisconsin Traffic Operations and Safety (<a href="https://topslab.wisc.edu/">TOPS</a>) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023<br>
+        (Worked with Dr. <a href="https://topslab.wisc.edu/about/people/steven-parker/">Steven Parker</a>)
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/uw-madison.svg' | relative_url }}" alt="University of Wisconsin–Madison logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Teaching Assistant</strong><br>
+        Civil &amp; Environmental Engineering, University of Wisconsin–Madison · Sep 2020 – May 2021
+      </div>
+    </li>
+
+    <li class="academic-entry">
+      <img class="academic-logo" src="{{ '/images/tianjin.svg' | relative_url }}" alt="Tianjin University logo" width="64" height="64" decoding="async">
+      <div class="academic-entry-text">
+        <strong>Research Assistant</strong><br>
+        <a href="https://en.tju.edu.cn/info/1035/1375.htm">National Key Laboratory of Engines</a>, Tianjin University · Jan 2017 – Dec 2018<br>
+        (Advised by Prof. <a href="https://me.tju.edu.cn/info/2080/41971.htm">Tao Chen</a>)
+      </div>
+    </li>
+  </ul>
+
+</div>
