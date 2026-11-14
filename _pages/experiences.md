@@ -111,7 +111,7 @@ Tongji University, College of Transportation · April 2025 – Present<br>
 <img class="academic-logo" src="/images/uw-madison.svg" alt="University of Wisconsin–Madison logo" width="64" height="64">
 <div class="academic-entry-text">
 <strong>Research Associate</strong><br>
-Connected &amp; Autonomous Transportation Systems Laboratory (<a href="https://catslab.engr.wisc.edu/">CATS</a>), University of Wisconsin–Madison · May 2023 – March 2025<br>
+Connected &amp; Autonomous Transportation Systems Laboratory (CATS), University of Wisconsin–Madison · May 2023 – March 2025<br>
 (Worked with Prof. <a href="https://engineering.wisc.edu/directory/profile/xiaopeng-li/">Xiaopeng (Shaw) Li</a>)
 </div>
 </div>
@@ -128,7 +128,7 @@ University of Wisconsin–Madison · Sep 2024 – Dec 2024
 <img class="academic-logo" src="/images/uw-madison.svg" alt="University of Wisconsin–Madison logo" width="64" height="64">
 <div class="academic-entry-text">
 <strong>Research Assistant</strong><br>
-Connected Automated Vehicle Highway Research Group (<a href="https://cavh.cee.wisc.edu/">CAVH</a>), University of Wisconsin–Madison · Jan 2019 – March 2023<br>
+Connected Automated Vehicle Highway Research Group (CAVH), University of Wisconsin–Madison · Jan 2019 – March 2023<br>
 (Collaborated with Prof. <a href="https://engineering.tamu.edu/civil/profiles/zhou-yang.html">Yang Zhou</a>)
 </div>
 </div>
@@ -137,7 +137,7 @@ Connected Automated Vehicle Highway Research Group (<a href="https://cavh.cee.wi
 <img class="academic-logo" src="/images/uw-madison.svg" alt="University of Wisconsin–Madison logo" width="64" height="64">
 <div class="academic-entry-text">
 <strong>Project Assistant</strong><br>
-Wisconsin Traffic Operations and Safety (<a href="https://topslab.wisc.edu/">TOPS</a>) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023<br>
+Wisconsin Traffic Operations and Safety (TOPS) Lab, University of Wisconsin–Madison · Jan 2019 – March 2023<br>
 (Worked with Dr. <a href="https://topslab.wisc.edu/about/people/steven-parker/">Steven Parker</a>)
 </div>
 </div>
@@ -154,7 +154,7 @@ Civil &amp; Environmental Engineering, University of Wisconsin–Madison · Sep 
 <img class="academic-logo" src="/images/tianjin.svg" alt="Tianjin University logo" width="64" height="64">
 <div class="academic-entry-text">
 <strong>Research Assistant</strong><br>
-<a href="https://en.tju.edu.cn/info/1035/1375.htm">National Key Laboratory of Engines</a>, Tianjin University · Jan 2017 – Dec 2018<br>
+National Key Laboratory of Engines</a>, Tianjin University · Jan 2017 – Dec 2018<br>
 (Advised by Prof. <a href="https://me.tju.edu.cn/info/2080/41971.htm">Tao Chen</a>)
 </div>
 </div>
