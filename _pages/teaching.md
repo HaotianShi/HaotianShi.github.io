@@ -31,6 +31,7 @@ author_profile: true
 - CEE 678 Advanced Traffic Modeling & Computer Simulation
 
 ## Guest Lectures & Invited Talks 
+- CSAE Xingzhi Academy – Youth Academic Frontier Forum 2026. Critical Thinking Forum – Human-Referenced Safety Goals and Validation for Autonomous Driving. Invited Guest.
 - OnSite Autonomous Driving Public Testing Service Platform. The 7th Workshop on Intelligent Transportation Systems between Tongji University and The University of Tokyo 2026. (Invited Oral Presentation)
 - Human–Machine Symbiosis in Automated Driving: Driver Cognitive Perception and Intelligent Interaction. Thematic Seminar on Brain–Computer Interface and Brain Intelligence, Institute of Medical Artificial Intelligence, September 2026.. (Invited Oral Presentation)
 - The 26th COTA International Conference of Transportation Professionals (CICTP 2026). Young Scholars Forum. AI-Empowered Autonomous Driving: Behavior Modeling, Control Optimization, and End-to-End Testing. (Invited Oral Presentation)
