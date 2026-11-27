@@ -27,6 +27,9 @@ author_profile: true
 - **Rong Huang** (Fall 2023 - Present, Co-advised with Prof. Yu Bai)  
   *Research Area: Non-Motorized Vehicle Interaction Behavior Modeling*
 
+- **Zhenghan Zhang** (Fall 2025 - Present, Co-advised with Prof. Xinghua Li)  
+  *Research Area: Smart Transportation and Transportation Data Science*
+
 - [**Xucheng Luo**](https://tops.tongji.edu.cn/info/1241/2750.htm) (Fall 2026 - Present)  
   *Research Area: End-to-End Autonomous Driving Decision-Making & Human-Vehicle Interaction*
   
