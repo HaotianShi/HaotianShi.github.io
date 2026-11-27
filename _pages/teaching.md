@@ -12,7 +12,7 @@ author_profile: true
 - Scientific and Technical Paper Writing - Fall 2026
 - Autonomous Transportation Technologies (in Chinese) - Spring 2026
 - Autonomous Transportation Technologies (in English) - Spring 2026
-- Autonomous Transportation Systems – Course Development Lead, 2027 Shanghai Rapid Response Program for Specialized Talent Development
+- Course Lead, Autonomous Transportation Systems, 2027 Shanghai Rapid Response Program for Specialized Talent Development (Curriculum Development Project)
 
 ## Teaching Support  
 **College of Transportation Engineering, Tongji University**
