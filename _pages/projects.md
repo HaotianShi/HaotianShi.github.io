@@ -23,6 +23,7 @@ author_profile: true
 - Development and Validation of a Virtual Subjective Evaluation System for Intelligent Driving, Geely (2026-2027)
 - Flight Crew Fatigue State Monitoring, COMAC (2026-2027)
 - Tongji University–Jida Simulation Collaborative Research Initiative on Simulation AI Foundation Models (2026-2027)
+- Shanghai Rapid Response Initiative for Specialized Talent Development, Course Lead (2026–2027)
 
 ## Previously Participated Projects <br>
 - Rural Autonomous Vehicle Research Program. US. DOT.
